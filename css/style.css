@@ -160,7 +160,7 @@ nav,nav a,nav a:visited {
 	text-decoration:none;
 }
 nav a:hover, nav a:visited:hover {
-	text-shadow:1px 1px 0 white;
+	text-decoration:underline;
 }
 nav dd, nav dd a {
         font-size:16px;
