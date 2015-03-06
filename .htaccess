@@ -3,6 +3,8 @@ DirectoryIndex index.html
 RewriteCond %{HTTP_HOST} !=test.intraaktion.de
 RewriteRule (.*) http://test.intraaktion.de/$1 [R=301,L]
 
+Redirect 301 /text/action_in_perception.html /text/01_action_in_perception.html
+
 #Prevent viewing of .htaccess file
 <Files .htaccess>
 order allow,deny
