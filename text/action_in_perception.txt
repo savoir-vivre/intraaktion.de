@@ -1,0 +1,327 @@
+: Action in Perception
+
+:: Abstract
+
+Alva Noë zeigt in "Action in Perception", wieso Wahrnehmung nicht etwas sein
+kann, was uns passiert oder in uns passiert. Es ist etwas was wir tun.
+Wahrnehmung ist nicht das Haben von bloß sensorischer Stimulation, sondern von
+sensorischer Stimulation, die wir verstehen. Das Verständnis erlangen wir
+durch aktives Einsetzen des ganzen Körpers.
+Wir erspielen (enact) unser wahrnehmendes Bewusstsein.
+ 
+Was für Kognitions-, Neurowissenschaftler und Geistesphilosophen bereits an
+sich interessant ist, kann aber weitere Fragen aufwerfen. Wie subjektiv ist
+unsere Wahrnehmung? Wie objektiv kann sie überhaupt sein? Wovon wird sie
+beeinflusst? Wie weit kann ich sie beeinflussen? Inwieweit ist sie
+veränderlich? Inwieweit ist sie nun vorgeprägt worden, als ich wahrzunehmen
+lernte - und: welchen Gesamteinfluss hat es, wie ich wahrnehme?
+Oder sogar: verstünde ich die Welt anders, hätte ich anders gelernt
+wahrzunehmen - zu verstehen?
+ 
+Ein Verständnis von etwas haben beinhaltet ganz basal zwischen wahr und falsch
+zu unterscheiden. Ganz einfach. Zwei und zwei machen vier - das ist wahr,
+klar. Die Tasse auf meinem Tisch ist eine Tasse. Wahr, klar. Oder? Gar nicht
+mehr so sehr. Wo Sartre Philosophiestudenten mit scheinbar weltfremden Fragen
+über "das Sein und das Nichts" quält, indem er sagt, dass die Tasse nur Tasse
+ist, wenn wir sie als alles nicht-tassige nichten, kann ein Bogen zu
+Whiteheads "Prozess und Realität" geschlagen werden, in dem in einem Nexus
+zwischen uns und der Tasse das in Realität tritt, was wir die Funktion einer
+Tasse und die Tätigkeit des Trinkens nennen würden und - ob wir wollen oder
+nicht - unser beider weiteres Schicksal auf ewig gegenseitig beeinflusst haben
+werden. Als reiche das nicht, ist von da an auch der Weltennexus nie mehr das,
+was er mal war und wird das ganze Ereignis auch nie mehr vergessen.
+Von hier geht es zurück zu Noë. Denken wir zu simpel? Nicht grundsätzlich, der
+Alltag funktioniert ja (meistens). Meine Tasse funktioniert wie eine Tasse,
+zum Glück. Aber wenn ich sie nicht gerade bloß zum Trinken benutzen will,
+sollte ich es dabei belassen? Oder einen Blick über den Tellerrand wagen, den
+solch theoretische Ideen wie die von Sartre und Whitehead aufwerfen? Sicher
+nicht bei jedem Frühstückskaffee, denn das wäre mühevoll und es funktioniert
+auch ohne. Aber wenn ich an den Kern von etwas will? Aussagen treffen, die die
+Wahrheit von etwas treffen? Wenn es um Dinge geht, die wichtiger und von
+grundlegenderer Art sind, als meine Morgenroutine? Oder wenn der Alltag doch
+nicht mehr funktioniert und dann endlich aus ihm auszubrechen nötig ist, um
+ihn zu beheben. Vielleicht sollten wir zumindest da prüfen, ob die Art, die
+Welt zu beschreiben, zu verstehen und in ihr praktisch zu handeln im Kern das
+trifft, was ihre Wahrheit ist, und wir nicht bloß bei den Arten zu Denken
+hängen geblieben sind, die beim Morgentisch so leicht verdaulich waren, denen
+wir vielleicht genau deshalb so routiniert nachgehen, weil sie unsere
+direkteste Verbindung zur Außenwelt effizient ermöglichen, nämlich unsere
+Wahrnehmung, und die aber deshalb auch so transparent und selbstverständlich
+wirken, dass sie abzulegen ganz bewusste neue Rituale braucht.
+
+
+:: Action in Perception
+
+Noës Buch handelt von Wahrnehmung und Bewusstsein und richtet sich an
+Philosphen und Kognitionswissenschaftler, aber auch an Künstler und "anyone
+else who is interested in the way we manage to make - or fail to make -
+sensory contact with the world around us." Was bringt es also neues? 
+
+
+::: bisherige Wahrnehmungstheorie
+
+Bisher sind zwei Vorstellungen am geläufigsten, um Wahrnehmung zu erklären:
+Das Input-Output-Modell und die Sinnesdaten-Theorie, später ergänzt von der
+Idee der Qualia. 
+ 
+Beim Input-Output-Modell ist Wahrnehmung der Input von der Welt zum "mind",
+Aktionen sind der Output vom "mind" in die Welt und dazwischen vermittelt das
+Denken. Das impliziert, dass dies jeweils voneinander trennbare Geschehnisse
+sind. Wie bei einer Kamera soll das gemachte Photo unabhängig davon sein, wie
+die Kamera nun genau zu dem Ort der Aufnahme gekommen ist, solange sie eben
+dort angekommen ist. 
+Wieso wir davon ausgehen sollten, dass ein Input-Output-Modell bei uns nicht
+zutrifft und wie das Wahrgenommene von den eigenen Aktionen abhängt, später
+mehr. 
+ 
+(Noë ab S. 80) 
+Die Sinnesdaten-Theorie beschreibt atomistische Bausteine der Wahrnehmung, die
+also nicht weiter zerlegbar oder hinterfragbar sind, da sie anscheinend
+schlicht und einfach da sind. Ein Beispiel wäre genau "dieses Rot" einer
+Tomate vor mir, das ich ganz offensichtlich wahrnehme. Diese Bausteine seien
+mental. Damit wären die Gegenstände unserer Wahrnehmung nicht direkt die
+Objekte, die wir in der Wahrnehmung betrachten, sondern die Sinnesdaten, die
+wir von den Objekten erhalten. Denn wer kann schon mit Gewissheit sagen, ob
+die Tomate, die ich vor mit wahrnehme, tatsächlich eine Tomate ist und
+tatsächlich da ist, oder ob ich sie halluziniere? Denkbar wäre so ein Fall, in
+dem ich etwas halluziniere, also tatsächlich wahrnehme, und keinen Unterschied
+ausmachen kann zur Wahrnehmung einer echten Tomate. Also muss es nicht bloß
+etwas geben, was manchmal unsere Wahrnehmung täuschend echt füllt, sondern
+dieses etwas füllt immer unsere Wahrnehmung und stammt meistens von echten
+Objekten und manchmal von Halluzinationen, sonst könnten wir den Unterschied
+sofort ausmachen. Dieses etwas sind die Sinnesdaten, die - in diesem Fall -
+eine Tomate ausmachen: ihre Rotheit, ihre Rundheit und so fort. Diese Position
+wird auch Phänomenalismus genannt und impliziert, dass Wahrnehmung passiv mit
+Inhalten gefüllt wird, die aus den Sinnesdaten bestehen. 
+Schon vor Noë gab es Probleme mit dieser Vorstellung. Das eine ist, dass es
+zwar durchaus sein kann, dass ein Subjekt selber nicht aus der eigenen
+Position des Erfahrenden unterscheiden kann, ob eine Erfahrung wahrheitsgemäß
+ist oder nicht, das aber noch nicht ausschließt, dass es einen Unterschied
+zwischen wahrheits- und unwahrheitsgemäßen Erfahrungen gibt. Eine Person
+könnte beispielsweise keinen Unterschied zwischen einem Song der Rolling
+Stones und Uncle Tupelo erkennen, was nicht heißt, dass es keinen Unterschied
+gibt. Wir müssen dann die Möglichkeit beibehalten, dass es einen Unterschied
+zwischen wahrheits- und unwahrheitsgemäßen Erfahrungen gibt, nämlich genau
+den, dass in einem Fall die Erfahrung von einer tatsächlichen Tomate ausgeht
+und in dem anderen nicht. Im Phänomenalismus geht alle Erfahrung allein von
+Sinnesdaten oder allgemein von inneren mentalen Zuständen aus. 
+Ein anderes Problem ist, dass die Theorie verfehlt zu beschreiben, wie unsere
+Erfahrungen uns die Welt tatsächlich darbieten. Wenn wir eine Tomate
+betrachten, sehen wir nicht unmittelbar ein rotes und ein rundes Sinnesdatum,
+sondern unmittelbar ein ganzheitliches Objekt. 
+Eine andere Idee im Kern der Sinnesdaten-Theorie ist, dass Wahrnehmung
+bedeutet herauszufinden, wie Dinge sind, anhand dessen, wie sie aussehen, sich
+anhören und so fort: "the encounter with how things appear and the encounter
+with how things are", ein zweistufiger Prozess. Stellen wir uns nun aber eine
+Allee vor. Wir sehen zwei lange Reihen von Bäumen, alle gleich groß. Und doch:
+natürlich erscheint ein Baum weiter hinten kleiner in unserem Blickfeld als
+der Baum, der mir am nächsten ist. Wir nehmen den hinteren Baum visuell
+eindeutig kleiner wahr als den vorderen, würden ihm das aber nicht als eigene
+Eigenschaft zurechnen. In unserer Erfahrung bleiben alle Bäume gleich groß,
+auch wenn uns der Unterschied der Größe im Blickfeld auffällt. Wir könnten
+dann feststellen, dass unsere Erfahrung zwei verschiedene grundlegende Arten
+von Eigenschaften hat: die eine repräsentiert die Welt als das, was sie ist.
+Die Bäume sind gleich groß. Die andere ist nicht repräsentativ, sondern ist
+eine Eigenschaft der Erfahrung, wie es ist, diese Erfahrung zu haben, und die
+nicht gleichzeitig von der Erfahrung den Dingen in der Welt zugeschrieben
+wird. Letztere Eigenschaften der Erfahrung werden oft Qualia genannt und
+können auch auf Formen, Farben und so fort zutreffen. Es müsste also neben den
+objektiven Sinnesdaten mindestens noch Qualia geben, die das ausmachen, was
+nicht den Objekten zugeschrieben wird "wie sie sind", sondern ausmachen, wie
+es ist, diese Erfahrung zu haben: "der Baum hat diese Größe, aber ich sehe ihn
+in jener Größe". Qualia wären mentale Zustände und subjektiv. Eine
+wahrheitsgemäße Erfahrung könne einen Baum nicht gleichzeitig gleich groß und
+doch kleiner als die anderen Bäume darstellen. Diese Eigenschaften müssen also
+voneinander getrennt werden.
+ 
+Was aber, wenn in unserer Erfahrung die Bäume gleich groß sind, nicht obwohl,
+sondern genau weil die Bäume einen unterschiedlichen Teil unseres Blickfeldes
+einnehmen? Die Bäume werden als gleich groß repräsentiert, genau dann wenn sie
+entsprechend den Regeln der Zentralprojektion entsprechende unterschiedliche
+perspektivische Größen haben. Und: wenn wir ein Verständnis dafür mitbringen.
+Das muss kein Verständnis sein, das daher rührt, dass wir uns schon einmal
+theoretisch - und auch nicht bewusst praktisch - mit darstellender Geometrie
+beschäftigt haben. Aber dazu später mehr.
+
+
+::: Enactivism
+
+(Noë ab S. 82) 
+Die Eigenschaft, wie groß der Baum ist und wie groß er /in Abhängigkeit von
+dieser Position und seiner Größe/ aussieht, können wir sehr wohl
+unterscheiden, aber als echte objektive Eigenschaften des Baumes und der
+Szene. Tatsächlich sind die Eigenschaften der vorliegenden Szene objektiv und
+tatsächlich Eigenschaften der Szene und nicht subjektive mentale Zustände.
+Dass die Bäume weiter hinten kleiner erscheinen, entspricht mathematisch genau
+den Regeln der Zentralprojektion. Der Baum hat eine eigentliche Größe und eine
+perspektivische Größe in der Szene. Genauso haben Objekte einen eigentlichen
+Umriss und einen perspektivischen Umriss. Allgemein gibt es eigentliche
+Eigenschaften von Objekten und perspektivische Eigenschaften
+(P-Eigenschaften). Diese Eigenschaften sind auch genau so Dinge, die wir
+direkt sehen. Schaue ich nicht genau von oben auf einen runden Tisch, sehe ich
+ihn elliptisch. Ich sehe den P-Umriss des Tisches. Ich sehe diese
+P-Eigenschaft und sehe aber gleichzeitig, dass der Tisch rund ist. Die
+P-Eigenschaften sind reale, objektive Eigenschaften  und nicht abhängig von
+unseren mentalen Zuständen. Sie sind jedoch relational. Sie sind abhängig von
+der Relation zwischen dem wahrgenommenen Objekt und dem Körper des
+Betrachters. Die P-Eigenschaft, die ich sehe, ändert sich mit der Position
+meines Körpers zum Objekt. Je näher ich dem Baum bin, desto größer seine
+P-Größe. Je kleiner mein Winkel zu der Tischplatte, desto elliptischer ihr
+P-Umriss. 
+Die P-Eigenschaften sind real in dem Sinne, dass sie nicht davon abhängig
+sind, was in uns vorgeht oder was wir tun. Sie sind Eigenschaften der
+Umgebung. Dennoch sind sie nur verfügbar für Kreaturen mit der richtigen Art
+von sensomotorischem Apparat. Sie sind verfügbar für uns, weil wir
+sensomotorische Fähigkeiten mit uns bringen. 
+"The invariant structure of reality unfolds in the active exploration of
+appearances." Ich kann mich um einen viereckigen Tisch herumbewegen und den
+sich ändernden perspektivischen trapezoiden Umriss beobachten. Der
+perspektivische Umriss ändert sich mit meiner räumlichen Relation zu dem
+Tisch. In dem Muster, wie er sich verändert, gibt es aber keine Varianz. Das
+eigentliche Verhältnis der vier Winkel und Seiten der Tischfläche bleibt
+(natürlich) gleich und macht die eigentliche Form des Tisches aus. Auch der
+jeweilige P-Umriss, der sich aus einer bestimmten Relation von Tisch und
+Beobachter ergibt, bleibt jeweils gleich. Durch Erkundung, welcher P-Umriss
+bei welcher Relation zwischen mir und dem Tisch zu sehen ist, eröffne ich mir
+die eigentliche Form des Tisches. Die unveränderliche Struktur der
+Wirklichkeit entfaltet sich bei der aktiven Erkundung von Erscheinungen. 
+ 
+Was bedeutet das genau? Wenn das, was wir sehen, perspektivische Eigenschaften
+sind, die sich ständig entsprechend ihrer Relationen ändern, wie kommen wir
+dann zu der Wahrnehmung, wie die Dinge /eigentlich/ sind? Schließlich können
+wir einen Tisch direkt als rechteckig wahrnehmen, ohne ihn von jedem Winkel
+aus betrachtet zu haben und die Tomate eröffnet sich uns direkt als
+dreidimensionale, rote Tomate, ohne dass wir sie berührt und bei jeder
+Lichtvariation angesehen haben. 
+Noës Idee ist der Enaktivismus. Durch unsere eigene Aktion und anhand dessen,
+wie sich dann unsere Erfahrung ändert, lernen wir über die Welt. Schritt für
+Schritt. 
+Ich nehme die Tomate als ganzes wahr und nicht als eine rote, unbestimmte
+Form, weil ich weiß, wie sich das, was ich von ihr sehe, ändert, wenn ich mich
+auf bestimmte Art in Relation zu ihr bewege. Ich weiß und verstehe, dass mir
+die Runde Tischplatte immer runder erscheint, bis ich von oben auf sie herab
+gucke. Eine Wahrnehmung zu haben bedeutet, einen Sinneseindruck zu haben, den
+ich verstehe. Ich besitze einen sensomotorischen Apparat und weiß, wie ich ihn
+einsetze, um meine Sinneseindrücke zu verändern. Erst so fülle ich meine
+perzeptuale Erfahrung mit Inhalten. 
+Wir können alle möglichen P-Eigenschaften, die ein Objekt in Relation mit dem
+Akteur und der Umgebung erzeugen kann, dessen sensomotorisches Profil nennen.
+Dann ist meine Wahrnehmung von dem Objekt reicher, desto mehr ich mit dessen
+sensomotorischen Profil vertraut bin. Wahrnehmung ist dann eben nicht wie im
+Input-Output-Modell der passive Input-Teil. Unser Körper ist zwar fähig,
+visuell durch Licht aus der Umgebung stimuliert zu werden und einen
+Sinneseindruck zu haben, aber dadurch nehmen wir noch nicht wahr. Erst der
+geübte Einsatz unseres Körpers und das Verständnis über die Abhängigkeiten zu
+den Sinneseindrücken, wie sie sich entsprechend Verhalten, machen Wahrnehmung
+aus. Wahrnehmung ist ein aktiver Prozess, der neben der entsprechenden
+sensomotorischen Ausstattung auch Übung und Verständnis erfordert. 
+Durch den probenden Einsatz unseres Apparates und der einhergehenden
+Exposition mit verschiedenen P-Eigenschaften verschiedener Objekte sammeln wir
+Erfahrung über verschiedenste sensomotorische Profile und werden wahre Meister
+im Einsatz unseres Apparates und im Verständnis von den Relationen zwischen
+unseren Aktionen und den sich ändernden Sinneseindrücken. Unsere Wahrnehmung
+erreicht einen Punkt, an dem wir gedankenlos und automatisiert unsere Augen,
+den Kopf und den ganzen Körper bewegen. Wir können problemlos unseren Hals in
+Richtung eines Geräusches drehen, ein Glas Wasser heben und uns ducken oder
+größer machen, um unsere Sicht auf etwas zu verbessern. Wir entwickeln einen
+Sinn für Räumlichkeit, Farben, Lichtspiel. Wir können Dinge blind erfühlen und
+sie dann später am Aussehen erkennen, denn wir haben reichlich Erfahrung
+gesammelt, welches Gefühl und welches Aussehen typisch für welche Oberfläche
+oder Form ist. 
+Wenn wir etwas in unserer Erfahrung nicht sofort komplett erfassen können,
+sind wir durch unsere Übung und Fähigkeiten so schnell und effizient darin,
+uns Zugang zu einem noch fehlenden Eindruck zu erfassen, dass wir es ganz
+intuitiv tun. 
+Ob, was, und wie wir wahrnehmen, ist somit abhängig von unseren eigenen
+sensomotorischen Fähigkeiten. Davon, wie wir sie eingesetzt und Übung darin
+gewonnen haben, und noch weiter einsetzen. Außerdem von unserem Verständnis
+über die Abhängigkeiten zwischen unserer Umgebung und unseren Aktionen.
+ 
+
+::: Thought in Experience
+
+(ab S. 181) 
+Um eine Ballerina beim Spagat zu sehen, also eine Erfahrung davon zu haben
+"wie eine Ballerina einen Spagat macht", setzt voraus zu wissen, was eine
+Ballerina, und was ein Spagat ist. Sonst kann der Inhalt meiner Erfahrung zur
+gleichen Szene auch "Tänzerin, die seltsam hinfällt" sein. Ich muss also ein
+Konzept von Ballerina und Spagat mitbringen, nämlich, dass Ballett von Musik
+begleiteter klassischer künstlerischer Bühnentanz ist und Spagat eine
+Spreizung der Beine, sodass sie eine Linie bilden. So oder in einem mehr oder
+weniger detaillierten Grad. Ist aber jede Art von Wahrnehmungsinhalt auf diese
+Art konzeptual? Das wäre wahrscheinlich eine übermäßige Intellektualisierung
+von Wahrnehmungserfahrung. 
+Außerdem: Wir können keine Konzepte solcher Art von allem haben, was wir
+wahrnehmen. Wir können ein Konzept von Farbwerten haben, aber nicht von jeder
+Schattierung einer Farbe, die wir sehen. Dafür ist Erfahrung zu feinkörnig.
+Wir erfahren die Welt aber trotzdem mit all solchen Eigenschaften. Also muss
+es nonkonzeptuale Inhalte in unserer Wahrnehmung geben und einen Weg, dass
+Erfahrung uns mit Eigenschaften der Welt beliefert, ohne Konzepte von ihnen zu
+haben. 
+Um wahrzunehmen brauchen wir aber sensorische Stimulation, die wir
+/verstehen/. Wichtig dabei ist, dass wir die Stimulation /sensomotorisch/
+verstehen. Mir mag ein Konzept genau dieser Schattierung von Rot in Bezug auf
+Farbentheorie fehlen, aber ich verstehe dieses Rot sensomotorisch, weil ich
+sensomotorisch geübt bin. Diese sensomotorische Übung, so Noë, ist selber
+konzeptual oder "proto-konzeptual". Ich kann zwar nicht in Worte fassen, wie
+genau dieses Rot für mich aussieht und es anderen vermitteln, aber ich könnte
+es unter anderen Schattierungen von Rot wiedererkennen.
+
+
+::: Noë: Zusammenfassung
+
+Wahrnehmung ist also nichts, was uns passiv passiert, etwa durch Stimulation
+von außen oder durch das Sammeln von sensorischen Daten durch Sinnesorgane.
+Wir setzen unseren gesamten sensomotorischen Apparat ein, um Wahrnehmung zu
+lernen, um uns mit ihm Eigenschaften der Welt zu erspielen, die wir wahrnehmen
+wollen. Wie genau unsere Wahrnehmunserfahrung dann aussieht, ist bestimmt von
+den Fähigkeiten, die wir uns angeeignet haben. Trotzdem ist das, was wir
+wahrnehmen, am Ende nicht bloß eine mentale Abbildung der Welt in unserem
+Kopf. Unser Zugang zu der Stimulation von außen, die als physikalisches Objekt
+logisch und objektiv ist, ist direkt. Diese direkte Stimulation sensomotorisch
+zu verstehen füllt unsere Erfahrung mit Wahrnehmungsinhalten.
+
+
+:: Meine Überlegung
+
+Sind nicht nur erfahrbare Wahrnehmung, sondern auch Bewusstsein, Identität und
+bewusstes Denken Nebenprodukte oder Entwicklungen aus Wahrnehmungskonzepten?
+Wenn letztere abhängig sind von unserer sensomotorischen Übungsgeschichte,
+müssen erstere als Produkt letzterer das auch sein.
+
+"To have a concept is to be able to make judgments. Judgments are made for
+/reasons/, and they aim at the /truth/. To understand truth, you must grasp
+(however implicitly) the /laws of truth/ (i.e., logic), and you must grasp the
+distinction between how things really are and how they merely seem to be."
+
+Das Prinzip der Konzeptualisierung zur Effizienssteigerung mag viel tiefer in
+unsere verschiedensten Lebensaspekte eingreifen, als zunächst gedacht. 
+So ist etwa auch die Einteilung von Entitäten in Subjekte mit wechselnden
+Prädikaten womöglich bloß eine Konzeptualisierung von Entitäten in
+wiedererkennbare Muster, die zwar eine Handhabung von Informationen in unserem
+Alltag vereinfachen, aber weit davon weg sind, die Realität zu beschreiben. 
+So eine Einteilung mag seine Berechtigung im Alltag haben, aber für die
+Analyse verschiedenster Entitäten sollte dann davon Abstand genommen werden. 
+Wahrscheinlich am deutlichsten wird die Einteilung von Entitäten in Subjekte
+mit wechselnden Prädikaten in (westlichen) Sprachen (Syntax) und im
+(westlichen) Identitätsverständnis (über die gesamte Lebenszeit [und womöglich
+noch darüber hinaus] eine Person zu bleiben, die im Verlauf der Zeit
+verschiedene Dinge tun kann und sich wandeln kann, aber doch eine
+"Ich"-Identität behält). 
+Whitehead (Prozess und Realität, 1987) und scheinbar auch Thompson kommen in
+ihren Analysen jedoch zu der Idee, dass die Welt ausschließlich aus Prozessen
+besteht, bei denen (vorstellbar wie eine Funktion in linearer Algebra, die
+abhängig vom betrachteten Punkt auf einer Achse verschiedene Werte aufweist)
+das was sie sind und "was sie tun" nicht voneinander unterscheidbar ist. 
+So wären (soll überhaupt daran festgehalten werden, einzelne Menschen als
+abgegrenzte Entität zu verstehen) Menschen eben auch "bloß" das, was die
+Gesamtheit ihres Tuns ausmacht - woraus sie gerade materiell bestehen, ihre
+Körperfunktionen und jede Handlung eben mit eingenommen. 
+Eine solche Betrachtungsweise beendet die ungelöste Problematik, eine
+gleichbleibende Identität von sich ständig ändernden Handlungen, sich
+ändernden Ansichten und sich änderndem introspektiven Selbstverständnis
+abzugrenzen und eröffnet eine rationalere Beschreibung von Entitäten, die
+nicht davon abhängig ist, dass diese Beschreibung starr sein muss. (Siehe auch
+Sartres Begriffe von Wahrheit - in metaphysischer Beschreibung - und vom
+Menschen - in der existentialistischen - in "Das Sein und das Nichts".)
+
