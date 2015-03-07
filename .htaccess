@@ -1,14 +1,16 @@
 DirectoryIndex index.html
 
+RewriteEngine On
+
 RewriteCond %{HTTP_HOST} !=test.intraaktion.de
 RewriteRule (.*) http://test.intraaktion.de/$1 [R=301,L]
 
 Redirect 301 /text/action_in_perception.html /text/01_action_in_perception.html
-Redirect 302 / /about/
+Redirect 302 /index.html /about/
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule (.*) /about/
+RewriteRule (.*) /about/ [R=302]
 
 #Prevent viewing of .htaccess file
 <Files .htaccess>
