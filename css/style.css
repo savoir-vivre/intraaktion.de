@@ -7,6 +7,52 @@ html {
 	font-size:100%;
 }
 @font-face {
+    font-family: 'open_sans';
+    src: url('/files/fontfiles/OpenSans-BoldItalic-webfont.eot');
+    src: url('/files/fontfiles/OpenSans-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/fontfiles/OpenSans-BoldItalic-webfont.woff') format('woff'),
+         url('/files/fontfiles/OpenSans-BoldItalic-webfont.ttf') format('truetype'),
+         url('/files/fontfiles/OpenSans-BoldItalic-webfont.svg#open_sansbold_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'open_sans';
+    src: url('/files/fontfiles/OpenSans-Italic-webfont.eot');
+    src: url('/files/fontfiles/OpenSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/fontfiles/OpenSans-Italic-webfont.woff') format('woff'),
+         url('/files/fontfiles/OpenSans-Italic-webfont.ttf') format('truetype'),
+         url('/files/fontfiles/OpenSans-Italic-webfont.svg#open_sansitalic') format('svg');
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'open_sans';
+    src: url('/files/fontfiles/OpenSans-Regular-webfont.eot');
+    src: url('/files/fontfiles/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/fontfiles/OpenSans-Regular-webfont.woff') format('woff'),
+         url('/files/fontfiles/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('/files/fontfiles/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sans';
+    src: url('/files/fontfiles/OpenSans-Bold-webfont.eot');
+    src: url('/files/fontfiles/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/fontfiles/OpenSans-Bold-webfont.woff') format('woff'),
+         url('/files/fontfiles/OpenSans-Bold-webfont.ttf') format('truetype'),
+         url('/files/fontfiles/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
+    font-weight: bold;
+
+}
+
+@font-face {
 	font-family: 'crimson';
 	src: url('/files/fontfiles/crimsontext-roman-webfont.eot');
 	src: url('/files/fontfiles/crimsontext-roman-webfont.eot?#iefix') format('embedded-opentype'),
@@ -56,7 +102,7 @@ code {
 	font-family:inconsolata, monospace;
 }
 body {
-	font-family:crimson, serif;
+	font-family:open_sans, sans-serif;
 	font-style:normal;
 	font-weight:normal;
 }
