@@ -1,1 +1,6 @@
 : Kontakt
+
+daniel - mail@danielhengst.de 
+malin - malin.nagel@gmx.de 
+
+github - https://github.com/savoir-vivre/intraaktion.de
