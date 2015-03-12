@@ -3,6 +3,7 @@ Stage bezieht sich auf einen Term aus Github welcher beschreibt dass eine Datei 
 : Plädoyer für Plaintext
 
 :: konservartive Textverarbeitung
+
 Es gibt bereits eine große Menge an Möglichkeiten Texte zu produzieren und zu verteilen. Zwei allgemeinere Bereiche lassen sich abstecken:
 Im Kontext einer Homepage, eines Blogs, etc. steht im Hintergrund meist ein CMS. Und genau da bleiben die Texte dann auch meist, bis das CMS veraltet ist, die Blog-Plattform nicht mehr hip ist und ein Umzug der Texte zu aufwendig wäre.
 Für den Gebrauch offline, zum Verteilen innerhalb einer Gruppe, im akademischen Bereich etc. nutzen wir meist ein Office-Produkt zum Verfassen und exportieren das Ergebnis als PDF. In diesem Bereich will kein Standard mit einem anderen kompatibel sein oder versagt dabei oft.
