@@ -1,4 +1,4 @@
-::Info::
+: Info :
 
 Wir beschäftigen uns mit dem Zustand des Anwesendsein in der Gegenwart auf dem Gebiet der
 Kognition und Individuation, seiner zeitlichen und räumlichen Dimension, vor dem Hintergrund
@@ -17,7 +17,7 @@ Marketingsprache der kapitalistischen Logik verfallen ist, und damit betrifft si
 Kulturschaffende.
 
 
-::Arbeitsmethode::
+:: Arbeitsmethode ::
 
 In vier Arbeitsphasen á ca. einer Woche, werden wir uns in einem sich veränderndem Team von fünf bis acht Personen
 mit einem der oben umrissenen Teilbereiche beschäftigen und daraus ästhetische Ansätze für einen
@@ -31,7 +31,7 @@ arbeiten. Hierbei wird die Präsentation nicht von einer Gesamtästhetik oder ko
 zusammengehalten sondern durch die Anwesenheit der Besucher und die Anwesenheit unseres Versuchs.
 Die Dokumentation der Arbeit und der vorläufigen Ergebnisse wird mit den Werkzeugen der Freien Softwarekultur dokumentiert und öffentlich zugänglich und veränderbar sein. Das hierbei entstehende Archiv ist als digitale Plastik in Anlehnung an Joseph Beuys' sozialer Plastik gedacht. Unter dem Menüpunkt "texte" sind Textdateien einsehbar an denen wir kollaborativ arbeiten und welche auf github zur Mitarbeit bereitstehen.
 
-::Ziel::
+:: Ziel ::
 
 Die Präsentationen und die Dokumentation der Arbeit soll dazu beitragen, dringend nötige, neue Formen der
 Auseinandersetzung mit Gesellschaft und andere Arbeitsweisen aufzuzeigen – um mit diesem Wissen
