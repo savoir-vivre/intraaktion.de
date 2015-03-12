@@ -308,7 +308,7 @@ footer {
 	display:block;
 	line-height: 90%;
 	white-space: pre;
-	word-break:normal;
+	word-wrap:normal;
 }
 #gitlink {
 	border-bottom: dotted black;
