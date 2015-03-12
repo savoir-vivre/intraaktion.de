@@ -314,6 +314,7 @@ footer {
 #gitlink a {
 	color: black;
 	font-size: 13px;
+	word-wrap: break-word;
 }
 #con {
 	position:relative;
