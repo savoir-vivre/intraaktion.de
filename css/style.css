@@ -180,6 +180,9 @@ h4,.date {
 h4,a,a:visited {
 	text-decoration:underline;
 }
+a,a:visited {
+	word-wrap:break-word;
+}
 .date,footer,#index,.centered {
 	text-align:center;
 }
