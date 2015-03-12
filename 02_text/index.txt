@@ -7,12 +7,14 @@ Stage bezieht sich auf einen Term aus Github welcher beschreibt dass eine Datei 
 Es gibt bereits eine große Menge an Möglichkeiten Texte zu produzieren und zu verteilen. Zwei allgemeinere Bereiche lassen sich abstecken:
 Im Kontext einer Homepage, eines Blogs, etc. steht im Hintergrund meist ein CMS. Und genau da bleiben die Texte dann auch meist, bis das CMS veraltet ist, die Blog-Plattform nicht mehr hip ist und ein Umzug der Texte zu aufwendig wäre.
 Für den Gebrauch offline, zum Verteilen innerhalb einer Gruppe, im akademischen Bereich etc. nutzen wir meist ein Office-Produkt zum Verfassen und exportieren das Ergebnis als PDF. In diesem Bereich will kein Standard mit einem anderen kompatibel sein oder versagt dabei oft.
-Beide haben so manches gemeinsam.
+Beide haben so manches gemeinsam. 
+
 * Das Format, in dem der eigentliche Text maschinell vorliegt, ist entweder nur unpraktikabel zugängig oder erst gar nicht menschlich lesbar. Für den Zugang zum Text sind komplett von dem einen Tool abhängig, mit dem der Text ursprünglich produziert wurde.
 * Dieses interne Arbeiten der Tools mit einer Sprache, die eine andere ist, als die uns menschlich bekannte und zugängliche entfernt uns auch als Verfassende vom Text. Die Möglichkeiten der Gestaltung enden mit den Möglichkeiten des Tools, denn es muss den Input verstehen und übersetzen können. Hoffentlich können wir den Output verstehen, übersetzen und bearbeiten...
 * Die Tools sind kurzlebig, unsicher und dazu oft proprietär und exklusiv. Deinen Text aus 1985, verfasst mit StarWriter auf dem C64, wirst man vermutlich nie wieder sehen. Gaststätten müssen mittlerweile glücklicherweise barrierefrei sein, Websites nicht. Das sind sie oft auch nicht. Obwohl das eine teure Umbauten voraussetzen, das andere bloß eine sogar oft schlichtere Gestaltung der Seite. Infizierte PDFs stellen auch eine Sicherheitslücke für Institutionen und Unternehmen dar. 
 Diese Probleme sind nicht bezeichnend für den elektronischen Umgang mit Text, nicht einmal "nur" für den größten Teil der Technikindustrie, sondern Symptom des Laufradkapitalismus allgemein.
-Konzentrieren wir uns aber weiter auf IT und Text.
+Konzentrieren wir uns aber weiter auf IT und Text. 
+
 Ein Teil des Grundproblems wurde schon seit längerer Zeit in internen Reihen getauft, so offensichtlich unsinnig und doch irgendwie unvermeidbar ist es. Das Not-invented-here-Syndrom (NIH) hindert an der Übernahme schon vorhandener Lösungen für den eigenen Zweck und fördert die arbeitsaufwendige Neu-Implementierung dieser oder das Einführen immer mehr vermeintlich besserer Standards, bis alles noch komplizierter ist als vorher.
 "The reasons for not wanting to use the work of others are varied, but can include fear through lack of understanding of the foreign work, an unwillingness to acknowledge and/or value the work of others (jealousy), or forming part of a wider turf war. As a social phenomenon, this philosophy manifests as an unwillingness to adopt an idea or product because it originates from another culture, a form of tribalism." [1]
 Anders ist nicht zu erklären, dass im alltäglichen Verfassen von Texten
@@ -22,23 +24,33 @@ Anders ist nicht zu erklären, dass im alltäglichen Verfassen von Texten
 * das noch nicht reicht, weil die Umsetzung der Standards nicht funktioniert und das Nutzen verschiedener Office-Programme an einem Dokument ein Albtraum ist
 * also brauchen wir das ganze noch im PDF-Format. Die mittlerweile zwölfte Inkarnation ist seit drei Jahren in Vorbereitung und die ISO entwickelt dafür gerade den 17. Standard.
 Es ist vermutlich nicht einfach nachzuvollziehen, wie viel Aufwand das ganze bereits schon bedeutet hat, wenn keine Expertise zu allen involvierten Fachbereichen vorhanden ist. Ich würde aber selbstbewusst davon ausgehen, dass alle Pyramiden zusammen weniger Arbeitsstunden gekostet haben. Und das in Anbetracht dessen, dass diese seit Jahrtausenden stehen. Die elektronische Verarbeitung von Text kann im Vergleich dazu noch immer ganze Industrien beschäftigen und durchfüttern, ohne dass ein Ende in Sicht ist. Die ständige Selbstbeschäftigung am immer gleichen Problem funktioniert super und was würden junge versierte Menschen am Ende noch mit ihrer Zeit anfangen, wenn sie nicht ständig Dokumente für andere wiederherstellen, konvertieren, passende Programme installieren, einrichten und pflegen müssten. Am Ende noch etwas sinnvolles.
+
 :: innovative Textverarbeitung
-Was, wenn wir an der Stelle neu ansetzen, die technisch ohnehin notwendig und dem direkten Text am nächsten ist.
+
+Was, wenn wir an der Stelle neu ansetzen, die technisch ohnehin notwendig und dem direkten Text am nächsten ist. 
+
 "Mit plain text (engl. für einfacher, schlichter Text) werden Daten bezeichnet, die direkt unter Verwendung einer Zeichenkodierung in Text umgesetzt werden können. Zudem stellt dieser Text die eigentliche Information dar, das heißt zur Interpretation der Daten ist keine Kenntnis und Auswertung einer speziellen Notation nötig – wie beispielsweise im Fall von XML." [3]
 Plaintext beherrscht ohnehin jedes Betriebssystem, die Inhalte sind nichts anderes als Ansammlung direkter Zeichenkodierung. Bearbeitung und Ansicht benötigen keine speziellen Programme. Der Inhalt kann direkt gelesen werden. Die Unterstützung der Zeichenkodierungen ist im Vergleich mit der der unzähligen Office-Formate, CMS-Backends etc. ein unvergleichliches Zuckerschlecken.
 Der Kodierungsstandard UTF-8 ist mit der Unterstützung aller wichtigen Zeichen beim ersten Auftreten 1992 vergleichsweise sehr stabil und ist in den 128 Zeichen identisch zu ASCII, das zuletzt 1968 geändert wurde und vor UTF-8 die maßgebliche Zeichenkodierung war. Ein Plaintext auf dem C64 wäre heute noch voll zugänglich, sogar gar nicht von einem neueren unterscheidbar.
-Es ist aus Prinzip das zeitloseste Format, das wir gerade maschinell erstellen können.
+Es ist aus Prinzip das zeitloseste Format, das wir gerade maschinell erstellen können. 
+
 Das löst nicht nur die zuvor genannten Probleme der menschlichen Lesbarkeit, Beständigkeit, Zugänglichkeit und Sicherheit vor Schadcode, sondern eröffnet damit auch Möglichkeiten beständiger und inklusiver Kollaboration an Text. Eine solche Dynamik ist bereits öffentlich sichtbar.
 Programmcode muss in der Regel als Plaintext vorliegen. In Open Source-Communities finden sich dann Menschen zusammen, um gemeinsam diesen Code beständig zu erweitern und zu verbessern. Das funktioniert nicht zuletzt deshalb so gut, weil um Plaintext simple und effektive Strukturen der Bearbeitung, Auswertung, Speicherung und Darstellung gebaut werden können, die verschiedenste Ansprüche erfüllen und zuverlässig sind. Ein kluger Umgang mit immensen und sehr komplizierten Texten zwischen riesigen Gruppen von Menschen, die sich nie physisch begegnet sind, findet seit Jahren statt und das gilt es, aus dem Kontext des Programmierens in andere Bereiche zu tragen.
 Eine aufwendige Office-Suite kommt zwar mit vielen Möglichkeiten der Formatierung, die in Plaintext nicht direkt gespeichert werden können, aber durch die Verwendung von Markup-Syntax ist die Überführung in optisch oder technisch aufwendigere Formate einfach möglich und eine ansprechende Kennzeichnung von Textsegmenten durch kluge Verwendung von textzeichen alleine möglich.
+
 :: Selbstreferenz durch strukturell anderes Arbeiten vorbeugen
+
 Ein solches Arbeiten an einem Text kann Grundstein für ein ganzes neues Arbeitsparadigma sein. Wenn produzierte Inhalte Nutzen und Relevanz nicht bereits nach einer Arbeitsphase einbüßen, sondern nachhaltig sind und ständig weiterentwickelt werden können, bleibt das Endergebnis offen, solange bis eine Verbesserung nicht mehr möglich erscheint. Werden zusätzlich kollaborative, öffentlich transparente Arbeitsweisen übernommen, verlagert sich der Fokus der Arbeit weg von den Akteuren hin zum Inhalt. Außerdem muss das Rad nicht ständig neu erfunden werden. Würden wir Bücher weniger als Zurschaustellung der Leistung von Autoren und mehr als literarische oder fachliche Gemeinschaftsprojekte begreifen, würden wir uns bald vielleicht nicht mehr durch tausende Ratgeber zu ein und demselben Thema wühlen, von denen ein Drittel veraltet ist, ein anderes Drittel gefährliche Esoterik verbreitet und trotzdem verkauft wird und sich im letzten Drittel brauchbare Exemplare finden, von denen ich aber doch mehrere brauche, um ein gutes Gesamtbild zu haben. Stattdessen könnten Fachleute gemeinsam, öffentlich nachvollziehbar ein Fachbuch zum gesammelten besten Wissen zu einem Thema verfassen. Das geht aber nicht, wenn alle wie bis jetzt im stillen Kämmerchen alleine oder in Kleingruppen Text in Programme tippen, die das strukturell erschweren und dann alle paar Jahre Neueditionen hervorbringen, an denen schwer erkennbar ist, was sich exakt verändert hat.
 Ein Plädoyer für kluge nachhaltige Textverarbeitung mit Plaintext ist damit auch ein Plädoyer für moderne, nachhaltige, offene und aufklärerische Arbeitsweisen mit Fokus auf bestmögliche Inhalte anstelle von ewigem selbstreferenziellem Auf-die-Schulter-Klopfen im Kreis.
+
 :: Ausblick ;)
+
 * Verstehen des Inhalts wird von der Maschine weg hin zum Leser zurück verlagert
 * Aufhalten von Entfremdung vom Text durch Metaebene aus Maschine und menschlich unlesbarem Format
-* ...
-In diesem Text wurde die Markup-Syntax ahrf verwendet [4]
+* ... 
+
+In diesem Text wurde die Markup-Syntax ahrf verwendet [4] 
+
 [1] http://en.wikipedia.org/wiki/Not_invented_here
 [2] https://www.openoffice.org/FAQs/build_faq.html#source
 [3] http://de.wikipedia.org/wiki/Plain_text
