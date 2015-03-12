@@ -5,6 +5,7 @@ RewriteEngine On
 RewriteCond %{HTTP_HOST} !=test.intraaktion.de
 RewriteRule (.*) http://test.intraaktion.de/$1 [R=301,L]
 
+Redirect 301 /text/ /stage/
 Redirect 301 /text/action_in_perception.html /text/01_action_in_perception.html
 Redirect 302 /index.html /00_home/
 
