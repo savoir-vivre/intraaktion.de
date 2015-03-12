@@ -319,6 +319,7 @@ footer {
 	color: black;
 	font-size: 13px;
 	word-wrap: break-word;
+	text-decoration:none;
 }
 #con {
 	position:relative;
