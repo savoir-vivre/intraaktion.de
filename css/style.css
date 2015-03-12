@@ -163,7 +163,7 @@ body,h5,#desc,p code {
 	font-size:14px;
 }
 pre,footer {
-	font-size:15px;
+	font-size:13px;
 }
 body,nav ul,#desc p {
 	margin:0;
@@ -190,7 +190,9 @@ pre,p code {
 	border:1px solid grey;
 }
 #desc,article {
-	line-height:1.4em;
+	line-height:140%;
+	min-width:20em;
+	max-width:40em;
 }
 #emblem,nav ul {
 	padding:0;
@@ -219,7 +221,7 @@ h4 {
 }
 h5 {
 	margin:22px auto 16px;
-	border-bottom:1px dotted #141414;
+	border-bottom:1px dotted black;
 }
 /*a,a:visited {
 	color:#404040;
@@ -233,11 +235,9 @@ a.thisPage {
 }
 /* FIXED WIDTH TO AVOID UGLY SCROLLBAR "JUMP" (THANKS TO PERCENTAGES) :( */
 nav {
-	overflow-x:hidden;
 	overflow-y:auto;
 	top:0;
 	left:0;
-	width:340px;
 	height:100%;
 	padding:16px 14px 12px;
 	z-index:1;
@@ -290,44 +290,6 @@ footer {
 	padding-top:12px;
 	border-top:2px solid #C0C0C0;
 	line-height:22px;
-}
-#index {
-	color: white;
-	font-size:22px;
-	text-shadow:1px 1px 0 black;
-	font-style:normal;
-	text-decoration:none;
-}
-#index p {
-	margin:40px 0;
-	text-align: center;
-}
-#index footer,#index footer a {
-	border:none;
-	margin:0 auto 0;
-}
-#index a,#index a:visited {
-	color: white;
-	font-size:22px;
-	text-shadow:1px 1px 0 black;
-	padding:5px 8px;
-	margin:20px 15px;
-	text-decoration:none;
-	display: inline-block;
-}
-#index a:hover, #index a:visited:hover {
-	color:black;
-	text-shadow:none;
-	background:snow;
-}
-#index ul {
-	list-style-type:none;
-}
-#index ul li {
-	padding:20px 0;
-}
-#index hr {
-	max-width:34%;
 }
 /* THE SKEL */
 #h0 {
@@ -416,17 +378,11 @@ blockquote {
 	margin-left:30px;
 }
 @media screen and (max-width:1300px) {
-	nav {
-		width:250px;
-	}
 	#paper {
 		margin:5px 0 0 250px;
 	}
 }
 @media screen and (max-width:950px) {
-	nav {
-		width:180px;
-	}
 	#paper {
 		margin:5px 0 0 210px;
 	}
