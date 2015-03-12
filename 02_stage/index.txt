@@ -1,4 +1,4 @@
-Stage bezieht sich auf einen Term aus der Githubsprache welcher beschreibt, dass eine Datei zum Bearbeiten vorbereitet wird. Die hier sichtbaren Texte sind automatisch aus Textdateien generiert, welche auf dem Plattform Github zur Bearbeitung bereit stehen. Die Dateien befinden sich alle in Bearbeitung und stellen keinen abgeschlossenen Zustand dar.
+//stage// bezieht sich auf einen Term aus der Githubsprache welcher beschreibt, dass eine Datei zum Bearbeiten vorbereitet wird. Die hier sichtbaren Texte sind automatisch aus Textdateien generiert, welche auf dem Plattform Github zur Bearbeitung bereit stehen [0]. Die Dateien befinden sich alle in Bearbeitung und stellen keinen abgeschlossenen Zustand dar.
 
 : Plädoyer für Plaintext
 
@@ -51,6 +51,7 @@ Ein Plädoyer für kluge nachhaltige Textverarbeitung mit Plaintext ist damit au
 
 In diesem Text wurde die Markup-Syntax ahrf verwendet [4] 
 
+[0] https://github.com/savoir-vivre/intraaktion.de
 [1] http://en.wikipedia.org/wiki/Not_invented_here
 [2] https://www.openoffice.org/FAQs/build_faq.html#source
 [3] http://de.wikipedia.org/wiki/Plain_text
