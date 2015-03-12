@@ -43,13 +43,15 @@ Eine aufwendige Office-Suite kommt zwar mit vielen Möglichkeiten der Formatieru
 Ein solches Arbeiten an einem Text kann Grundstein für ein ganzes neues Arbeitsparadigma sein. Wenn produzierte Inhalte Nutzen und Relevanz nicht bereits nach einer Arbeitsphase einbüßen, sondern nachhaltig sind und ständig weiterentwickelt werden können, bleibt das Endergebnis offen, solange bis eine Verbesserung nicht mehr möglich erscheint. Werden zusätzlich kollaborative, öffentlich transparente Arbeitsweisen übernommen, verlagert sich der Fokus der Arbeit weg von den Akteuren hin zum Inhalt. Außerdem muss das Rad nicht ständig neu erfunden werden. Würden wir Bücher weniger als Zurschaustellung der Leistung von Autoren und mehr als literarische oder fachliche Gemeinschaftsprojekte begreifen, würden wir uns bald vielleicht nicht mehr durch tausende Ratgeber zu ein und demselben Thema wühlen, von denen ein Drittel veraltet ist, ein anderes Drittel gefährliche Esoterik verbreitet und trotzdem verkauft wird und sich im letzten Drittel brauchbare Exemplare finden, von denen ich aber doch mehrere brauche, um ein gutes Gesamtbild zu haben. Stattdessen könnten Fachleute gemeinsam, öffentlich nachvollziehbar ein Fachbuch zum gesammelten besten Wissen zu einem Thema verfassen. Das geht aber nicht, wenn alle wie bis jetzt im stillen Kämmerchen alleine oder in Kleingruppen Text in Programme tippen, die das strukturell erschweren und dann alle paar Jahre Neueditionen hervorbringen, an denen schwer erkennbar ist, was sich exakt verändert hat.
 Ein Plädoyer für kluge nachhaltige Textverarbeitung mit Plaintext ist damit auch ein Plädoyer für moderne, nachhaltige, offene und aufklärerische Arbeitsweisen mit Fokus auf bestmögliche Inhalte anstelle von ewigem selbstreferenziellem Auf-die-Schulter-Klopfen im Kreis.
 
-:: Ausblick ;)
+:: Ausblick zur weiteren Betrachtung ;)
 
 * Verstehen des Inhalts wird von der Maschine weg hin zum Leser zurück verlagert
 * Aufhalten von Entfremdung vom Text durch Metaebene aus Maschine und menschlich unlesbarem Format
 * ... 
 
-In diesem Text wurde die Markup-Syntax ahrf verwendet [4] 
+Dank an Jonas für sein Inputs.
+
+In diesem Text wird die Markup-Syntax ahrf verwendet. [4]
 
 [0] https://github.com/savoir-vivre/intraaktion.de
 [1] http://en.wikipedia.org/wiki/Not_invented_here
