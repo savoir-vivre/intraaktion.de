@@ -318,8 +318,8 @@ footer {
 	}
 #gitlink a {
 	color: black;
+	font-family:inconsolata,monospace;
 	font-size: 13px;
-	font-weight:bold;
 	word-wrap: break-word;
 	text-decoration:none;
 }
