@@ -151,9 +151,9 @@ nav ul, nav dl {
 }
 
 /* ------ */
-p {
+/*p {
 	text-align:justify;
-}
+}*/
 h1 {
 	font-size:26px;
 	padding:0 0 6px;
@@ -289,8 +289,11 @@ footer {
         font-size:100px;
 	margin:0 auto;
 }
-#h0 p {
+#h0 a {
+	color: black;
+	text-decoration:none;
 	margin: 0;
+	display:block;
 	line-height: 90%;
 	white-space: pre;
 }
@@ -303,9 +306,9 @@ footer {
 	padding:20px 28px;
 	z-index:9999;
 }
-article {
+/*article {
 	text-align:justify;
-}
+}*/
 article ul {
 	padding-left:50px;
 	margin:-4px 0 -2px; 
