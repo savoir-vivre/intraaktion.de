@@ -1,4 +1,4 @@
-//stage// bezieht sich auf einen Term aus der Githubsprache welcher beschreibt, dass eine Datei zum Bearbeiten vorbereitet wird. Die hier sichtbaren Texte sind automatisch aus Textdateien generiert, welche auf dem Plattform Github zur Bearbeitung bereit stehen [0]. Die Dateien befinden sich alle in Bearbeitung und stellen keinen abgeschlossenen Zustand dar.
+die Bezeichnung 'stage' bezieht sich auf einen Term aus der Githubsprache welcher beschreibt, dass eine Datei zum Bearbeiten vorbereitet wird. Die hier sichtbaren Texte sind automatisch aus Textdateien generiert, welche auf dem Plattform Github zur Bearbeitung bereit stehen [0]. Die Dateien befinden sich alle in Bearbeitung und stellen keinen abgeschlossenen Zustand dar.
 
 : Plädoyer für Plaintext
 
