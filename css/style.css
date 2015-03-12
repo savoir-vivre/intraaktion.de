@@ -7,6 +7,55 @@ html {
 	font-size:100%;
 }
 @font-face {
+    font-family: 'quicksand';
+    src: url('/files/fontfiles/Quicksand-Bold-webfont.eot');
+    src: url('/files/fontfiles/Quicksand-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/fontfiles/Quicksand-Bold-webfont.woff2') format('woff2'),
+         url('/files/fontfiles/Quicksand-Bold-webfont.woff') format('woff'),
+         url('/files/fontfiles/Quicksand-Bold-webfont.ttf') format('truetype'),
+         url('/files/fontfiles/Quicksand-Bold-webfont.svg#quicksandbold') format('svg');
+    font-weight: bold;
+
+}
+
+@font-face {
+    font-family: 'quicksand';
+    src: url('/files/fontfiles/Quicksand-BoldItalic-webfont.eot');
+    src: url('/files/fontfiles/Quicksand-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/fontfiles/Quicksand-BoldItalic-webfont.woff2') format('woff2'),
+         url('/files/fontfiles/Quicksand-BoldItalic-webfont.woff') format('woff'),
+         url('/files/fontfiles/Quicksand-BoldItalic-webfont.ttf') format('truetype'),
+         url('/files/fontfiles/Quicksand-BoldItalic-webfont.svg#quicksandbold_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'quicksand';
+    src: url('/files/fontfiles/Quicksand-Italic-webfont.eot');
+    src: url('/files/fontfiles/Quicksand-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/fontfiles/Quicksand-Italic-webfont.woff2') format('woff2'),
+         url('/files/fontfiles/Quicksand-Italic-webfont.woff') format('woff'),
+         url('/files/fontfiles/Quicksand-Italic-webfont.ttf') format('truetype'),
+         url('/files/fontfiles/Quicksand-Italic-webfont.svg#quicksanditalic') format('svg');
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'quicksand';
+    src: url('/files/fontfiles/Quicksand-Regular-webfont.eot');
+    src: url('/files/fontfiles/Quicksand-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/files/fontfiles/Quicksand-Regular-webfont.woff2') format('woff2'),
+         url('/files/fontfiles/Quicksand-Regular-webfont.woff') format('woff'),
+         url('/files/fontfiles/Quicksand-Regular-webfont.ttf') format('truetype'),
+         url('/files/fontfiles/Quicksand-Regular-webfont.svg#quicksandregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
     font-family: 'open_sans';
     src: url('/files/fontfiles/OpenSans-BoldItalic-webfont.eot');
     src: url('/files/fontfiles/OpenSans-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
@@ -102,7 +151,7 @@ code {
 	font-family:inconsolata, monospace;
 }
 body {
-	font-family:open_sans, sans-serif;
+	font-family:quicksand, sans-serif;
 	font-style:normal;
 	font-weight:normal;
 }
@@ -111,7 +160,7 @@ html,body,#con {
 	height:100%
 }
 body,h5,#desc,p code {
-	font-size:16px;
+	font-size:14px;
 }
 pre,footer {
 	font-size:15px;
@@ -141,34 +190,31 @@ pre,p code {
 	border:1px solid grey;
 }
 #desc,article {
-	line-height:28px;
+	line-height:1.4em;
 }
 #emblem,nav ul {
 	padding:0;
 }
-nav ul, nav dl {
+/*nav ul, nav dl {
         text-transform:lowercase;
-}
+}*/
 
 /* ------ */
 /*p {
 	text-align:justify;
 }*/
 h1 {
-	font-size:26px;
-	padding:0 0 6px;
-	line-height:36px;
+	font-size:22px;
 }
 h2 {
-	font-size:22px;
+	font-size:18px;
 	padding-left:16px;
-	line-height:30px;
 }
 h3 {
-	font-size:18px;
+	font-size:16px;
 }
 h4 {
-	font-size:16px;
+	font-size:14px;
 	margin-bottom:0;
 }
 h5 {
@@ -200,7 +246,7 @@ nav {
 }
 nav,nav a,nav a:visited {
 	color: black;
-	font-size:22px;
+	font-size:18px;
 	font-style:normal;
 	text-decoration:none;
 }
@@ -284,7 +330,7 @@ footer {
 }
 /* THE SKEL */
 #h0 {
-	border-bottom:3px solid #080808;
+	border-bottom:3px solid black;
 	max-width:99%;
         font-size:100px;
 	margin:0 auto;
@@ -297,12 +343,21 @@ footer {
 	line-height: 90%;
 	white-space: pre;
 }
+#gitlink {
+	border-bottom: dotted black;
+	padding: 0 0 20px 0;
+	font-style: italic;
+	}
+#gitlink a {
+	color: black;
+	font-size: 13px;
+}
 #con {
 	position:relative;
 }
 #paper {
 	max-width:800px;
-	margin:10px 0 0 400px;
+	margin:10px 0 0 300px;
 	padding:20px 28px;
 	z-index:9999;
 }
@@ -364,7 +419,7 @@ blockquote {
 		width:250px;
 	}
 	#paper {
-		margin:5px 0 0 310px;
+		margin:5px 0 0 250px;
 	}
 }
 @media screen and (max-width:950px) {
