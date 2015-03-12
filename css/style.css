@@ -313,11 +313,13 @@ footer {
 #gitlink {
 	border-bottom: dotted black;
 	padding: 0 0 20px 0;
+	font-size: 13px;
 	font-style: italic;
 	}
 #gitlink a {
 	color: black;
 	font-size: 13px;
+	font-weight:bold;
 	word-wrap: break-word;
 	text-decoration:none;
 }
