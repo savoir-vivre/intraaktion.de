@@ -246,6 +246,7 @@ nav {
 }
 nav,nav a,nav a:visited {
 	color: black;
+	font-family: inconsolata,monospace;
 	font-size:18px;
 	font-style:normal;
 	text-decoration:none;
