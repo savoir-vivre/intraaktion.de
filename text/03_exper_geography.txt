@@ -1,13 +1,13 @@
-: exper geography
+: experimental geography
 
 Teile der Texte sind von mir zusammengefasste Rezension von Christian Neugebauer und Christoph Clar
-gekennzeichnet mit (!) vor der Überschrift
+gekennzeichnet mit (*) am Ende Überschrift
 ungekürzt nachzulesen > www.european-spaces.eu/klassiker-der-raumthematik
 bis auf den ersten- folgen die Texte einer chronologischen Ordnung
 weitere Texte folgen 
-: (!)Weichhart, Peter, Die Räume zwischen den Welten und die Welt der Räume :
+:: Weichhart, Peter, Die Räume zwischen den Welten und die Welt der Räume (*) ::
 
-:: Raumkonzepte::
+::: Raumkonzepte:::
 
 Raum 1: Die erste Bedeutung des Wortes Raum bezieht sich auf die – für Nicht-Geographen
 vielleicht klassische geographische – Funktion, einen Teilbereich der Erdoberfläche begrifflich
