@@ -49,7 +49,7 @@ Ein Plädoyer für kluge nachhaltige Textverarbeitung mit Plaintext ist damit au
 * Aufhalten von Entfremdung vom Text durch Metaebene aus Maschine und menschlich unlesbarem Format
 * ... 
 
-Dank an Jonas für sein Inputs.
+Dank an Jonas für seine Inputs.
 
 In diesem Text wird die Markup-Syntax ahrf verwendet. [4]
 
