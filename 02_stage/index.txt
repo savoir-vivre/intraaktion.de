@@ -11,12 +11,12 @@ Beide haben so manches gemeinsam.
 
 * Das Format, in dem der eigentliche Text maschinell vorliegt, ist entweder nur unpraktikabel zugängig oder erst gar nicht menschlich lesbar. Für den Zugang zum Text sind wir komplett von dem einen Tool abhängig, mit dem der Text ursprünglich produziert wurde.
 * Dieses interne Arbeiten der Tools mit einer Sprache, die eine andere ist, als die uns menschlich bekannte und zugängliche, entfernt uns auch als Verfassende vom Text. Die Möglichkeiten der Gestaltung enden mit den Möglichkeiten des Tools, denn es muss den Input verstehen und übersetzen können. Hoffentlich können wir den Output verstehen, übersetzen und bearbeiten...
-* Die Tools sind kurzlebig, unsicher und dazu oft proprietär und exklusiv. Deinen Text aus 1985, verfasst mit StarWriter auf dem C64, wird man vermutlich nie wieder sehen. Gaststätten müssen mittlerweile glücklicherweise barrierefrei sein, Websites nicht. Das sind sie oft auch nicht. Obwohl das eine teure Umbauten voraussetzt, das andere bloß eine sogar oft schlichtere Gestaltung der Seite. Infizierte PDFs stellen auch eine Sicherheitslücke für Institutionen und Unternehmen dar. 
+* Die Tools sind kurzlebig, unsicher und dazu oft proprietär und exklusiv. Deinen Text aus 1985, verfasst mit StarWriter auf dem C64, wirst du vermutlich nie wieder sehen. Gaststätten müssen mittlerweile glücklicherweise barrierefrei sein, Websites nicht. Das sind sie oft auch nicht. Obwohl das eine teure Umbauten voraussetzt, das andere bloß eine sogar oft schlichtere Gestaltung der Seite. Infizierte PDFs stellen auch eine Sicherheitslücke für Institutionen und Unternehmen dar. 
 Diese Probleme sind nicht bezeichnend für den elektronischen Umgang mit Text, nicht einmal "nur" für den größten Teil der Technikindustrie, sondern Symptom des Laufradkapitalismus allgemein.
 Konzentrieren wir uns aber weiter auf IT und Text. 
 
 Ein Teil des Grundproblems wurde schon seit längerer Zeit in internen Reihen getauft, so offensichtlich unsinnig und doch irgendwie unvermeidbar ist es. Das Not-Invented-Here-Syndrom (NIH) hindert an der Übernahme schon vorhandener Lösungen für den eigenen Zweck und fördert die arbeitsaufwendige Neu-Implementierung dieser oder das Einführen immer mehr, vermeintlich besserer Standards, bis alles noch komplizierter ist als vorher.
-"The reasons for not wanting to use the work of others are varied, but can include fear through a lack of understanding of the foreign work, an unwillingness to acknowledge and/or value the work of others (jealousy), or forming part of a wider turf war. As a social phenomenon, this philosophy manifests as an unwillingness to adopt an idea or product because it originates from another culture, a form of tribalism." [1]
+"The reasons for not wanting to use the work of others are varied, but can include fear through lack of understanding of the foreign work, an unwillingness to acknowledge and/or value the work of others (jealousy), or forming part of a wider turf war. As a social phenomenon, this philosophy manifests as an unwillingness to adopt an idea or product because it originates from another culture, a form of tribalism." [1]
 Anders ist nicht zu erklären, dass im alltäglichen Verfassen von Texten
 * unser Betriebssystem erst den Tastatur-Anschlag mit einer der Zeichenkodierungen ISO-8859-1 bis -15 (für westliche Sprachen) oder UTF abgleichen muss (bis hierher nachvollziehbar)
 * das dann in ein Programm schleust, welches im Schnitt wahrscheinlich an der Grenze zu 10.000.000 Zeilen an Code kratzt [2]
@@ -30,8 +30,16 @@ Es ist vermutlich nicht einfach nachzuvollziehen, wie viel Aufwand das ganze ber
 Was, wenn wir an der Stelle neu ansetzen, die technisch ohnehin notwendig und dem direkten Text am nächsten ist. 
 
 "Mit plain text (engl. für einfacher, schlichter Text) werden Daten bezeichnet, die direkt unter Verwendung einer Zeichenkodierung in Text umgesetzt werden können. Zudem stellt dieser Text die eigentliche Information dar, das heißt zur Interpretation der Daten ist keine Kenntnis und Auswertung einer speziellen Notation nötig – wie beispielsweise im Fall von XML." [3]
-Plaintext beherrscht ohnehin jedes Betriebssystem, die Inhalte sind nichts anderes als Ansammlungen direkter Zeichenkodierung. Bearbeitung und Ansicht benötigen keine speziellen Programme. Der Inhalt kann direkt gelesen werden. Die Unterstützung der Zeichenkodierungen, ist im Vergleich mit der der unzähligen Office-Formate, CMS-Backends etc., ein unvergleichliches Zuckerschlecken.
-Der Kodierungsstandard UTF-8, ist mit der Unterstützung aller wichtigen Zeichen beim ersten Auftreten 1992, vergleichsweise sehr stabil und ist in den 128 Zeichen identisch zu ASCII, das zuletzt 1968 geändert wurde und vor UTF-8 die maßgebliche Zeichenkodierung war. Ein Plaintext auf dem C64 wäre heute noch voll zugänglich, sogar gar nicht von einem neueren unterscheidbar.
+Plaintext beherrscht ohnehin jedes Betriebssystem, die Inhalte sind nichts anderes als Ansammlungen direkter Zeichenkodierung. Bearbeitung und Ansicht benötigen keine speziellen Programme. Der Inhalt kann direkt gelesen werden. Die Unterstützung der Zeichenkodierungen ist - im Vergleich mit der der unzähligen Office-Formate, CMS-Backends etc. - ein unvergleichliches Zuckerschlecken.
+Der Kodierungsstandard UTF-8 ist sehr stabil. Er unterstützt seit erstem Auftreten 1992 schon eine Fülle an auch weniger gebrauchten Zeichen. Davor gab es ASCII, das 1963 die ersten 128 Zeichen definierte
+
+====
+!"#$%&'()*+,-./0123456789:;<=>?
+@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_
+`abcdefghijklmnopqrstuvwxyz{|}~
+====
+
+und das zuletzt 1968 geändert wurde. In UTF-8 wurden diese ersten 128 Zeichen unverändert übernommen. Ein Plaintext auf dem C64 wäre heute noch voll zugänglich, sogar gar nicht von einem neueren unterscheidbar.
 Es ist aus Prinzip das zeitloseste Format, das wir gerade maschinell erstellen können. 
 
 Das löst nicht nur die zuvor genannten Probleme der menschlichen Lesbarkeit, Beständigkeit, Zugänglichkeit und Sicherheit vor Schadcode, sondern eröffnet damit auch Möglichkeiten beständiger und inklusiver Kollaboration an Text. Eine solche Dynamik ist bereits öffentlich sichtbar.
