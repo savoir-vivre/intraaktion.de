@@ -259,7 +259,7 @@ es nonkonzeptuale Inhalte in unserer Wahrnehmung geben und einen Weg, dass
 Erfahrung uns mit Eigenschaften der Welt beliefert, ohne Konzepte von ihnen zu
 haben. 
 Um wahrzunehmen brauchen wir aber sensorische Stimulation, die wir
-//verstehen//. Wichtig dabei ist, dass wir die Stimulation //sensomotorisch//
+ //verstehen//. Wichtig dabei ist, dass wir die Stimulation //sensomotorisch// 
 verstehen. Mir mag ein Konzept genau dieser Schattierung von Rot in Bezug auf
 Farbentheorie fehlen, aber ich verstehe dieses Rot sensomotorisch, weil ich
 sensomotorisch geübt bin. Diese sensomotorische Übung, so Noë, ist selber
@@ -290,7 +290,7 @@ Wenn letztere abhängig sind von unserer sensomotorischen Übungsgeschichte,
 müssen erstere als Produkt letzterer das auch sein.
 
 "To have a concept is to be able to make judgments. Judgments are made for
-//reasons//, and they aim at the //truth//. To understand truth, you must grasp
+ //reasons// , and they aim at the //truth// . To understand truth, you must grasp
 (however implicitly) the //laws of truth// (i.e., logic), and you must grasp the
 distinction between how things really are and how they merely seem to be."
 
