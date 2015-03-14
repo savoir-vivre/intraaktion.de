@@ -29,7 +29,7 @@ Gleichzeitigkeiten stellt das Ritual eine Form der Selbstvergewisserung, aber au
 verortung dar. Andererseits bietet das Ritual uns die Möglichkeit installativ und fragmentarisch zu
 arbeiten. Hierbei wird die Präsentation nicht von einer Gesamtästhetik oder konsistenten Erzählung
 zusammengehalten, sondern durch die Anwesenheit der Besucher und die Anwesenheit unseres Versuchs.
-Die Dokumentation der Arbeit und der vorläufigen Ergebnisse wird mit den Werkzeugen der Freien Softwarekultur dokumentiert und öffentlich zugänglich und veränderbar sein. Das hierbei entstehende Archiv ist als digitale Plastik, in Anlehnung an Joseph Beuys' sozialer Plastik, gedacht. Unter dem Menüpunkt "texte" sind Textdateien einsehbar an denen wir kollaborativ arbeiten und welche auf GitHub zur Mitarbeit bereitstehen.
+Die Dokumentation der Arbeit und der vorläufigen Ergebnisse wird mit den Werkzeugen der Freien Softwarekultur dokumentiert und öffentlich zugänglich und veränderbar sein. Das hierbei entstehende Archiv ist als digitale Plastik, in Anlehnung an Joseph Beuys' sozialer Plastik, gedacht. Unter dem Menüpunkt "stage" sind Textdateien einsehbar an denen wir kollaborativ arbeiten und welche auf GitHub zur Mitarbeit bereitstehen.
 
 :: Ziel ::
 
