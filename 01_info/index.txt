@@ -19,17 +19,15 @@ Kulturschaffende. Deshalb müssen wir nicht in Nostalgie- oder Larmoyanz-Starre 
 
 :: Arbeitsmethode ::
 
-In vier Arbeitsphasen á ca. einer Woche werden wir uns in einem sich veränderndem Team von fünf bis acht Personen
-verschiedenen Teilbereichen von Kognition und Individuation widmen und daraus ästhetische Ansätze für einen
-konstruktiven Umgang mit dem Thema vorschlagen. Diese werden am jeweils letzten Tag der Arbeitsphasen
-mit Besuchern in ein- bis zweistündigen Begegnungen erprobt. Die Form des Rituals soll hierbei
-einen strukturellen Rahmen bieten, da ritualisierte Vorgänge zur Ausprägung gesellschaftlich
-anerkannter und selbstverständlicher Vorgänge beitragen. Durch seine Wiederholungen und
-Gleichzeitigkeiten stellt das Ritual eine Form der Selbstvergewisserung, aber auch der Selbstreflexion und -
-verortung im Kollektiv dar. Andererseits bietet das Ritual uns die Möglichkeit installativ und fragmentarisch zu
+In vier Arbeitsphasen á ca. einer Woche beschäftigen wir uns derzeit in einem sich veränderndem Team von fünf bis acht Personen
+mit verschiedenen Teilbereichen von Kognition und Individuation, um daraufhin ästhetische Ansätze für einen
+konstruktiven Umgang mit dem Thema vorzuschlagen. Diese werden am jeweils letzten Tag der Arbeitsphasen in einer ersten öffentlichen Aufführung
+mit Besuchern in ein- bis zweistündigen Begegnungen erprobt. Die Form des Rituals bildet hierbei
+einen strukturellen Rahmen. Durch seine Wiederholungen und Gleichzeitigkeiten stellt das Ritual sowohl eine Form der Selbstvergewisserung, aber auch der Selbstreflexion im Erleben von Gemeinschaft und 
+Kollektivität dar. Andererseits bietet das Ritual uns die Möglichkeit, installativ und fragmentarisch zu
 arbeiten. Hierbei wird die Präsentation nicht von einer Gesamtästhetik oder konsistenten Erzählung
 zusammengehalten, sondern durch die Anwesenheit der Besucher und die Anwesenheit unseres Versuchs.
-Die Dokumentation der Arbeit und der vorläufigen Ergebnisse wird mit den Werkzeugen der Freien Softwarekultur dokumentiert und öffentlich zugänglich und veränderbar sein. Das hierbei entstehende Archiv ist als digitale Plastik, in Anlehnung an Joseph Beuys' sozialer Plastik, gedacht. Unter dem Menüpunkt "stage" sind Textdateien einsehbar an denen wir kollaborativ arbeiten und welche auf GitHub zur Mitarbeit bereitstehen.
+Die Dokumentation der Arbeit und der vorläufigen Ergebnisse wird mit den Werkzeugen der Freien Softwarekultur dokumentiert und öffentlich zugänglich und veränderbar sein. Das hierbei entstehende Archiv ist als digitale Plastik, in Anlehnung an Joseph Beuys' sozialer Plastik, gedacht. Unter dem Menüpunkt "stage" sind Textdateien auf GitHub einsehbar, an denen wir kollaborativ arbeiten und auch zur Mitarbeit jedem zur Verfügung stehen.
 
 :: Ziel ::
 
@@ -40,7 +38,7 @@ Verhältnis zur Freien Szene, versucht ,Savoir vivre' sich von gängigen Kategor
 lösen und einen dritten Weg zu gehen. ,Savoir vivre' begreifen wir dabei als einen wachsenden, sich
 permanent in Bewegung befindenden Organismus, ähnlich der Open-Source-Bewegung. Dieser könnte
 weder aus den laufenden Prozessen an den Stadttheatern entstehen, noch mitten im Wettkampf um
-Förderung und Etablierung in der Freien Szene. ,Savoir vivre' verbindet langfristig, und manchmal auch als unsichtbaren U-Boot, Menschen und Dinge, bringt sie
+Förderung und Etablierung in der Freien Szene. ,Savoir vivre' verbindet langfristig, und manchmal auch als unsichtbares U-Boot, Menschen, Räume und Dinge, bringt sie
 miteinander ins Gespräch und in neue Arbeitszusammenhänge, um so Zukunft möglich werden zu lassen –
 was schließlich auch bedeutet, Theater wieder als Ort politischer Praxis zu ermöglichen.
 
