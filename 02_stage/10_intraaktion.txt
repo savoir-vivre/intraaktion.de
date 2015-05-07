@@ -1,3 +1,38 @@
-: intraaktion
+: Intraaktion
 
-noch keine inhalte
+:: erste Skizzen
+
+Aus Karen Barad - Agentieller Realismus
+
+::: interessante Stellen
+
+S. 12: 
+"Die Hinwendung zu performativem Alternativen zum Repräsentationalismus verlagert den Fokus von fragen nach der Entsprechung zwischen Beschreibungen und der Wirklichkeit [...] auf Fragen nach Praktiken, Tätigkeiten und Handlungen." 
+
+"Ich bewege mich von der repräsentationalistischen Falle der geometrischen Optik weg und verlagere den Fokus auf die physikalische Optik, auf Fragen der Streuung anstatt der Reflexion." 
+[Ist gemeint "weg von 'wie sieht es aus, wie scheint es äußerlich?' zu 'wie ist es aufgebaut, wie funktioniert es?'" ? ; siehe S. 20: "vielmehr sind Phänomene differentielle /Relevanzmuster/ ('Streuungsmuster')" ] 
+
+S. 18 [Umrahmung der Ziele]: 
+"Diese Kausalbeziehung zwischen den Apparaten der Produktion von Körpern und den produzierten Phänomenen ist eine Beziehung der Handlungsintraaktion."
+
+::: Begriffe
+
+:::: Phänomene sind die primäre ontologische Einheit 
+
+* Ph. sind die ontologische Unzertrennlichkeit / Verschränkung intraagierender Agentien (S.19)
+* Bestandteile von Ph. erhalten durch IA (Intraakion) Bedeutung
+* Ph. werden von Apparaten hervorgebracht (S. 20 f.)
+* sind für die Wirklichkeit konstitutiv
+
+:::: Apparate sind die primäre semantische Einheit
+
+* auch: materiell-diskursive Praktiken
+* "sind die Bedingungen der Möglichkeit für bestimmte Grenzen und Eigenschaften von Objekten und Bedeutungen verkörperter Begriffe innerhalb des Phänomens." (S. 26; "Bohr-Teil")
+
+:::: Begriffe
+
+* erlangen durch IA Bedeutung
+
+:::: Objektivität
+
+* Verkörperung von Begriffen als Teil des Apparats stellt Möglichkeit objektiver Erkenntnis sicher (S. 26; "Bohr-Teil")
