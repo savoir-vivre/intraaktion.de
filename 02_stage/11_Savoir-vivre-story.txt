@@ -1,9 +1,9 @@
-:Savoir-Vivre-Story:
+: Savoir-Vivre-Story :
 
 1) In einem leerstehenden Gebäude 
 3) treffen sich seit anfang des Jahres 
 4) Menschen. 
 5) Sie arbeiten an 
-6) einem Versuch.
-7) Sie probieren es
-8) auch mit Besuchern aus.
+6) einem Versuch. 
+7) Sie probieren es 
+8) auch mit Besuchern aus. 
