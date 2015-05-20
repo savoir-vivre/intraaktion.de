@@ -15,6 +15,20 @@ S. 12:
 S. 18 [Umrahmung der Ziele]: 
 "Diese Kausalbeziehung zwischen den Apparaten der Produktion von Körpern und den produzierten Phänomenen ist eine Beziehung der Handlungsintraaktion."
 
+S. 27:
+"Seine Aufmerksamkeit auf die Einzelheiten des Apparats ergibt einen vollkommenen Sinn angesichts seines Insistierens darauf, daß die Begriffe, die zur Beschreibung von Phänomenen verwendet werden, keine Vorstellungen, sondern spezifische materielle Anordnungen sind: Für Bohr sind Wort und Welt miteinander verbunden [...]"
+
+S. 30:
+"Beide Ansätze erkennen also die binäre Unterscheidung zwischen Natur und Kultur (in unterschiedlichem Ausmaß) an und schieben dadurch eine gründliche Genealogie ihrer Produktin auf. Butlers und Foucaults Theorien sind auf entscheidende Weise nicht in der Lage, eine adäquate Darstellung der Beziehung zwischen Diskurspraktiken und meteriellen Phänomenen zu bieten, was uns zu der Frage führt, ob Bohrs Einsichten in die verkörperte Eigenart von Begriffen in dieser Hinsicht fruchtbar gemacht werden könnten. Wir brauchen eine posthumanistische Darstellung der materiell-diskursiven Praktiken der Materialisierung und Relevanzbildung (einschließlich derjenigenm die als 'wissenschaftlich', und derjenigen, die als 'gesellschaftlich' bezeichnet werden)."
+
+"(1) Apparate sind spezifische materiell-diskursive Praktiken (sie sind nicht nur Laboreinrichtungen, die menschliche Begriffe verkörpern und Messungen vornehmen);
+(2) Apparate produzieren Unterschiede, die von Belang sind - sie sind Grenzen herstellende Praktiken, die sowohl Materie als auch Bedeutung formen und die produzierten Phänomene herstellen, deren Teil sie sind;
+(3) Apparate sind materielle Konfigurationen/dynamische Rekonfigurationen der Welt;
+(4) Apparate sind selbst Phänomene (die als Teil der fortlaufenden Intraaktivität der Welt konstituiert und dynamisch rekonfiguriert werden;
+(5) Apparate haben keine intrinsischen Grenzen, sondern sind erweiterbare Praktiken; und
+(6) Apparate sind nicht in der Welt lokalisiert, sondern stellen materielle Konfigurationen oder Rekonfigurationen der Welt dar, die sowohl die Räumlichkeit und Zeitlichkeit als auch (die traditionelle Vorstellung von) Dynamik (re)konfigurieren (d.h. sie existieren weder als statische Strukturen noch entfalten sie sich oder entwickeln sich bloß in Raum und Zeit)."
+
+
 ::: Begriffe
 
 :::: Phänomene sind die primäre ontologische Einheit 
