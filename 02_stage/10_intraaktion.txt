@@ -20,33 +20,64 @@ S. 27:
 
 S. 30:
 "Beide Ansätze erkennen also die binäre Unterscheidung zwischen Natur und Kultur (in unterschiedlichem Ausmaß) an und schieben dadurch eine gründliche Genealogie ihrer Produktin auf. Butlers und Foucaults Theorien sind auf entscheidende Weise nicht in der Lage, eine adäquate Darstellung der Beziehung zwischen Diskurspraktiken und meteriellen Phänomenen zu bieten, was uns zu der Frage führt, ob Bohrs Einsichten in die verkörperte Eigenart von Begriffen in dieser Hinsicht fruchtbar gemacht werden könnten. Wir brauchen eine posthumanistische Darstellung der materiell-diskursiven Praktiken der Materialisierung und Relevanzbildung (einschließlich derjenigenm die als 'wissenschaftlich', und derjenigen, die als 'gesellschaftlich' bezeichnet werden)."
-
-"(1) Apparate sind spezifische materiell-diskursive Praktiken (sie sind nicht nur Laboreinrichtungen, die menschliche Begriffe verkörpern und Messungen vornehmen);
-(2) Apparate produzieren Unterschiede, die von Belang sind - sie sind Grenzen herstellende Praktiken, die sowohl Materie als auch Bedeutung formen und die produzierten Phänomene herstellen, deren Teil sie sind;
-(3) Apparate sind materielle Konfigurationen/dynamische Rekonfigurationen der Welt;
-(4) Apparate sind selbst Phänomene (die als Teil der fortlaufenden Intraaktivität der Welt konstituiert und dynamisch rekonfiguriert werden;
-(5) Apparate haben keine intrinsischen Grenzen, sondern sind erweiterbare Praktiken; und
-(6) Apparate sind nicht in der Welt lokalisiert, sondern stellen materielle Konfigurationen oder Rekonfigurationen der Welt dar, die sowohl die Räumlichkeit und Zeitlichkeit als auch (die traditionelle Vorstellung von) Dynamik (re)konfigurieren (d.h. sie existieren weder als statische Strukturen noch entfalten sie sich oder entwickeln sich bloß in Raum und Zeit)."
+ 
+"(1) Apparate sind spezifische materiell-diskursive Praktiken (sie sind nicht nur Laboreinrichtungen, die menschliche Begriffe verkörpern und Messungen vornehmen); 
+(2) Apparate produzieren Unterschiede, die von Belang sind - sie sind Grenzen herstellende Praktiken, die sowohl Materie als auch Bedeutung formen und die produzierten Phänomene herstellen, deren Teil sie sind; 
+(3) Apparate sind materielle Konfigurationen/dynamische Rekonfigurationen der Welt; 
+(4) Apparate sind selbst Phänomene (die als Teil der fortlaufenden Intraaktivität der Welt konstituiert und dynamisch rekonfiguriert werden; 
+(5) Apparate haben keine intrinsischen Grenzen, sondern sind erweiterbare Praktiken; und 
+(6) Apparate sind nicht in der Welt lokalisiert, sondern stellen materielle Konfigurationen oder Rekonfigurationen der Welt dar, die sowohl die Räumlichkeit und Zeitlichkeit als auch (die traditionelle Vorstellung von) Dynamik (re)konfigurieren (d.h. sie existieren weder als statische Strukturen noch entfalten sie sich oder entwickeln sich bloß in Raum und Zeit)." 
+ 
+S. 32:
+"Diskurs ist kein Synonym für Sprache. Diskurs bezieht sich nicht auf sprachliche oder Zeichensysteme, Grammatiken, Spreckakte oder Gespräche. Wenn man sich den Diskurs einfach als gesprochene oder geschriebene Wörter vorstellt, die diskreptive Aussagen bilden, begeht man den fehler des repräsentationalistischen Denkens. Der Diskurs ist nicht das, was gesagt wird; ers ist das, was dasjenige. das gesagt werden kann, einschränkt und ermöglicht." 
+ 
+"Diskurspraktiken legen fest, was als sinnvolle Aussage gilt. Aussagen sind nicht die bloßen Äußerungen des ursprünglichen Bewßtseins eines einheitlichen Subjekts; vielmehr entstehen Aussagen und Subjekte aus einem Feld von Möglichkeiten. Dieses Feld von Möglichkeiten ist nicht statisch oder singulär, sondern vielmehr eine dynamische und kontingente Vielheit." 
+ 
+S. 33:
+"Auf der Grundlage seiner [Bohrs] tiefen Erkenntnis, daß 'Begriffe' (die wirkliche physikalische Anordnungen sind) und 'Dinge' keine festliegenden Grenzen, Eigenschaften oder Bedeutungen unabhängig von ihren gegenseitigen intraaktionen besitzen, bietet Bohr einen neuen erkenntnistheoretischen Rahmen an, der die Dualismen von Objekt und Subjekt, Erkennendem und Erkanntem, Natur und Kultur, Wort und Welt in Frage stellt." 
+ 
+"Bohrs Erkenntnis, daß Begriffe nicht ideell, sondern stattdessen wirkliche physikalische Anordnungen sind, ist eindeutig ein Insistieren auf der Materialität der Bedeutungserzeugung [...] Vielmehr impliziert Bohrs Punkt eine viel innigere Beziehung zwischen Begriffen und Matrialität, Materie und Bedeutung. 
+Der Wechsel von sprachlichen Begriffen zu Diskurspraktiken bietet die Möglichkeit, Bohrs Sichtweise von ihrer Anbindung an menschliche Begriffe und die statische Beschaffenheit von Apparaten mit einem Schlag zu befreien." 
+ 
+S. 36:
+"Diskurspraktiken sind wesentliche kausale Intraaktionen - sie setzen kausale Strukturen in Kraft, durch die einige der Bestandteile (die 'Wirkungen') der Phänomene durch ander Bestandteile (die 'Ursachen') in ihrer jeweiligen Gliederung markiert werden." 
+ 
+"Bedeutung ist keine Eigenschaft einzelner Wörter oder Wortgruppen, sondern fortlaufende Leistung der Welt in ihrem jeweiligen Tanz von Verstehbarkeit und Unverständlichkeit." 
 
 
 ::: Begriffe
 
 :::: Phänomene sind die primäre ontologische Einheit 
 
-* Ph. sind die ontologische Unzertrennlichkeit / Verschränkung intraagierender Agentien (S.19)
+* Ph. sind die ontologische Unzertrennlichkeit / Verschränkung intraagierender Agentien (S.19, 35)
 * Bestandteile von Ph. erhalten durch IA (Intraakion) Bedeutung
 * Ph. werden von Apparaten hervorgebracht (S. 20 f.)
 * sind für die Wirklichkeit konstitutiv
 
 :::: Apparate sind die primäre semantische Einheit
 
-* auch: materiell-diskursive Praktiken
+* auch: materiell-diskursive Praktiken (S. 30)
 * "sind die Bedingungen der Möglichkeit für bestimmte Grenzen und Eigenschaften von Objekten und Bedeutungen verkörperter Begriffe innerhalb des Phänomens." (S. 26; "Bohr-Teil")
+* Siehe S. 30 f.
+* ziehen ontisch-semantische Grenzen (S. 35)
 
 :::: Begriffe
 
 * erlangen durch IA Bedeutung
+* wirkliche physikalische Anordnungen, nicht ideell (S. 33)
 
 :::: Objektivität
 
 * Verkörperung von Begriffen als Teil des Apparats stellt Möglichkeit objektiver Erkenntnis sicher (S. 26; "Bohr-Teil")
+
+:::: Diskurs
+
+* nicht Sprache, sondern was das, was gesagt werden kann, einschränkt und ermöglicht (es absteckt) (S. 32)
+
+:::: Diskurspraktiken
+
+* legen fest, was al sinnvolle Aussage gilt (S. 34)
+
+:::: Aussagen
+
+* nicht bloße Äußerungen eines einheitlichen Subjekts, sondern A. und S. entstehen aus einem dynamischen Feld von Möglichkeiten (S. 32)
