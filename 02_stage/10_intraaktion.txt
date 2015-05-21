@@ -64,6 +64,21 @@ S. 57:
  
 S. 72: 
 "Phänomene werden durch spezifische kausale Intraaktionen mit Hilfe von vielfachen Apparaten körperlicher Produktion hervorgebracht. Intraaktionen sind kausale (aber nicht-deterministische) Vollzüge, durch die die Materie-im-Prozeß-des-Werdens aussedimentiert und in weitere Materialisierungen eingefaltet wird. Apparate sind also /materiell-diskursive Praktiken - kausale Intraaktonen, durch die sich die Materie schrittweise und differentiell artikuliert, wobei das materiell-diskursive Feld von Möglichkeiten und Unmöglichkeiten in der fortlaufenden Dynamik der Intraaktivität, die das Tätigsein ist, rekonfiguriert wird./ Apparate sind keine begrenzten Objekte oder Strukturen; sie sind erweiterbare Praktiken. Die Rekonfiguration der Welt setzt sich endlos fort. Die dynamische Kraft der Materie ist unerschöpflich, überschäumend und überaus produktiv." 
+ 
+S. 75: 
+"Humanistische Sichtweisen fassen dieses Hervorbringen [von Phänomenen durch Apparate] als eine direkte Folge menschlicher Handlungen, Entscheidungen, Absichten, Verpflichtungen, Ideen, Werte, Begriffe, Überzeugungen, Vorannahmen, Ziele und dergleichen auf. Im Gegensatz zu dieser Ansicht würde ich geltend machen, daß menschliche Subjekte mit bestimmten Grenzen und Eigenschaften nicht schon vor ihrerm 'Einbezogensein' in natürlich-kulturelle Praktiken existieren. [...] Es verhält sich folgendermaßen: Insofern Begriffe, Handhabungen im Labor, Eingriffe bei der Beobachtung und andere menschliche Praktiken eine Rolle zu spielen haben, tun sie das als Teil der umfassenderen größeren materiellen Konfiguration der Welt. Die hervorgebrachten Phänomene sind also nicht die Folgen des menschlichen Willens oder der Intentionalität oder die Wirkungen der Einflüsse von Kultur, Sprache und Macht. Menschen setzen nicht bloß verschiedene Apparate zusammen, um bestimmte Erkenntnisprojekte zu erfüllen: sie sind selbst ein Teil der fortlaufenden Rekonfiguraion der Welt. Die besonderer Konfiguration, die ein Apparat annimmt, ist keine willkürliche Konstruktion 'unserer' Wahl. Das heißt nicht, daß menschliche Praktiken keine Rolle zu spielen haben; wir müssen uns nur über die Eigenart dieser Rolle im klaren sein." 
+ 
+S. 85:
+"Sie [die agentielle Abtrennbarkeit] lehnt die Geometrien der absoluten Äußerlichkeiten oder absoluten Innerlichkeiten ab und eröffnet einen viel größeren Raum, den ma sich auf angemessenere Weise als eine dynamische und sich ständig verändernde Topologie vorstellen kann. Genauer geht es bei der /agentiellen Abtrennbarkeit/ um die /Äußerlichkeit innerhalb von Phänomenen/."
+ 
+S. 86: 
+"Das Überschäumen der Welt, ihre übersprudelnde Kreativität, kann niemals zurückgehalten oder aufgehoben werden. Das Tätigsein hört nie auf; es kann sie nicht 'erschöpfen'".
+ 
+S. 88:
+"/Tätigsein ist 'tun' oder 'sein' in seiner Intraaktivität. Es ist der Vollzug schrittweiser Rekonfigurationen topologischer Mannigfaltigkeiten von Raum-Zeit-Materie-Beziehungen - durch die Dynamik der Intraaktivität. Beim Tätigsein geht es um die Veränderung von Veränderungsmöglichkeiten, die von der Rekonfiguration materiell-diskursiver Apparate der Produktion von Körpern impliziert werden, einschließlich der Gleiderung von Grenzen und der Ausschlüsse, die von diesen Praktiken beim Vollzug der Kausalstruktur markiert werden./"
+ 
+"Zu jedem Zeitpunkt gibt es bestimmte Möglichkeiten der (Intra-)Aktion, und diese sich verändernden Möglichkeiten implizieren eine ethische Verpflichtung im Werden der Welt verantwortlich zu intraagieren, sich mit den relevanten Dingen und dem, was von der Relevanz ausgeswchlossen ist, auseinanderzusetzen und sie bzw. es umzuarbeiten." 
+
 
 
 ::: Begriffe
@@ -82,6 +97,7 @@ S. 72:
 * "sind die Bedingungen der Möglichkeit für bestimmte Grenzen und Eigenschaften von Objekten und Bedeutungen verkörperter Begriffe innerhalb des Phänomens." (S. 26; "Bohr-Teil")
 * Siehe S. 30 f.
 * ziehen ontisch-semantische Grenzen (S. 35)
+* sind selbst Phänomene (S. 85 [und andere])
 
 :::: Begriffe
 
@@ -91,6 +107,7 @@ S. 72:
 :::: Objektivität
 
 * Verkörperung von Begriffen als Teil des Apparats stellt Möglichkeit objektiver Erkenntnis sicher (S. 26; "Bohr-Teil")
+* agentielle Abtrennbarkeit -  eine agentiell vollzogene ontologische Abtrennbarkeit /innerhalb/ des Phänomens (S. 81 f.)
 
 :::: Diskurs
 
@@ -113,3 +130,7 @@ S. 72:
 * agentiv und intraaktiv (S. 73)
 * dynamisches intraaktives Werden, das nie stillsteht (ebd.)
 * eine fortlaufende Rekonfiguration, die über jede lineare Auffassung von Dynamik hinausgeht (ebd.)
+
+:::: Verantwortung
+
+* siehe S. 88
