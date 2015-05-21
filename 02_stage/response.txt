@@ -1,6 +1,8 @@
-: Rückmeldung zu savoir vivre 4
+: Rückmeldungen
 
-:: Lena
+:: zu savoir vivre 4
+
+::: Lena
 
 * Spannend fand ich das "Blindenspiel" (habe zeitlgleich "Mein Name sei gantenbein" von Max Frisch gelesen, vllt auch deswegen die besonderer Begeisterung) und eure Texte die man dazu auf dem handy lesen konnte. Da konnte man nachvollziehen wie Räume auf anderer Art wahrgenommen werden und welche merkmale der Umwelt dann in den Fokus rücken.Unsere Art der Wahrnehmung scheint großen Einfluss auf unser Bild der Umwelt zu haben--> gut nachvollziehbar.
 * Der Grabstein hat viele Fragen bei mir ausgelöst. In welchem raum bewegen wir uns, wenn wir tot sind? Oder liegen wir wirklich da unter der Erde und sind sonst nirgendwo. Eigentlich macht ein Grabstein ja nur bei zweiterer Variante Sinn.
@@ -9,9 +11,9 @@
 * Witzig finde ich übrigens den Effekt in alles unheimlich viel zu interpretieren, wenn man weiß, dass man teil einer Kunstaktion ist.
 
 
-:: Fragen
+::: Fragen
 
-::: Puma:
+:::: Puma:
 
 Braucht es einen Ort, damit du dich zugehörig zu fühlst? 
 Meine Zugehörigkeit zu Orten ist eine Symbiose der Umgebung und den mir bekannten Menschen. Es muss wohl einen Schwellenwert geben, ab dem eine gewisse 'Zugehörigkeit' erreicht ist. 
@@ -28,7 +30,7 @@ Wo bist du währenddessen noch, wenn du gerade hier bist?
 Ich bin mit den Gedanken bei Vergangenheit, Gegenwart und Zukunft. Oft auch in Verhindung des Ortes. 
 
 
-::: Lena:
+:::: Lena:
 
 Braucht es einen Ort, damit du dich zugehörig zu fühlst? 
 Es brauch einen Ort an dem ich weiß wie ich mich bewegen kann ohne aufzufallen. Dann gehöre ich dazu. 
@@ -40,7 +42,9 @@ Wo liegen die Grenzen deines Gebiets?
 Meistens zieht der Alltag meine Grenzen und ich bewege mich immer in einem vertrauten Gebiet. 
 
 
-::: Über Savoir Vivre III- eine kurze Interpretation
+:: sv3
+
+::: Über Savoir Vivre III- eine kurze Interpretation (Vinzenz)
 
 Eine Mitspielerin sagte mir während des Experiments: „Ich hatte mir das mehr wie eine Schnitzeljagd vorgestellt.“ Darauf hin antwortete ich: „Das ist es ja auch. Nur, das wir wohl keinen Schatz, sondern mehr neue Erkenntnisse finden sollen.“ In diesem Sinne wollt vielleicht nicht nur ihr, die ihr die Experimentenreihe konzipiert habt,  Erkenntnisse dazugewinnen und etwas verstehen, sondern auch wir die Teilnehmer und Teilnehmerinnen sollten etwas dazu lernen. Durch die versendeten Karten zum Beispiel von Paris, Stockholm und der Arktis, durch den Aufbau von Terrapolis und die den Karten angehängten Texten sollten wir vermutlich verstehen und sehen, dass Karten, wie so vieles im Leben nur einen Teil der sogenannten „Wahrheit“ darstellen. Oder wie ein Geschichtsprofessor von mir zu sagen pflegte: „Karten lügen.“
 Trotzdem können wir im Alltag in der großen Stadt gar nicht anders, als uns auf die elektronischen Karten zu verlassen. Denn gerade die vielen bunten Symbole, die aber so gestaltet sind, dass wir sie schnell verstehen können, sollen dazu beitragen, dass wir die Übersicht nicht verlieren. Trotzdem kann es aber schnell dazu kommen, dass die Hilfswerkzeuge komplizierter werden, als das zu lösende Problem (den richtigen Weg zu finden, zum Beispiel). Das zeigten gut die versendeten Karten. Dadurch, dass wir uns in einer solchen Stadt bewegen, formen wir uns durch Wahrnehmung, Orientierungspunkte und Erinnerung eine eigene Karte im Kopf, die uns sicher durch die Stadt bringen kann. Doch letztlich können beide Kartensysteme auch bald versagen. Ich kann kein Netz für den Empfang einer virtuellen Karte haben. Oder sie zeigt mir nur eine gefilterte Darstellung meiner Umgebung und beeinflusst dadurch meine Wahrnehmung meiner Umgebung, sodass ich Details gar nicht mehr wahrnehme. Ich könnte zum Beispiel Häuser und Straßen als Rechtecke und Linien sehen, ich sehe aber nicht mehr die Bewegungen und persönlichen Geschichten, die hinter jedem Fenster zu finden sind. Ich sehe die Kneipe, weil sie auch auf der Karte eingezeichnet ist, kenne aber nicht die andere, die eine Straße weiter weg ist, da ihr Name nicht genannt wurde. Können virtuelle Karten unsere Wahrnehmung so sehr vereinfachen, dass wir eine Stadt nur noch sehen, aber nicht mehr hören, fühlen, schmecken? Und wenn sie mir den schnellsten Weg ausrechnet, was wird dann aus dem Spruch: „Umwege erweitern die Ortskenntnis.“? 
