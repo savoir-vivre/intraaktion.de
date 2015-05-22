@@ -189,7 +189,7 @@ h4,a,a:visited {
 #logo,#emblem,img {
 	margin:0 auto;
 }
-pre,p code,#quote {
+pre,p code {
 	border:1px solid grey;
 }
 #desc,article {
