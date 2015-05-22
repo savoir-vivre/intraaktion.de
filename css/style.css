@@ -150,6 +150,10 @@ html {
 code,#quote {
 	font-family:inconsolata, monospace;
 }
+#quote {
+	padding:0 0 0 10px;
+	border-left:1px dotted #808080;
+}
 body {
 	font-family:quicksand, sans-serif;
 	font-style:normal;
