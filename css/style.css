@@ -147,7 +147,7 @@ html {
 	url('/files/fontfiles/inconsolata-webfont.ttf') format('truetype'),
 	url('/files/fontfiles/inconsolata-webfont.svg#webfont') format('svg');
 }
-code {
+code,#quote {
 	font-family:inconsolata, monospace;
 }
 body {
@@ -189,7 +189,7 @@ h4,a,a:visited {
 #logo,#emblem,img {
 	margin:0 auto;
 }
-pre,p code {
+pre,p code,#quote {
 	border:1px solid grey;
 }
 #desc,article {
