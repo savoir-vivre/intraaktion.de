@@ -1,14 +1,14 @@
 : Intraaktion
 
-:: Vortrag
+:: Reader
 
 ::: Einleitung
 
-THEATER SIND
+THEATER
 
-* DISKURSIVE PRAKTIKEN, nicht nur Laboreinrichtungen, die etwas verkörpern oder vermessen
+* sind DISKURSIVE PRAKTIKEN, nicht nur Laboreinrichtungen, die etwas verkörpern oder vermessen
 * produzieren UNTERSCHIEDE, die von Belang sind
-* KONFIGURATIONEN und dynamische REKONFIGURATIONEN der Welt
+* sind KONFIGURATIONEN und dynamische REKONFIGURATIONEN der Welt
 * haben KEINE intrinsischen GRENZEN, sondern sind erweiterbare PRAKTIKEN
 * sind nicht etwas in der Welt, sondern TEIL der Welt
 
@@ -28,8 +28,33 @@ So machten wir unseren Anfang mit SV1, wo wir untersuchten, wie die ersten und u
 
 ::: SV2
 
-Zurecht nimmt Barad jedoch eine posthumanistische Position ein und lehnt binäre Grenzziehungen zwischen Mensch und Nicht-Mensch, Natur und Kultur ab. Wenn wir uns selbst untersuchen, wo hören wir auf, wo enden wir? Wenn diese Frage nicht schon grundsätzlich berechtigt ist, dann wenigstens unter hochaktuellen Gesichtspunkten. Wie sehr bestimmt mich meine Vergangenheit, unsere kollektive Vergangenheit? Darf ich nur das mein Gedächtnis nennen, worin ich mich adhoc erinnern kann, oder auch das, was meine VHS, Google, mein Handy speichert? 
-Lässt die Fülle an Geschichtlichkeit, die wir geerbt haben, noch Raum für Zukunft? 
+Zurecht nimmt Barad jedoch eine posthumanistische Position ein und
+lehnt binäre Grenzziehungen zwischen Mensch und Nicht-Mensch, Natur
+und Kultur ab. Wenn wir uns selbst untersuchen, wo hören wir auf,
+wo enden wir? Wenn diese Frage nicht schon grundsätzlich berechtigt
+ist, dann wenigstens unter aktuellen Gesichtspunkten der
+Technikentwicklung. Wie sehr bestimmt mich meine Vergangenheit,
+unsere kollektive Vergangenheit? Darf ich nur das mein Gedächtnis
+nennen, worin ich mich adhoc erinnern kann, oder auch das, was
+meine VHS, Google, mein Handy speichert? 
+Lässt die Fülle an Geschichtlichkeit, die wir geerbt haben, noch
+Raum für Zukunft? 
+Wo endet der Augenblick, unsere Gegenwart, in der wir handeln
+können? Um tätig zu werden, müssen wir erst den Augenblick greifen.
+Wir versuchen dann einzuordnen - das heißt, abzugrenzen. Das bin ich,
+das sind wir, das bist du, das seid ihr, das ist Vergangenes, das
+Zukünftiges. Und nie greifen wir damit die Realität. 
+Im Sinne der Intraaktion würde das nämlich bedeuten, den Apparaten
+innere und äußere Grenzen zu geben. Den Apparat zu einem Objekt
+machen, das vermessen wird. Was wir dabei vergessen, ist, dass
+dabei nicht nur der Apparat dann ein anderer ist, als zuvor, sondern
+auch wir, die vermessen. Denn: wir schaffen dann ein neues Phänomen,
+und wenn wir doch schaffen, Grenzen auszumachen, dann gelten sie nur
+für dieses neue Phänomen und nicht für das, welches wir ursprünglich
+greifen wollten. Das war der Augenblick, den wir fassen wollten, um
+zu handeln. Doch statt zu handeln, haben wir vermessen, und nun
+steht vor uns und sind wir Teil eines nächsten Augenblicks. 
+ 
 "Die Vergangenheit ist zwar wichtig und ebenso die Zukunft, aber die Vergangenheit wird nie zurückgelassen. Sie ist nie ein für allemal beendet, und die Zukunft ist nicht das, was in einer Entfaltung des gegenwärtigen Augenblickes der Fall sein wird; vielmehr sind die Vergangenheit und die Zukunft eingefaltete Teilhaber am schrittweisen Werden der Materie." 
 
 ...
