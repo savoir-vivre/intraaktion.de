@@ -15,12 +15,14 @@
 4. Intraaktion II
 
 5. Savoir Vivre I
+
       * SV1-Reader
       * C) Deep Attention - yes or no?
 
 6. Intraaktion III
 
 7. Savoir Vivre II
+
       * SV2-Reader
       * B) Zukunft/Protention
       * G) Zukunft proklamieren um sie sich anzueignen
@@ -28,6 +30,7 @@
 8. Intraaktion IV
 
 9. Savoir Vivre III
+
       * SV3-Reader
       * H) Warum Geography?
 
