@@ -1,6 +1,6 @@
-Stern-Gerlach-Experiment
-Barad / Grenzen des Apparats (S. 58 ff. / 62 ff.)
-
+Stern-Gerlach-Experiment 
+Barad / Grenzen des Apparats (S. 58 ff. / 62 ff.) 
+ 
 Und nun, weiter im Programm; eine Geschichte. Die Protagonisten: zwei Wissenschaftler. Dazu ihre Assistenten, eine Hand voll Silberatome, Laborinstrumente und Zigarren; in Nebenrollen Albert Einstein und Henry Goldman. Die Wissenschaftler werden später zu Ruhm gelangen, über sie gibt es weitere Geschichten und viele, die diese Geschichte anders erzählen. 
 Die beiden Wissenschaftler – Walther Gerlach, Professor der Physik; Otto Stern, Physiker auf dem Weg zur Professur – beschäftigen sich mit der noch jungen Quantenphysik. Das Atommodell von Niels Bohr ist bereits einige Jahre im Umlauf, wir schreiben das Jahr 1922. Es hat sich noch nicht vollständig etabliert, viele halten noch an der dazu inkompatiblen, klassischen Physik fest. Nicht so Otto Stern. 
 Das Modell von Bohr stellte Physiker vor das Rätsel, weshalb die Ebenen der   Elektronenumlaufbahnen in Atomen sich scheinbar nur in bestimmte Richtungen des Raumes ausdehnen konnten, man spricht von der Quantisierung des Raumes. Es war unklar, ob es sich überhaupt um ein Phänomen handelt und welche Schlüsse daraus zu ziehen seien. 
