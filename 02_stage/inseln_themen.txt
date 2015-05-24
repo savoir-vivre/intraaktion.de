@@ -64,11 +64,11 @@ tertiäre Retention durch Technologie > vorherbbestimmtung der Deutung / Protent
 innewohnende Faulheit und Feigheit -> sampling
 
 ----------------
-
+b1
 Orte des Übergangs in denen nicht mehr und auch noch nicht ist. Die BRD ist momentan voll damit. Manchmal kommt es mir so vor als wenn ich selber ein solcher Ort bin. Alles liegt so offen und doch ist alles so unklar und entfernt. Hinter der nächsten Bekanntschaft lauert mein Ego, hinter dem nächsten Job das nächste Burnout, hinter der nächsten Geschichte die nächste Moral oder Ideologie. Ich glaube die Bedingungen für Anwesenheit haben sich geändert: geprägt von den Bildern und Erzählungen der Medien, und sie eigentlich auch schon in mir durchsetzt, lebe ich in einer Welt die diese Fixsterne der westlichen Gesellschaft doch nicht ablegt. 
 Ich versuche an diesen Orten des Übergangs anzukommen. Sie zu besiedeln und in Ihnen heimisch zu werden. Ich hoffe Ihr unwirtlicher Charakter verzieht sich dann ganz von allein und ich sehe ihn mit liebenden Augen und mit der Möglichkeit einer Zukunft.
 
-
+b2
 Ich äußere etwas und denke es wurde von meinem Gegenüber verstanden.
 Wurde es auch. Aber bei seiner nächsten Äußerung merke ich, dass es
 nicht auf die Art verstanden wurde, wie ich es meinte. Das Bild aus
@@ -86,6 +86,7 @@ Das braucht Zeit und das braucht Energie. Manchmal haben wir die Zeit
 nicht. Und manchmal sollten wir unsere Energie für andere Taten
 verwenden als für Sprechen. 
 
+b3
 Sie betrachteten sich im Fenster. Sie ähnelten einander, sahen im
 selben Moment fast gleich aus, so wie der Andere daneben, aber anders, als die Anderen
 davor. Heute sehen alle aus, wie die Anderen davor aussahen, gleichzeitig sehen sie anders
@@ -97,10 +98,11 @@ sich mit dem Handy wieder um, schauen dahin, wo die Anderen damals standen und d
 was die da dachten. Das Dunkel sieht jetzt nach dem Bild von denen aus, die das damals da
 gemalt haben, was da sein sollte.
 
+b4
 Der Mann geht zum Fenster. Er schaut. Zeit vergeht. Der Mann holt sein Handy. Das Bild im Handy spiegelt das, was im Fenster ist. Das Fenster spiegelt das da. Der Mann wird Mensch. Der Mensch nimmt wahr. Der Mensch geht auf. Einer, alle, ein Teil, unendliche Teile. Ein Teil, unendliche Körper. Eigen den Allen. Hinter dem Fenster, Raum. Der Mensch ist da. Gleißende Dunkelheit. Der Mensch ist da. Verbunden, zusammen, unzertrennlich eins, ein Mensch, ein Raum , alle Menschen, Raum, sein. Sie nehmen wahr. Sie sind. Keine Zeit. Der Mensch, sie Alle in gleißender Dunkelheit. Wahrnehmen. Keine Struktur, Entfaltung. Keine Form, Aufgehen. Jeder Mensch, seine Form. Keine Zuschreibung. Gemeinsam Individuum sein. 
 Der Mann verließ das Zimmer. Der Mann wurde Mensch. Der Mensch erinnert nicht. 
 
-
+b5
 Der Mann erinnert sich: Er denkt an einen Weg; ein Fuß setzt sich vor den anderen zwischen die flatternden Schatten, die die Sonne durch die Blätter wirft. Tanzende Schatten auf dem Waldweg. Er geht, ein Fuß vor dem anderen und es riecht nach Sommer, nach warmem Waldboden und schweren Blüten. Schwer zieht an seinen Muskeln die Kiste. Jene Kiste; brauner Karton, gehalten von einer braunen Schnur. Verschlossen, vor keinem Blick je geöffnet, ist sie ihm seine geheime Welt. Plötzlich: Ein Gesicht, ein vertrautes Gesicht vor ihm. Es ist ein Freund, damals, aber er erinnert sich nicht mehr an dem Namen, heute. Heute erinnert er sich nur noch an die Scheu, den Schritt zurück, als der Andere ihm die Kiste entreißt. An den Schmerz einer Trennung, die Ohnmacht angesichts eines Übergriffes, der sich anfühlt, als hätte er, der Andere, mitten in ihn hineingegriffen. Als ziehe er ihm Inneres nach Außen. Der Andere kann die Kiste nicht öffnen. Mit enttäuschter Nachlässigkeit lässt er sie fallen, versetzt ihr einen Fußtritt, die Kiste fliegt und zerspringt an einem Baum. Als wäre in seinem Innersten etwas geplatzt und in tausend Teile gesprungen steht er und schaut und sein Innerstes läuft über und rinnt ihm aus den Augen, was sich anfühlt wie Verrat.
 (Kiste als Metapher intrinsischer Singularität)
 
@@ -114,8 +116,8 @@ COS vielleicht keine Krankheit sondern effizienteste Art auf technische Umgebung
 
 city for COS (?)
 
--------------------
 
+c1
 Sie suchen nach einem neuen Weg, Theater zu machen. Themen und Fragestellungen so zu behandeln, 
 dass sie für Teilnehmende und ZuschauerInnen über die Dauer einer Aufführung 
 hinaus relevant bleiben. Sich mit Themen richtig intensiv zu beschäftigen, bevor 
@@ -136,7 +138,7 @@ kollaboratives arbeiten / andere Formen der arbeit /
 
 hypmnemata zur generierung von Muße welche uns die Ideen für superego, sublimierung , public power 
 
-
+d1
 Wir zahlen kaum Miete,
 es ist einer dieser immer seltener werdenden, sehr begehrten Räume in
 Berlin, in denen man proben, arbeiten und experimentieren kann. Menschen
@@ -156,6 +158,7 @@ das, was hier entstehen könnte, schützen wollen vor verfrühten
 Festlegungen und formalen Einschränkungen aufgrund von räumlichen,
 terminlichen und strukturellen Zwängen. 
 
+d2
 Wikipedia: Pseudocode ist ein Programmcode, der nicht zur maschinellen Interpretation, sondern lediglich zur Veranschaulichung eines Paradigmas oder Algorithmus dient.
 Wir werden 4 Monate lang Pseudocode schreiben, reden und leben. Wissenschaft, Theater, Programmierung, Design, Ritus. All diese Bereiche erfordern für all unsere Treffen in diesen 4 Monaten das Präfix Pseudo. 
 Wikipedia: Mit Pseudocode kann ein Programmablauf unabhängig von zugrunde liegender Technologie beschrieben werden und ist damit oft kompakter und leichter verständlich als realer Programmcode. 
@@ -168,12 +171,13 @@ Versteht man die Arbeitsprozesse an Theatern aber vielleicht auch in Lehreinrich
 suche nach der überlagerung von techniken des selbst durch techniken der programmierindustrie 
 --> umgang mit technik in mittelpunkt der aufmerksamkeit rücken
 
----------------------
 
+e1
 Auf einmal hing das Babyphon im Baum, zu viele Menschen wollten gleichzeitig 
 ihr Datenvolumen wiegen, die Plane war zu viel und dunkel wurde es zu schnell.
 Wie schön, alle bauen Terrapolis. 
 
+e2
 Grau und blau stehen sie an der
 Bushaltestelle; Mutter und Sohn - oder: Großmutter und Enkel - oder: Tante
 und Neffe. Das Unwohlsein ist ihnen sichtlich anzumerken, denn Papa - oder:
@@ -206,13 +210,14 @@ Individuisierung als Prozess der genereierung eines Autonomen Individuums (als T
 
 transindividuisierung 
 
--------------------------
+f1
 
 Über diese wenigen Tage (ich war nur bei SV III dabei) wurde aus fremden Menschen, 
 eine Gruppe, mit der ich Lust habe, weiterzuarbeiten. Eine ambitionierte Gruppe, 
 die nicht nur das Projekt eint. Schöne Begegnungen, anstrengende Stunden, schöne Stunden. 
 Eine Gruppe, die sich aus Menschen unterschiedlichster Richtungen zusammensetzt und jedem Einfluss gleich viel Bedeutung einräumt. 
 
+f2
 Ein dunkler Hinterhof, irgendwo in Neukölln. Die Nummerierung im Navi 
 ist falsch, die Tür versteckt, Schnitzeljagd. Andere kommen und fragen, 
 es wird geraucht und zusammen gesucht. Wohl ein echter Geheimtipp 
@@ -233,8 +238,8 @@ Elfenbeinturm und ungezwungenem Sit-In.
 zukunft proklamieren um sich an der proklamierung abzuarbeiten
 marketingsprech ( vorhersehbarkeit der singularität) zerstören
 
----------------------------
 
+g1
 Euphorie. Immer noch nicht ganz im Klaren darüber, wie ich dazu komme,
 mich zu der ganzen Sache zu äußern. Und gar nicht, wie zu äußern. Keine
 Ahnung, was erwartet wird. Immer mal wieder die kryptische Mail gelesen,
@@ -245,6 +250,7 @@ hungrig. Fragen im Kopf, aber schon wieder schon so neugierig, dass der
 Zauber durch zu frühes Fragen nicht vergehen soll. Etwas Sorge darüber,
 wieder zu leichtsinnig zu sein, aber kaum Zeit, sich darum zu sorgen.
 
+g2
 Zusammenhang? Entsteht; vielleicht … hoffentlich … oder lieber nicht?
 Menschen! Sie suchen den Zusammenhang, bis sie einen finden,
 vielleicht einen anderen als gedacht. Das Spiel mit der Suche und die
@@ -254,6 +260,7 @@ diese Rollen sind hier nicht eindeutig zuzuordnen. Menschen gehen
 gemeinsam ein Stück Weges, agieren und nehmen das Geschehen auf je
 eigene Weise wahr, erinnern sich, erkennen wieder.
 
+g3
 Ein weiterer Ausbruchsversuch aus irgendeiner Normalität. Was neues, 
 hippes in Berlin. Sachen anders machen, nicht einfach weiter rennen 
 wollen im Laufrad. Bunter Mix, auf Offenheit festgelegt, 
@@ -263,6 +270,7 @@ Entdecker handeln. Den surrealen Blick schärfen und auf das richten,
 was einen hergeführt hat, haptisch, operativ, ideell. 
 Aus der Frage eine Praxis machen. So ganz anders als an der Uni. 
 
+g4
 Sich einen Raum schaffen und
 teilen, ihn mit Freundschaft, Interessen und Tatendrang füllen, Visionen
 ernst nehmen und als Chance begreifen, mit gutem Grund konstruktiv sein.
@@ -274,6 +282,7 @@ Dasein mitkonstituieren. So mehrte sich die Tiefe, Dauer, Ausdauer,
 Reichweite und Produktivität innerhalb jeder Arbeitphase in einer Weise,
 wie sie vorher nicht absehbar war.
 
+g5
 Am Ende meines Sprechens wird Jemand aus dieser Tür in langsam geführten
 Schritten an dieses Mikrophon treten. Ein kurzer Seitenblick in Richtung
 dieses Flures, in dem Publikum stehen wird, welches teils erwartungsvoll,
@@ -299,7 +308,7 @@ seite 35 reenchanment
 translocality als public power / super-ego
 
 
---------------------------
+h1
 
 Wenn jemand nicht da ist dann fehlt er. Und das
 nicht nur im produktiven Sinn. Jemand fehlt nicht nur um sich zu äußern
@@ -320,6 +329,7 @@ Treten Sie ein, nehmen Sie Platz, fühlen Sie sich wohl.
 
 :I) weiteres
 
+i1
 Got everything, I got
 everything… I cannot complain, I cannot. Bist du dir da sicher? Da sind wir also wieder, am
 Ende des Regenbogens. Ok, lass mich dir eine Frage stellen, die sich mir sofort aufdrängt:
@@ -330,22 +340,20 @@ und dann wieder selbst zu enttarnen, dass du selbst nicht mehr weißt, wann du m
 und wann du ehrlich mit uns sprichst, du kannst den Unterschied selbst nicht mehr
 ausmachen. Du weinst echte Tränen mit einem Auge, während du mit dem anderen, deine
 letzte Unterwerfung kommentierend, locker über die Schulter in die Kamera zwinkerst. Du
-9
 hast uns überzeugt, dass du anders bist, aber das war ein Trick. Da ist nichts Mutiges oder
 einzigartiges mehr, wenn du über deine Gefühle sprichst.
 
 
-
+i2
 Die bevorzugten Hölzer für die Papierherstellung
 sind Nadelhölzer wie Fichte, Kiefer und Lärche, da die längeren Fasern der Nadelhölzer dem
 Papier eine höhere Festigkeit verleihen als Laubhölzer. Trotzdem werden auch letztere für die
-10
 Papierherstellung genutzt, insbesondere Eukalyptus, Akazie, Pappel und Birke. Die
 Herstellung von Papier aus Holz ist energieaufwändig, sowie wasser- und rohstoffintensiv.
 Für ein handelsübliches Päckchen Kopierpapier (500 Blatt DIN A4, 2,3 kg) werden 7,5
 Kilogramm Holz, 130 Liter Wasser und 26,8 Kilowattstunden Energie benötigt.
 
-
+i3
 Menschlicher Körper und Geist setzen sich aus unzähligen Teilen zusammen, die ihn zu
 einem unverwechselbaren Individuum mit einer ihm eigenen Persönlichkeit machen. Meine
 Stimme und mein Gesicht unterscheiden mich von anderen, aber mein Verstand gehört mir,
