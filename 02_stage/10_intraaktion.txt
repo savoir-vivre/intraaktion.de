@@ -13,11 +13,11 @@ THEATER
 * sind nicht etwas in der Welt, sondern TEIL der Welt
 
 Das sind Definitionen frei nach Karen Barads "agentiellen Realismus". Im Original ist nicht von "Theater", sondern “Apparaten" die Rede. Es heißt also: APPARATE sind diskursive Praktiken, die etwas verkörpern oder vermessen. APPARATE sind Konfigurationen und dynamische Rekonfigurationen der Welt; APPARATE haben keine intrinsischen Grenzen, sondern sind erweiterbare Praktiken. APPARATE sind nicht etwas in der Welt, sondern Teil davon. Diese Behauptungen lassen sich nicht nur hervorragend auf das Theater umschreiben; das Theater selbst ist ein Apparat und eine Maschinenhalle.
-Barad - als promovierte Physikerin und Professorin für Philosophie und feministische Studien - geht es in ihren Theorien eigentlich nicht direkt um Theater oder Kunst, sondern um eine Beschreibung der Welt im Sinne der Physik und Ontologie. Schenken wir ihr glauben, gehen wir in unserem Verständnis von Welt, Mensch und Kultur grundsätzlichen Misskonzeptionen auf den Leim: allein schon deswegen, weil wir diese Grenzen zwischen ihnen ziehen. Wir bei Savoir Vivre sehen Parallelen zu den Problemen, mit denen wir uns beschäftigen und die wir angehen wollen. 
+Barad - als promovierte Physikerin und Professorin für Philosophie und feministische Studien - geht es in ihren Theorien eigentlich nicht direkt um Theater oder Kunst, sondern um eine Beschreibung der Welt im Sinne der Physik und Ontologie. Schenken wir ihr Glauben, gehen wir in unserem Verständnis von Welt, Mensch und Kultur grundsätzlichen Misskonzeptionen auf den Leim: allein schon deswegen, weil wir diese Grenzen zwischen ihnen ziehen. Wir bei Savoir Vivre sehen Parallelen zu den Problemen, mit denen wir uns beschäftigen und die wir angehen wollen. 
 Ein Sinn, eine Bedeutung, ein realer Unterschied konstituiert sich nicht auf Ebene einer Sprache, die repräsentiert (linguistische, visuelle, künstlerische, etc.), sondern durch eine Veränderung der Materialität. Materie ist nicht passiv, unveränderlich oder stumm. Sie INTRAagiert. 
 Während bei INTERaktionen schon vorher feste Grenzen, Bedeutungen und Eigenschaften aller Beteiligten angenommen werden, werden diese bei INTRAaktionen erst im Tätigsein verhandelt. Intraaktion ist Vollzug schrittweiser Rekonfiguration. Veränderung von Veränderungsmöglichkeiten. Materie artikuliert sich in der fortlaufenden Dynamik der Intraaktion schrittweise - in der nie aufhörenden schrittweisen Neubesetzung des materiell-diskursiven Felds von Möglichkeiten und Unmöglichkeiten. 
 So sollten wir Dinge nicht abschließend mit Bedeutungen einordnen und bewerten, und unser Tätigsein nicht darin erschöpfen, diese dann mit Symbolen abzubilden. Probieren wir also Formen der Tätigkeit direkt in der Tätigkeit mit den Dingen, statt mit Symbolen von ihnen, und finden dann darin die Bedeutung dieser Dinge und der versuchten Tätigkeit, deren Bedeutung wir sowieso erst finden können - und sogar überhaupt erst erschaffen! - im konkreten Versuch dieser Tätigkeit. 
-Die hier gemeinten Dinge sind keine abstrakten. Sie enden auch nicht im Soziologischen, Kulturellen oder Medientheoretischen, auch nicht im Anthropologischen oder in einem anderen Gebiet der Auseinandersetzung mit dem Menschen, wie wir es sonst von Latour, Stiegler, Fisher, Derrida oder Foucault kennen. Barads Vorschlag eines "agentiellen Realismus" - so ihr Buchtitel - versteht, dass der Mensch in der Beschreibung einer auch physikalischen Realität nicht das Maß aller Dinge sein kann und vergisst dabei aber auch nicht, dass Menschen eben ein reales Phänomen sind und einen Unterschied in der Welt machen. 
+Die hier gemeinten Dinge sind keine abstrakten. Sie enden auch nicht im Soziologischen, Kulturellen oder Medientheoretischen, auch nicht im Anthropologischen oder in einem anderen Gebiet der Auseinandersetzung mit dem Menschen, wie wir es sonst von Latour, Stiegler, Fisher, Derrida, Foucault, Appadurai und anderen kennen. Barads Vorschlag eines "agentiellen Realismus" - so ihr Buchtitel - versteht, dass der Mensch in der Beschreibung einer auch physikalischen Realität nicht das Maß aller Dinge sein kann und vergisst dabei aber auch nicht, dass Menschen eben ein reales Phänomen sind und einen Unterschied in der Welt machen. 
 Wenn in Barads Theorien die Apparate durch Intraaktionen ausmachen, was die physikalisch-materielle Welt ist, dann macht Theater als Intraaktion bei uns auch aus, was die Gesellschaft ist. Gesellschaft besteht und ist nämlich auch physikalisch-materielle Welt. 
 Was in einer Intraaktion hervorgebracht wird, ist bestimmt durch die Apparate, die in ihr intraagieren. 
 Jeweils sinnvolle Intraaktionen zu finden, machen wir uns zur Aufgabe. 
@@ -84,14 +84,85 @@ Wenn wir das verstehen, dann vielleicht auch, wieso Zukünfte der
 Vergangenheit gescheitert sind und wie wir ungelebte Vergangenheiten,
 die es zu leben gelohnt hätte, im Jetzt ernst nehmen können.
 
-::: PLATZHALTER SV3
+::: SV3
 
-Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe Ja Ja VeVe 
+"nichts Transzendenteres als das Verhältnis zwischen dem Bühnenbild 
+aus Pappmaché und dem Abheben der Figuren, die daraus hervorgekommen 
+zu sein scheinen"
+ 
+"Transzendenzen gibt es im Überfluß, weil zwischen zwei Segmenten
+eines Handlungsverlaufs stets eine Diskontinuität besteht, für die
+diese Transzendezen gewissermaßen der Preis, der Weg und die Rettung
+sind."
+ 
+Die Einheit von Kultur und Ort löst sich auf. Kultur ist nicht mehr
+fest verortet, sie bewegt sich in entgrenzten Strömen. 
+ 
+Außer landscapes haben wir ethnoscapes, technoscapes, financescapes,
+mediascapes, ideoscapes.
+Ortsunabhängige Räume verschiedener mobiler Ethnien, das Internet,
+globale Finanzströme, global vernetzte Medien und komplexe ideelle
+Landschaften und Vorstellungen. 
+ 
+Ganz egal wie sehr eine Produktion offengelegt wird, zwischen
+Publikum und Aufführenden bleibt ein Abstand. Im Moment der
+Aufführung bestimmt das Vorbereitete, Präsentierte die allererste
+Erfahrung. Ich sehe unwillkürlich repräsentierende Symbole auf einer
+Bühne. Auch wenn ich den Abstand im nachhinein verändere, zB durch
+Erklärung, bleibt dieser erste Moment, der mich prägt. 
+Diese unvermeidbare Lücke, die einen Schritt hin zu den
+Handlungsverläufen hinter der Aufführung verlangt, bietet einen Weg,
+einen Raum. Zwischen dem Handlungsverläufen Präsentation und 
+Produktion liegt ein transzendentes Verhältnis. 
+ 
+Hinter der Transzendenz: mehr Abstände, Handlungsräume, diskursive
+Felder von Möglichkeiten und Unmöglichkeiten, in denen
+Grenzziehungen immer wieder neu möglich und veränderbar sind. 
+Wer war /wirklich/ alles beteiligt an dem Stück? Wer und was war
+dabei auf welche Weise gesellschaftlich relevant, hat einen
+Unterschied hinterlassen, ohne es zu merken und gewollt zu haben? 
+Wie anders wäre denn heute vielleicht vieles, hätte es beim
+Experiment von Stern und Gerlach der Schwefel nicht aus seiner
+Gewinnungsquelle in die billigen Zigarren ihrer Zeit, hätten die
+Zigarren es nicht in den Laden, aus der Stern sie bezog, hätte der
+Schwefel beim Rauchen der Zigarre es nicht in genau dem richtigen
+Moment aus Sterns Mund auf die besagte Silberplatte geschafft. Ja,
+der Versuchsaufbau von Stern und Gerlach war offensichtlich in einem
+Sinne korrekt erdacht. Daspostulierte Phänomen fand schließlich
+statt, auch ohne den Schwefel. Im anderen Sinne wäre das Experiment
+ohne den Schwefel gescheitert: das Phänomen wäre nicht sichtbar
+geworden und hätte seine Relevanz und verändernde Tätigkeit nicht entfaltet. 
+Wo also beginnt und endet das Experiment? Beim Messinstrument?
+Hinter der Labortür? Im persönlichen Umfeld der Physiker oder bei
+allen gesellschaftlichen Strukturen, die Stern dazu brachten, eine
+billige Zigarre zu rauchen? Das ist keine Erbsenzählerei, sondern
+eine berechtigte Frage, denn die gesellschaftliche Relevanz hinter
+der ansonsten ausgebliebenen Entdeckung war nicht gerade banal. 
+Eine vollständige Beschreibung des Apparates, der die Veränderungen
+in Folge der Entdeckung herbeigeführt hat, ist vor dem Eintreten der
+Entdeckung nicht möglich. Der relevante Apparat war eben nicht das
+Messinstrument oder der Versuchsaufbau, der hinter der Labortür
+endet. Hier hatte auch ein großes Netz aus sich in Intraaktion
+gegenseitig beinflussender und konstituierender Materialitäten einen
+echten kausalen Zusammenhang als Ursache der der Entdeckung. Das
+alles war der Apparat, dem die nachfolgenden Veränderungen
+zuzuschreiben sind, und diese Zuschreibung wäre vorher nicht möglich
+und auch nicht gültig gewesen. 
+ 
+Genau so kann eine vollständige und tatsächlich gültige Beschreibung
+dessen, wo die Grenzen eines Theaters als das, was am Ende eine
+gesellschaftliche Relevanz nach sich ziehen wird, im Vorfeld nicht
+gemacht werden und schon gar nicht an den Grundrissen eines Gebäudes
+oder bei den Mitgliedern einer Institution gezogen werden. Aus lokal
+wird translokal Material verändert sich ständig: Werkzeuge,
+Technologie, Software, Netzwerke, Gruppen, lokale und virtuelle
+Räume. Dazu noch die Produktion auch dieser Dinge. Auch Menschen.
+Das alles ist Theater! Ein Apparat, der Gesellschaft ausmacht.
+
 
 ::: FEHLT NOCH:
 
 * Mehr Erklärung zu DISKURS, APPARAT, PHÄNOMEN(?)
-* SV3 / INTRAAKTION 4
 
 oooooooooooooooooooooooooooooooooooooooooooooooooo
 
