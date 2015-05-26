@@ -152,6 +152,7 @@ code,#quote {
 }
 #quote {
 	padding:0 0 0 10px;
+	margin:10px;
 	border-left:1px dotted #808080;
 }
 body {
