@@ -2,8 +2,12 @@ DirectoryIndex index.html
 
 RewriteEngine On
 
+RewriteCond %{HTTPS} !=on
+RewriteCond %{ENV:HTTPS} !=on
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+
 RewriteCond %{HTTP_HOST} !=test.intraaktion.de
-RewriteRule (.*) http://test.intraaktion.de/$1 [R=301,L]
+RewriteRule (.*) https://test.intraaktion.de/$1 [R=301,L]
 
 Redirect 302 /index.html /00_home/
 
