@@ -61,34 +61,6 @@ body {
 	font-weight:normal;
 }
 
-#h0 {
-	border-bottom:3px solid black;
-	max-width:99%;
-        font-size:100px;
-	margin:0 auto;
-}
-#h0 a {
-	color: black;
-	text-decoration:none;
-	margin: 0;
-	line-height: 90%;
-	white-space: pre;
-	word-wrap:normal;
-	display:block;
-}
-#gitlink {
-	border-bottom: dotted black;
-	padding: 0 0 20px 0;
-	font-size: 13px;
-	font-style: italic;
-	}
-#gitlink a {
-	color: black;
-	font-family:inconsolata,monospace;
-	font-size: 13px;
-	word-wrap: break-word;
-	text-decoration:none;
-}
 /* p {
 	text-align:justify;
 } */
@@ -121,28 +93,22 @@ a:hover {
 a.thisPage {
 	text-decoration:underline;
 }
+nav a {
+  letter-spacing:1px;
+}
 nav a:hover,nav a:visited:hover {
 	text-decoration:underline;
 }
 nav,nav a,nav a:visited {
-	color: black;
-	font-family: inconsolata,monospace;
+	color:black;
+	font-family:inconsolata,monospace;
 	font-size:18px;
 	font-style:normal;
 	text-decoration:none;
 }
 nav dd, nav dd a {
-        font-size:12px;
-	margin: 0 0 0 5px;
-}
-nav ul {
-        list-style-type:none;
-}
-nav ul li {
-        padding:10px 0;
-}
-nav a {
-        letter-spacing:1px;
+	font-size:12px;
+	margin:0 0 0 5px;
 }
 article {
 	line-height:140%;
@@ -154,14 +120,14 @@ article {
 } */
 article ul {
 	padding-left:50px;
-	margin:-4px 0 -2px; 
+	margin:-4px 0 -2px;
 }
 article ul li {
 	padding:2px 4px;
 }
 pre,p code {
 	border:1px solid grey;
-	background-color: white;
+	background-color:white;
 }
 p code {
 	padding:1px 4px;
@@ -186,6 +152,34 @@ blockquote {
 }
 
 /* special elements */
+#h0 {
+	border-bottom:3px solid black;
+	max-width:99%;
+  font-size:100px;
+	margin:0 auto;
+}
+#h0 a {
+	color:black;
+	text-decoration:none;
+	margin:0;
+	line-height:90%;
+	white-space:pre;
+	word-wrap:normal;
+	display:block;
+}
+#gitlink {
+	border-bottom:dotted black;
+	padding:0 0 20px 0;
+	font-size:13px;
+	font-style:italic;
+	}
+#gitlink a {
+	color:black;
+	font-family:inconsolata,monospace;
+	font-size:13px;
+	word-wrap:break-word;
+	text-decoration:none;
+}
 code,#quote {
 	font-family:inconsolata, monospace;
 }
@@ -204,57 +198,33 @@ h3,blockquote {
 }
 
 /* structure */
-html,body,#con,nav {
+html,body,nav,#con {
 	height:100%
 }
 nav {
-	overflow-y:auto;
-	top:0;
-	left:0;
-	padding:16px 14px;
-	z-index:1;
 	position:absolute;
 }
 #con {
 	position:relative;
+	max-width:900px;
+	margin:0 auto;
 }
 #paper {
-	max-width:800px;
-	margin:10px 0 0 300px;
-	padding:20px 28px;
+	max-width:600px;
+	margin:20px 0 0 300px;
 	z-index:9999;
 }
 
 /* responsiveness */
-@media screen and (max-width:1300px) {
-	#paper {
-		margin:5px 0 0 250px;
-	}
-}
-@media screen and (max-width:950px) {
-	#paper {
-		margin:5px 0 0 210px;
-	}
-}
 @media screen and (max-width:700px) {
 	nav {
 		position:static;
-		top:auto;
-		left:auto;
-		width:auto;
 		height:auto;
-		border-right:none;
-		border:none;
-	}
-	#desc {
-		padding:12px 0;
 	}
 	nav ul li {
 		display:inline;
-		padding:0 4px; /* VERIFY IT */
 	}
 	#paper{
-		margin:0 auto;
-		padding: 0 10px;
+		margin:40px auto;
 	}
 }
