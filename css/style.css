@@ -106,7 +106,15 @@ nav,nav a,nav a:visited {
 	font-style:normal;
 	text-decoration:none;
 }
-nav dd, nav dd a {
+nav ul, nav ul a {
+	text-decoration:none;
+	list-style-type:none;
+	padding:0;
+}
+nav ul li, nav ul li a {
+	margin:10px 0;
+}
+nav ul li ul li, nav ul li ul li a {
 	font-size:12px;
 	margin:0 0 0 5px;
 }
@@ -233,12 +241,18 @@ nav {
 		position:static;
 		height:auto;
 	}
-	nav dl {
+	nav ul li {
 		display:inline-table;
-		margin:10px:
+		min-width:49%;
+	}
+	nav ul li ul li {
+		display:block;
 	}
 	#page {
 		margin:10px auto;
+	}
+	#con {
+		padding:0;
 	}
 	#paper {
 		margin:40px auto;
@@ -255,8 +269,5 @@ nav {
 	}
 	#page {
 		padding:10px;
-	}
-	#con {
-		padding:0;
 	}
 }
