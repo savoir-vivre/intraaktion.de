@@ -155,7 +155,6 @@ blockquote {
 	text-align:center;
 }
 .boldy {
-	color:#000;
 	font-weight:bold;
 }
 
@@ -246,9 +245,6 @@ nav {
 	}
 	nav ul li ul li {
 		display:block;
-	}
-	#page {
-		margin:10px auto;
 	}
 	#con {
 		padding:0;
