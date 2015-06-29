@@ -223,7 +223,7 @@ nav {
 
 /* responsiveness */
 @media screen and (max-width:1140px) {
-	#page{
+	#page {
 		margin:10px auto;
 	}
 }
@@ -235,10 +235,37 @@ nav {
 	nav ul li {
 		display:inline;
 	}
-	#page{
+	#page {
 		margin:10px auto;
 	}
-	#paper{
+	#paper {
+		margin:40px auto;
+	}
+}
+@media screen and (max-width:500px) {
+	#h0 {
+	  font-size:70px;
+	}
+}
+@media screen and (max-width:400px) {
+	#h0 {
+		font-size:50px;
+	}
+	nav {
+		position:static;
+		height:auto;
+	}
+	nav ul li {
+		display:inline;
+	}
+	#page {
+		padding:0;
+		margin:10px auto;
+	}
+	#con {
+		padding:10px;
+	}
+	#paper {
 		margin:40px auto;
 	}
 }
