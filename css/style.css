@@ -53,7 +53,7 @@
 
 html {
 	color:black;
-	background:white;
+	background:black;
 }
 body {
 	font-family:quicksand, sans-serif;
@@ -204,10 +204,16 @@ html,body,nav,#con {
 nav {
 	position:absolute;
 }
+#page {
+	background:white;
+	max-width:1000px;
+	margin:30px auto;
+	padding:30px;
+	border:2px solid #C8C8C8;
+}
 #con {
 	position:relative;
-	max-width:900px;
-	margin:0 auto;
+	padding:30px;
 }
 #paper {
 	max-width:600px;
@@ -216,6 +222,11 @@ nav {
 }
 
 /* responsiveness */
+@media screen and (max-width:1140px) {
+	#page{
+		margin:10px auto;
+	}
+}
 @media screen and (max-width:700px) {
 	nav {
 		position:static;
@@ -223,6 +234,9 @@ nav {
 	}
 	nav ul li {
 		display:inline;
+	}
+	#page{
+		margin:10px auto;
 	}
 	#paper{
 		margin:40px auto;
