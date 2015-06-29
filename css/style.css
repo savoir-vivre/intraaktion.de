@@ -198,7 +198,7 @@ h3,blockquote {
 }
 
 /* structure */
-html,body,nav,#con {
+html,body,nav,#page,#con {
 	height:100%
 }
 nav {
