@@ -53,7 +53,7 @@
 
 html {
 	color:black;
-	background:black;
+	background:whitesmoke;
 }
 body {
 	font-family:quicksand, sans-serif;
@@ -209,7 +209,7 @@ nav {
 	max-width:1000px;
 	margin:30px auto;
 	padding:30px;
-	border:2px solid #C8C8C8;
+	border:2px solid #808080;
 }
 #con {
 	position:relative;
