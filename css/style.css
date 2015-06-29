@@ -198,14 +198,15 @@ h3,blockquote {
 }
 
 /* structure */
-html,body,nav,#page,#con {
-	height:100%
+html,body,nav {
+	height:100%;
 }
 nav {
 	position:absolute;
 }
 #page {
 	background:white;
+	min-height:100vh;
 	max-width:1000px;
 	margin:30px auto;
 	padding:30px;
