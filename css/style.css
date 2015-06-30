@@ -161,18 +161,16 @@ blockquote {
 /* special elements */
 #h0 {
 	border-bottom:3px solid black;
-	max-width:99%;
   font-size:100px;
-	margin:0 auto;
 }
 #h0 a {
 	color:black;
 	text-decoration:none;
-	margin:0;
 	line-height:90%;
 	white-space:pre;
 	word-wrap:normal;
 	display:block;
+	padding-bottom:20px;
 }
 #gitlink {
 	border-bottom:dotted black;
