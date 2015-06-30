@@ -195,6 +195,14 @@ code,#quote {
 	margin:10px;
 	border-left:1px dotted #808080;
 }
+#page {
+	background:white;
+	margin:30px auto;
+	padding:30px;
+}
+#con {
+	padding:30px;
+}
 
 /* entangled elements */
 body,h5,p code {
@@ -212,15 +220,11 @@ nav {
 	position:absolute;
 }
 #page {
-	background:white;
 	min-height:100vh;
 	max-width:1000px;
-	margin:30px auto;
-	padding:30px;
 }
 #con {
 	position:relative;
-	padding:30px;
 }
 #paper {
 	max-width:600px;
