@@ -94,7 +94,7 @@ a.thisPage {
 	text-decoration:underline;
 }
 nav a {
-  letter-spacing:1px;
+	letter-spacing:1px;
 }
 nav a:hover,nav a:visited:hover {
 	text-decoration:underline;
