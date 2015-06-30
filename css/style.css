@@ -263,6 +263,7 @@ nav {
 @media screen and (max-width:400px) {
 	#h0 {
 		font-size:50px;
+		padding-bottom:10px;
 	}
 	#page {
 		padding:10px;
