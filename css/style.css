@@ -3,7 +3,7 @@
 /* Check out his website: http://ywstd.fr/ */
 html {
 	color:black;
-	background:white; 
+	background:white;
 	font-size:100%;
 }
 @font-face {
@@ -147,10 +147,10 @@ html {
 	url('/files/fontfiles/inconsolata-webfont.ttf') format('truetype'),
 	url('/files/fontfiles/inconsolata-webfont.svg#webfont') format('svg');
 }
-code,#quote {
+code,.quote {
 	font-family:inconsolata, monospace;
 }
-#quote {
+.quote {
 	padding:0 0 0 10px;
 	margin:10px;
 	border-left:1px dotted #808080;
@@ -342,7 +342,7 @@ footer {
 }*/
 article ul {
 	padding-left:50px;
-	margin:-4px 0 -2px; 
+	margin:-4px 0 -2px;
 }
 /* list-style-type:lower-greek; */
 article ul li {
