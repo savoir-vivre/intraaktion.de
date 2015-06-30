@@ -174,7 +174,7 @@ blockquote {
 }
 #gitlink {
 	border-bottom:dotted black;
-	padding:0 0 20px 0;
+	padding-bottom:20px;
 	font-size:13px;
 	font-style:italic;
 	}
@@ -189,7 +189,7 @@ code,.quote {
 	font-family:inconsolata, monospace;
 }
 .quote {
-	padding:0 0 0 10px;
+	padding-left:10px;
 	margin:10px;
 	border-left:1px dotted #808080;
 }
@@ -226,8 +226,8 @@ nav {
 }
 #paper {
 	max-width:600px;
-	margin:20px 0 0 300px;
-	z-index:9999;
+	margin-top:20px;
+	margin-left:300px;
 }
 
 /* responsiveness */
