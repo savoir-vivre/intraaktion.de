@@ -185,10 +185,10 @@ blockquote {
 	word-wrap:break-word;
 	text-decoration:none;
 }
-code,#quote {
+code,.quote {
 	font-family:inconsolata, monospace;
 }
-#quote {
+.quote {
 	padding:0 0 0 10px;
 	margin:10px;
 	border-left:1px dotted #808080;
