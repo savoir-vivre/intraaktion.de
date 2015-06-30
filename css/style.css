@@ -161,7 +161,8 @@ blockquote {
 /* special elements */
 #h0 {
 	border-bottom:3px solid black;
-  font-size:100px;
+	font-size:100px;
+	padding-bottom:20px;
 }
 #h0 a {
 	color:black;
@@ -170,7 +171,6 @@ blockquote {
 	white-space:pre;
 	word-wrap:normal;
 	display:block;
-	padding-bottom:20px;
 }
 #gitlink {
 	border-bottom:dotted black;
