@@ -115,8 +115,8 @@ nav ul li, nav ul li a {
 	margin:10px 0;
 }
 nav ul li ul li, nav ul li ul li a {
-	font-size:12px;
-	margin:0 0 0 5px;
+	font-size:13px;
+	margin-left:5px;
 }
 article {
 	line-height:140%;
