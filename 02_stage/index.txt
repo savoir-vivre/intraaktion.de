@@ -2,7 +2,7 @@
 
 : Plädoyer für Plaintext
 
-:: konservartive Textverarbeitung
+:: konservative Textverarbeitung
 
 Es gibt bereits eine große Menge an Möglichkeiten Texte zu produzieren und zu verteilen. Zwei allgemeinere Bereiche lassen sich abstecken:
 Im Kontext einer Homepage, eines Blogs, etc. steht im Hintergrund meist ein CMS. Und genau da bleiben die Texte dann meist auch, bis das CMS veraltet ist, die Blog-Plattform nicht mehr hip ist und ein Umzug der Texte zu aufwendig wäre.
