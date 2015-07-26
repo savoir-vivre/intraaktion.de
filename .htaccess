@@ -15,6 +15,8 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule (.*) /00_home/ [R=302]
 
+ErrorDocument 403 /00_home/
+
 #Prevent viewing of .htaccess file
 <Files .htaccess>
 order allow,deny
