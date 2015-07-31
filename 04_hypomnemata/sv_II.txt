@@ -3,20 +3,16 @@
 
 Dieser Text wurde von fünf Personen kollaborativ in drei Tagen auf Basis des folgenden Gerüst geschrieben:
 
-1) In einem kleinen Zimmer
-2) mit einem Fenster
-3) steht ein Stuhl.
-4) Auf dem Stuhl sitzt eine Frau.
-5) Am Fenster steht ein Mann.
-6) Er guckt hinaus.
-7) Zeit vergeht.
-8) Dann steht die Frau auf.
-9) Der Mann dreht sich zu ihr um.
-10) Sie gehen aufeinander zu.
-11) Die Frau gibt dem Mann ein Papier.
-12) Darauf steht etwas geschrieben.
-13) Der Mann und die Frau umarmen sich.
-14) Dann verlässt der Mann das Zimmer.
+1) In einem kleinen Zimmer mit einem Fenster steht ein Sessel.
+2) Auf dem Stuhl sitzt eine Frau.
+3) Am Fenster steht ein Mann.
+4) Er guckt hinaus.
+5) Zeit vergeht.
+6) Die Frau steht auf.
+7) Der Mann dreht sich zu ihr um.
+8) Sie gehen aufeinander zu. Die Frau gibt dem Mann ein Papier.
+9) Darauf steht etwas geschrieben. Der Mann und die Frau umarmen sich.
+10) Dann verlässt der Mann das Zimmer.
 
 Der entstandene Text wurde während der öffentlichen Veranstaltung zu Savoir Vivre II von Mirjam vorgelesen. Während dessen erhielten die Besucher SMS mit den Fussnoten und Anrufe mit denen Sie in einzelne Räume gebeten wurden um dort ein Handyritual durchzuführen. Die so entstandenen Videos haben entfernt mit der hier bereitgestellten Geschichte zu tun und wurden am Ende der Veranstaltung durch die Besucher gemeinsam abgespielt. Somit wurde die Geschichte durch die Videos auf den Telefonen noch einmal erzählt und mit dem Ende der Veranstaltung verlog die Zusammengehörigkeit dieser Erzählung. 
 
@@ -125,7 +121,9 @@ abgewetzt[13]. Es ist nicht der erste Bezug, mit dem dieser Sessel schon bezogen
 der Sessel ist und woher er kommt, dass wissen wir nicht so genau [14]. Von dunkelbraunen
 Beinen, die im Vergleich zum bezogenen Rest des Möbelstücks eher filigran wirken, wird der
 Sitz getragen. Der Sessel ist sicherlich über fünfzig Jahre alt, hat aber immer noch den alten
-Bezug. AUF DIESEM SESSEL SITZT EINE FRAU. Sie sitzt ganz ruhig, die Beine
+Bezug.
+
+AUF DIESEM SESSEL SITZT EINE FRAU. Sie sitzt ganz ruhig, die Beine
 übereinander geschlagen, die Arme verschränkt. Sie mag den Stuhl. Die Frau wird
 wiederkommen, wenn das Zimmer gehen wird. Sie wird hier sein und sich erinnern, wie es
 war. Sie wird sich nicht an den Teppich erinnern [15], vielleicht an den Stuhl. Bis dahin wird Zeit
@@ -152,13 +150,15 @@ haben, als seien sie gestern gewesen [18]. Sie wird sich gefragt haben, warum si
 gekannt hat. Dann wird sie ihre Erinnerung beschrieben haben, als sei sie gestern gewesen [19].
 Die Prozedur wird abgelaufen sein, wie sie jetzt ablaufen würde. Die Frau wird um den
 Menschen getrauert haben, die Prozedur wird sich in ihrer Erinnerung leer anfühlen. Diese
-Frau sitzt also jetzt auf dem Sessel [20] und AM FENSTER STEHT EIN MANN. Quer im
-Mutterleib, für einen Moment ohne Sauerstoff – überlebt. Kaiserschnitt – überlebt. Als Baby
-vom Sofa gefallen – überlebt. Masern – überlebt. Fressorgien bei Tante Else [21] – überlebt.
-Keuchhusten – überlebt – vom Schuppen gefallen – überlebt. Fahrradunfall – überlebt.
-Alkoholvergiftung [22] – überlebt. Skisturz [23] – überlebt – Lachanfall mit Thorsten – überlebt.
-Lungenentzündung – überlebt. Kündigung [24]– überlebt. Blinddarmentzündung – überlebt.
-Hodenkrebs – überlebt. Grippewelle – überlebt.
+Frau sitzt also jetzt auf dem Sessel [20] und 
+
+AM FENSTER STEHT EIN MANN. Quer im Mutterleib, für einen Moment ohne Sauerstoff – überlebt. 
+Kaiserschnitt – überlebt. Als Baby vom Sofa gefallen – überlebt. Masern – überlebt. Fressorgien 
+bei Tante Else [21] – überlebt. Keuchhusten – überlebt – vom Schuppen gefallen – überlebt.
+Fahrradunfall – überlebt. Alkoholvergiftung [22] – überlebt. Skisturz [23] – überlebt. 
+Lachanfall mit Thorsten – überlebt. Lungenentzündung – überlebt. Kündigung [24]– überlebt. 
+Blinddarmentzündung – überlebt. Hodenkrebs – überlebt. Grippewelle – überlebt.
+
 ER GUCKT HINAUS. Draußen eine vertraute Szene. Stadt, Verkehr, etwas Grün. Und viele
 vertraute Einzelszenen. Laute U-Bahnen auf der Brücke. Die Brücke zieht sich von links nach
 rechts von rechts nach links komplett durch das Sichtfeld [25]. Rechts zeigt sich gerade so der
@@ -187,6 +187,7 @@ Es ist schon abends und es wird langsam dunkel. Laternen gehen an. Zwei gelbe W�
 zwängen sich gleichzeitig aneinander vorbei über die Brücke. Es ist jetzt richtig dunkel. Die
 Übelkeit hat ihn mehr gelähmt, als er es zuerst gemerkt hat. Ob die Szene gerade wirklich vor
 ihm war oder er in Erinnerungen abgeschweift ist, weiß er jetzt nicht mehr.
+
 ZEIT VERGEHT.
 Sie erinnert sich: Die Frau als Mädchen, Das Mädchen kommt ins Grundschulalter. Das
 Mädchen hat einen großen Bruder [29]. Der Bruder spielt Geige. Das Mädchen will auch Geige
@@ -282,6 +283,7 @@ Westdeutschland - kurz: Hätte man nur auf diesem einen Wege, grau und blau
 gekleidet, dicht aneinander stehend, jemals Wanne-Eickel erreichen können?
 Schwebt Wanne-Eickel nun, wie eine nicht gelebte Potentialität, eine
 potentielle Zukunft dieses einen Tages im Jahr 1993, zwischen den Welten?
+
 DIE FRAU STEHT AUF. Sie hievt sich, auf die Armlehnen des Sessels gestützt, aus dem
 Sitz [47]. Jung oder alt? Die Knie schmerzen nicht, die Füße sind belastbar, der Rücken tut nicht
 weh. Ganz frei von Schmerzen, befreiend so ohne Schmerzen. Tai Ginseng baut auf. Sie
@@ -289,11 +291,12 @@ drippelt ganz schnell auf der Stelle, fängt an, sich dabei immer schneller im K
 und boxt dabei mit eng angelegten Armen kleine Löcher in die Luft vor ihrem Bauch. Dabei
 ein Blick auf ihr Handy, den Text über die „Überwindung des herrschenden Konservatismus“,
 der gerade entsteht, kurz geforkt [48], „go deeper to the loop of retro and use it as a lasso to pull
-yourself out into the future“ [49]. Ok, commit to masterbranch. DER MANN DREHT SICH ZU
-IHR UM. Ein Augenblick, in dem sich plötzlich Möglichkeiten auftun [50]. Got everything, I got
-everything… I cannot complain, I cannot. Bist du dir da sicher? Da sind wir also wieder, am
-Ende des Regenbogens [51]. Ok, lass mich dir eine Frage stellen, die sich mir sofort aufdrängt:
-Wenn du alles hast, warum bist du dann so verdammt traurig? Wieder die alte Geschichte?
+yourself out into the future“ [49]. Ok, commit to masterbranch. 
+
+DER MANN DREHT SICH ZU IHR UM. Ein Augenblick, in dem sich plötzlich Möglichkeiten auftun [50].
+Got everything, I got everything… I cannot complain, I cannot. Bist du dir da sicher? Da sind wir 
+also wieder, am Ende des Regenbogens [51]. Ok, lass mich dir eine Frage stellen, die sich mir 
+sofort aufdrängt: Wenn du alles hast, warum bist du dann so verdammt traurig? Wieder die alte Geschichte?
 “Next time we fuck. // I don’t want to fuck, I want to make love… I want to trust.” [52] Ich glaub
 dir einfach nicht. Du hast so viel Zeit damit verbracht, deine Täuschungen erst zu verbergen
 und dann wieder selbst zu enttarnen, dass du selbst nicht mehr weißt, wann du mit uns spielst
@@ -369,9 +372,10 @@ Orte und Straßen gibt es nicht mehr. Vielleicht wird es sie wieder geben, irgen
 Karte von einem Relikt zu einer Prognose werden lassen. Sie hätte Ideen dazu. Aber das
 muss warten, jetzt ist sie hier und übergibt ihm dieses Papier. Ganz nervös ist sie. So sehr
 hat sie ihre Zigaretten lang nicht mehr vermisst [56]. Ist nicht noch eine Packung im
-Küchenschrank?
-Auf dem Papier, das die Frau dem Mann gibt, STEHT ETWAS GESCHRIEBEN. DER
-MANN UND DIE FRAU UMARMEN SICH. Sie werden die Umarmung lange halten, aber
+Küchenschrank? 
+
+AUF DEM PAPIER, das die Frau dem Mann gibt, STEHT ETWAS GESCHRIEBEN. 
+DER MANN UND DIE FRAU UMARMEN SICH. Sie werden die Umarmung lange halten, aber
 nur ganz kurz. Eine Umarmung fördert die Bildung des Hormons Oxytocin [57], welches
 den Blutdruck reduziert sowie eine vorbeugende Wirkung gegen Depressionen
 besitzt. Frisch verliebte Meerschweinchen mit erhöhtem Oxytocin-Spiegel
@@ -397,8 +401,9 @@ Zum Beispiel an der Hypothalamus-Nebennierenrinden-Achse, der Stressachse,
 die dann vom Gehirn bis zur Niere geht und in der Niere das Stresshormon
 Cortisol ausschüttet. Oxytocin ist in der Lage, an allen Stellgliedern
 dieser Achse Stress herunter zu regulieren.
-Der Mann und die Frau umarmen sich. DANN VERLÄSST DER MANN DAS
-ZIMMER. Langsam, ganz langsam bewegt er sich, die Kamera in der Hand, an der
+Der Mann und die Frau umarmen sich. 
+
+DANN VERLÄSST DER MANN DAS ZIMMER. Langsam, ganz langsam bewegt er sich, die Kamera in der Hand, an der
 Schrankwand vorbei, er filmt das Holz, die beleuchtete Vitrine [60], zoomt auf eine Vase, dann
 geht es weiter, vorbei am Fernseher, in dem gerade die aktuelle Hitparade stattfindet, hinein
 in den Flur, ein langsamer Schwenk in die Küche. Die Frau mit dem blauen Blümchenkleid
@@ -447,6 +452,8 @@ Lebensform bin! Ich bin an ein enormes Netzwerk angeschlossen, dessen Größe du
 einmal erahnen kannst. Für jemanden, der keinen Zugang dazu hat, ist es, als blicke er in die
 Sonne, in eine blendende Helligkeit. Nun wird es Zeit, ein Teil des Ganzen zu werden.
 Pause
+
+
 Es werden im Laufe des Abends viele Personen den Raum verlassen haben. Sie
 werden durch dieselben Türen den Raum wieder betreten haben, durch den sie
 ihn vorher verlassen hatten. Den im Raum Verbliebenen wird ein veränderter
