@@ -1,54 +1,9 @@
 : Info :
 
-Wir beschäftigen uns mit dem Zustand des Anwesendseins in der Gegenwart auf dem Gebiet der
-Kognition, Individuation und gesellschaftlicher Formation, seiner zeitlichen und räumlichen Dimension, vor dem Hintergrund
-technologischer und postdemokratischer Entwicklungen - es geht also erst mal um die ganz großen Fragen, und diese Weite wollen wir bewusst aushalten.
-Wie kann man die alles durchdringende Ausbeutung des Bewusstseins durch industriellen Populismus
-markieren und in eine produktive Kraft umwandeln? Wie also können wir digitale Technologien instituierend und emanzipiert nutzen? Und dann fragen wir schließlich, welche Rolle kann hierbei das Theater als Institution, als
-Medium und in seiner ästhetischen Erweiterung spielen? Wie können wir Technologie und Theater dabei so
-zusammen denken, dass wir über den Einsatz von Video, Software und Vernetzung als Mittel der Suggestion
-hinaus kommen?
-Hierbei bezieht sich unsere Diskussion u.a. auf Mark Fishers Hauntology-Begriff, Bernard Stieglers
-medientheoretische Reflexionen, Bruno Latours Akteur-Netzwerk-Theorie, Alva Noës Wahrnehmungstheorie und Karen Barads Intraaktionsbegriff im
-Zusammenhang von Menschen und Apparaten.
-Die Beschäftigung mit der Gegenwart und dem Sein und Werden in dieser als dezidiertes Thema betrifft gerade auch die
-Kunstproduktion, welche durch Finanzierungsdruck, Hochfrequenzproduktion und die Ihr eigene
-Marketingsprache der kapitalistischen Logik verfallen ist, und damit betrifft sie auch unsere eigene Arbeit als
-Kulturschaffende. Deshalb müssen wir nicht in Nostalgie- oder Larmoyanz-Starre verfallen, sondern ausprobieren, beobachten, tätig werden und Erfahrungen teilen.
+Wir beschäftigen uns mit dem Zustand des Anwesendseins in der Gegenwart auf dem Gebiet der Kognition, Individuation und gesellschaftlicher Formation, seiner zeitlichen und räumlichen Dimension, vor dem Hintergrund technologischer und postdemokratischer Entwicklungen - es geht also erst mal um die ganz großen Fragen, und diese Weite wollen wir bewusst aushalten.
+Wie kann man die alles durchdringende Ausbeutung des Bewusstseins durch industriellen Populismus markieren und in eine produktive Kraft umwandeln? Wie also können wir digitale Technologien instituierend und emanzipiert nutzen? Und dann fragen wir schließlich, welche Rolle kann hierbei das Theater als Institution, als Medium und in seiner ästhetischen Erweiterung spielen? Wie können wir Technologie und Theater dabei so zusammen denken, dass wir über den Einsatz von Video, Software und Vernetzung als Mittel der Suggestion hinaus kommen?
+Hierbei bezieht sich unsere Diskussion u.a. auf Mark Fishers Hauntology-Begriff, Bernard Stieglers medientheoretische Reflexionen, Bruno Latours Akteur-Netzwerk-Theorie, Alva Noës Wahrnehmungstheorie und Karen Barads Intraaktionsbegriff im Zusammenhang von Menschen und Apparaten.
+Die Beschäftigung mit der Gegenwart und dem Sein und Werden in dieser als dezidiertes Thema betrifft gerade auch die Kunstproduktion, welche durch Finanzierungsdruck, Hochfrequenzproduktion und die Ihr eigene Marketingsprache der kapitalistischen Logik verfallen ist, und damit betrifft sie auch unsere eigene Arbeit als Kulturschaffende. Deshalb müssen wir nicht in Nostalgie- oder Larmoyanz-Starre verfallen, sondern ausprobieren, beobachten, tätig werden und Erfahrungen teilen.
+Jenseits der Debatte um das Stadttheater und sein Verhältnis zur Freien Szene, versucht ,Savoir vivre' sich von gängigen Kategorisierungen und Labeling zu lösen und einen dritten Weg zu gehen. ,Savoir vivre' begreifen wir dabei als einen wachsenden, sich permanent in Bewegung befindenden Organismus, ähnlich der Open-Source-Bewegung. Dieser könnte weder aus den laufenden Prozessen an den Stadttheatern entstehen, noch mitten im Wettkampf um Förderung und Etablierung in der Freien Szene. ,Savoir vivre' verbindet langfristig, und manchmal auch als unsichtbares U-Boot, Menschen, Räume und Dinge, bringt sie miteinander ins Gespräch und in neue Arbeitszusammenhänge, um so Zukunft möglich werden zu lassen – was schließlich auch bedeutet, Theater wieder als Ort politischer Praxis zu ermöglichen. 
+Dabei kann die Auseinandersetzung und Begegnung von klassischen Podien über offene Salons oder Workshopformate geführt werden, die alle sowohl künstlerische Positionen (Musik, Film, Performance u.a.) mit sozial-wissenschaftlichen Diskursansätzen verbindet und der Öffentlichkeit ihre Erkenntnisse in einer offenen Künstlerischen Form zwischen Performance und Installation präsentiert. Darüber hinaus ist es denkbar, dass sich Gesprächsdynamiken und Handlungslogiken aus den Themen selbst speisen und sich daraus eine Praxis ergibt, für die es einen großen Ausstellungsraum, einen öffentlichen Freiraum oder eine Bühne braucht.
 
-
-:: Arbeitsmethode ::
-
-In vier Arbeitsphasen á ca. einer Woche beschäftigen wir uns derzeit in einem sich veränderndem Team von fünf bis acht Personen
-mit verschiedenen Teilbereichen von Kognition und Individuation, um daraufhin ästhetische Ansätze für einen
-konstruktiven Umgang mit dem Thema vorzuschlagen. Diese werden am jeweils letzten Tag der Arbeitsphasen in einer ersten öffentlichen Aufführung
-mit Besuchern in ein- bis zweistündigen Begegnungen erprobt. Die Form des Rituals bildet hierbei
-einen strukturellen Rahmen. Durch seine Wiederholungen und Gleichzeitigkeiten stellt das Ritual sowohl eine Form der Selbstvergewisserung, aber auch der Selbstreflexion im Erleben von Gemeinschaft und 
-Kollektivität dar. Andererseits bietet das Ritual uns die Möglichkeit, installativ und fragmentarisch zu
-arbeiten. Hierbei wird die Präsentation nicht von einer Gesamtästhetik oder konsistenten Erzählung
-zusammengehalten, sondern durch die Anwesenheit der Besucher und die Anwesenheit unseres Versuchs.
-Die Dokumentation der Arbeit und der vorläufigen Ergebnisse wird mit den Werkzeugen der Freien Softwarekultur dokumentiert und öffentlich zugänglich und veränderbar sein. Das hierbei entstehende Archiv ist als digitale Plastik, in Anlehnung an Joseph Beuys' sozialer Plastik, gedacht. Unter dem Menüpunkt "stage" sind Textdateien auf GitHub einsehbar, an denen wir kollaborativ arbeiten und auch zur Mitarbeit jedem zur Verfügung stehen.
-
-:: Ziel ::
-
-Die Präsentationen und die Dokumentation der Arbeit soll dazu beitragen, dringend nötige, neue Formen der
-Auseinandersetzung mit Gesellschaft und andere Arbeitsweisen aufzuzeigen – um mit diesem Wissen
-Theaterproduktion, langsam aber stetig, zu verändern. Jenseits der Debatte um das Stadttheater und sein
-Verhältnis zur Freien Szene, versucht ,Savoir vivre' sich von gängigen Kategorisierungen und Labeling zu
-lösen und einen dritten Weg zu gehen. ,Savoir vivre' begreifen wir dabei als einen wachsenden, sich
-permanent in Bewegung befindenden Organismus, ähnlich der Open-Source-Bewegung. Dieser könnte
-weder aus den laufenden Prozessen an den Stadttheatern entstehen, noch mitten im Wettkampf um
-Förderung und Etablierung in der Freien Szene. ,Savoir vivre' verbindet langfristig, und manchmal auch als unsichtbares U-Boot, Menschen, Räume und Dinge, bringt sie
-miteinander ins Gespräch und in neue Arbeitszusammenhänge, um so Zukunft möglich werden zu lassen –
-was schließlich auch bedeutet, Theater wieder als Ort politischer Praxis zu ermöglichen.
-
-:: Mitwirkende/Kontributoren ::
-
-Lisann van Aken (Tänzerin),  Lars Ullrich (Mediaartist), Alexander Hof (Philosoph & Programmierer), Frederik
-Worms (Politikwissenschaftler), Mirjam Wulff (Theologin), Katrin Klietsch (Kunsthistorikerin & Galeristin "cu - contemporary urban"), Katharina Halus (Puppenspielerin), Valerie Gasse (Kostüm- und Bühnenbildnerin), Elias Oltmanns (Programmierer), Christian Römer (Kulturnetzwerker),
-Caspar Schleicher (Dokumentarfilmer, Filmarche Berlin), Wolfram Lotz (Autor), Bianca Praetorius (Social-Media-Pro), Malin Nagel (Dramaturgin), Daniel Hengst (Mediaartist),
-Mitglieder von „Tower Produktion“, Farahnaz Hatam (Komponistin & Mitbegründerin "n.k. projekt"), Ypnose (ywstd.fr), Jonas Keller (Medientheoretiker & Photograph)
-
-Dieses Projekt wird unterstützt durch die Heinrich-Böll-Stiftung. [1]
-
-[1] http://www.boell.de/sites/default/files/assets/boell.de/images/download_de/presse/BL3_WM_SW%281%29.jpg
