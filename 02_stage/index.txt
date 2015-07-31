@@ -1,5 +1,7 @@
 'Staging' heißen in der Software-Entwicklung Inhalte und Funktionen, die noch entstehen und erprobt werden. Die hier sichtbaren Texte sind automatisch aus Textdateien generiert, welche auf der Plattform GitHub zur Bearbeitung bereit stehen [0]. Die Dateien befinden sich alle in Bearbeitung und stellen keinen abgeschlossenen Zustand dar.
 
+Die Texte unter diesem Menüpunkt sind ein inhaltlicher Ausgangspunkt/Fokus für unsere Arbeit an Savoir Vivre I - IV und wurden jeweils von einem Mitwirkenden auf GitHub gestartet und dann zur Bearbeitung freigegeben.
+
 : Plädoyer für Plaintext
 
 :: konservative Textverarbeitung
