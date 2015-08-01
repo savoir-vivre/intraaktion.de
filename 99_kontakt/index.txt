@@ -3,4 +3,6 @@
 daniel - mail@danielhengst.de 
 malin - malin.nagel@gmx.de 
 
-github - https://github.com/savoir-vivre/intraaktion.de
+github [0]
+
+[0] https://github.com/savoir-vivre/intraaktion.de
