@@ -2,7 +2,7 @@
 
 Während Lisann und Lars zu Themen der Kognition und Wahrnehmung Musik und Bewegung performten, traten die anderen Mitwirkenden per Telefon mit den im Raum befindlichen Besuchern zu diesen Themen in Kontakt. Alle Besucher erhielten während der Performance ebenfalls einige der unten aufgeführten SMS. Die Antworten wurden im Prototypen einer digitalen Skulptur gesammelt welche nach der Performance erforscht werden konnte.
 
-|---
+- - -
 
 <a href="/files/svII_timeline.jpg" target="_blank"><img src="/files/svII_timeline.jpg" alt="Timeline"></a>
 
