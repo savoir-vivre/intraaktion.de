@@ -2,7 +2,7 @@
 
 Während Lisann und Lars zu Themen der Kognition und Wahrnehmung Musik und Bewegung performten, traten die anderen Mitwirkenden per Telefon mit den im Raum befindlichen Besuchern zu diesen Themen in Kontakt. Alle Besucher erhielten während der Performance ebenfalls einige der unten aufgeführten SMS. Die Antworten wurden im Prototypen einer digitalen Skulptur gesammelt welche nach der Performance erforscht werden konnte.
 
-|---
+- - -
 
 <a href="/files/svII_timeline.jpg" target="_blank"><img src="/files/svII_timeline.jpg" alt="Timeline"></a>
 
@@ -45,6 +45,8 @@ Was geschieht hinter dir? // What is happening behind you?
 Was machst du wenn du nicht mehr weiter weißt? // What do you do when you are lost?
 
 Mit wie vielen Männern hast du schon geschlafen? // With how many men did you sleep?
+
+<img src="/files/6l.gif" alt="6_L">
 
 Mit wie vielen Frauen hast du schon geschlafen? // With how many women did you sleep?
 
@@ -92,6 +94,8 @@ Würdest du all dein Wissen und Können mit Anderen teilen? // Would you share a
 
 Wo spürst du diesen Moment? // Where do you feel this moment?
 
+<img src="/files/10t.gif" alt="10_T">
+
 Willst du auch tanzen? // Do you want to dance too?
 
 Willst du selber an der Musik rumspielen? // Do you want to play around with the music yourself?
@@ -127,6 +131,8 @@ Was würdest du gerne können? // What skill would you like to have?
 Hast du heute schon so richtig lachen müssen? // Did you have to laugh properly today?
 
 Ist dein Weg schön? // Is your way beautiful?
+
+<img src="/files/2d.gif" alt="2_D">
 
 Wann bist du zuletzt geflogen? // When was your last flight?
 
