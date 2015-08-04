@@ -6,8 +6,8 @@ RewriteCond %{HTTPS} !=on
 RewriteCond %{ENV:HTTPS} !=on
 RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
 
-RewriteCond %{HTTP_HOST} !=savoirvivre.intraaktion.de
-RewriteRule (.*) https://savoirvivre.intraaktion.de/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} !=2.intraaktion.de
+RewriteRule (.*) https://2.intraaktion.de/$1 [R=301,L]
 
 Redirect 302 /index.html /00_home/
 
