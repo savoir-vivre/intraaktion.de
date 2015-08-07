@@ -44,7 +44,7 @@ Ingenious ideas are simple. Ingenious software is simple. Simplicity is the hear
 
 - suckless.org [2] [3]
 
-Code, der möglichst kurz und simpel gehalten ist, sogar einen fertigen Status erreichen soll, statt mindestens wöchentlich ein Update zu erfahren, ist heute regelrecht anachronistisch. Er steigert den Marktwert von Programmierer_innen nicht, die möglichst schnell produzieren sollen, deren Produkte so komplex sind, dass nur sie - die Genies, die es erschufen, sie noch verstehen und pflegen können. 
+Code, der möglichst kurz und simpel gehalten ist, sogar einen fertigen Status erreichen soll, statt mindestens wöchentlich ein Update zu erfahren, ist heute regelrecht anachronistisch. Er steigert den Marktwert von Programmierer_innen nicht, die möglichst schnell produzieren sollen, deren Produkte so komplex sind, dass nur sie - die Genies, die es erschufen - , sie noch verstehen und pflegen können. 
 Wurde der Horizont der Komplexität erreicht, dass auch die Originalautoren nicht mehr dahinter blicken können? Fangen wir von vorne an, neues Projekt, neuer Code, neue Sprache, auf einer Basis, die inzwischen auch komplexer wurde. Es ist immer genug Arbeit da in einem perpetuum mobile der IT.
 
 ----
