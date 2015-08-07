@@ -44,11 +44,16 @@ Ingenious ideas are simple. Ingenious software is simple. Simplicity is the hear
 
 - suckless.org [2] [3]
 
+Code, der möglichst kurz und simpel gehalten ist, ist heute regelrecht anachronistisch. Er steigert den Marktwert von Programmierer_innen nicht, die möglichst schnell produzieren sollen, deren Produkte so komplex sind, dass nur sie - die Genies, die es erschufen, sie noch verstehen und pflegen können. 
+Wurde der Horizont der Komplexität erreicht, dass auch die Originalautoren nicht mehr dahinter blicken können? Fangen wir von vorne an, neues Projekt, neuer Code, neue Sprache, auf einer Basis, die inzwischen auch komplexer wurde. Es ist immer genug Arbeit da in einem perpetuum mobile der IT.
+
 ----
 Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 ----
 
 - Brian W. Kernighan and P. J. Plauger in //The Elements of Programming Style.// [4]
+
+Wenn Informatiker sich schon mit den eigenen Werken selbst aussperren, ist an gar keine Möglichkeit zu denken, wie Software für Schaffende aus anderen Bereichen wie Kultur ein nutz- und formbares Werkzeug werden kann, das sie selbstbestimmt und mündig nutzen können. Es braucht also zuerst eine Softwarekultur, die Einfachheit und Eleganz als Stärken versteht. Erst gemessen an den Fähigkeiten der Entwickler, von da aus kann weiter gedacht werden, wie ein Code auch Äußere ein- statt ausschließt. Oder: wie jeder Nutzer auch Entwickler werden kann. 
 
 ----
 The computing scientist’s main challenge is not to get confused by the complexities of his own making.
@@ -67,6 +72,8 @@ One of my most productive days was throwing away 1000 lines of code.
 ----
 
 - Ken Thompson [4]
+
+
 
 [1] http://citizen-ex.com/stories/io
 [2] http://core.suckless.org/sinit
