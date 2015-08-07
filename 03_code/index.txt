@@ -36,9 +36,9 @@ We strive to maintain minimalism and clarity to drive development to completion.
 
 ----
 With complex code, problems are solved in suboptimal ways, valuable resources are endlessly tied up, performance slows to a halt, and vulnerabilities become a commonplace. The only solution is to scrap the entire project and rewrite it from scratch.
-
+ 
 The bad news: quality rewrites rarely happen, because hackers are proud of large amounts of code. They think they understand the complexity in the code, thus there’s no need to rewrite it. They think of themselves as masterminds, understanding what others can never hope to grasp. To these types, complex software is the ideal.
-
+ 
 Ingenious ideas are simple. Ingenious software is simple. Simplicity is the heart of the Unix philosophy. The more code lines you have removed, the more progress you have made. As the number of lines of code in your software shrinks, the more skilled you have become and the less your software sucks.
 ----
 
@@ -48,25 +48,25 @@ Ingenious ideas are simple. Ingenious software is simple. Simplicity is the hear
 Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 ----
 
-— Brian W. Kernighan and P. J. Plauger in //The Elements of Programming Style.//; cat-v.org [4]
+- Brian W. Kernighan and P. J. Plauger in //The Elements of Programming Style.//; cat-v.org [4]
 
 ----
 The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 ----
 
-— E. W. Dijkstra; cat-v.org [4]
+- E. W. Dijkstra; cat-v.org [4]
 
 ----
 Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defence against complexity.
 ----
 
-— David Gelernter; cat-v.org [4]
+- David Gelernter; cat-v.org [4]
 
 ----
 One of my most productive days was throwing away 1000 lines of code.
 ----
 
-— Ken Thompson; cat-v.org [4]
+- Ken Thompson; cat-v.org [4]
 
 [1] http://citizen-ex.com/stories/io
 [2] http://core.suckless.org/sinit
