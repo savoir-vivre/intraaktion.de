@@ -8,7 +8,7 @@ Möglichkeiten und Motivationen des uns bekannten digitalen Zeitalters sind vorw
 The undersea cables and satellite dishes which carry today’s bits and bytes still trace the old ship routes of national empires. [...] The network is neither good, nor bad, and never neutral; instead, the repetition of national politics in virtual space reminds us that our digital lives take place in the context of history and society, subject to the same powers and pressures as our physical lives.
 ----
 
-[1]
+- citizen-ex.com/stories/io [1]
 
 Wenn wir der Frage nachgehen wollen, wieso sich Technologie und Kultur (und andere Bereiche) aneinander reiben und gegenseitig aussperren, müssen wir diese Reibungspunkte ausmachen und zuordnen. Dafür müssen wir aber wissen, welche Eigenschaften der uns heutigen Technologien genuin eigene sind, welche vielleicht nur wegen überbordender Einflüsse aus anderen Bereichen da sind, und welche vielleicht noch zu wenig in Erscheinung treten konnten, um im Wechselspiel mit anderen Bereichen bewusst zu werden. Machen wir das nicht, schießen wir bei unseren Bemühungen auf zu viele Strohpuppen, die gar nicht mit Technologie selbst zu tun haben und stolpern an wertvollen Chancen und Begegnungsfeldern vorbei, die wir woanders vielleicht nicht finden werden. 
 
@@ -20,18 +20,56 @@ Wenn wir Glück haben, finden wir Technologien, die aus Bewusstsein über sich s
 The network can be occupied, controlled, forbidden and attacked in just the same way as any other territory. But unlike other territories, its nature is to reveal its workings to the curious enquirer, to state its nature, and make itself amenable to investigation and change. What was not visible is written down, if we understand how to read it. By following the network, it’s possible to illuminate other narratives of history and politics, ones which have not been seen and told so clearly before, and may point the way to other futures. [...] As we build new worlds with our technologies, knitted from fiber-optic light and lines of code, it is incumbent on us to ensure it does not reproduce the erasures and abuses of the old, but properly accounts for the rights and liberties of every one of us.
 ----
 
-[1]
+- citizen-ex.com [1]
 
 Bei dieser Suche kommt unter aktuellen Technologien Software viel eher in Erwägung als Hardware, da bei ihr durch die ausgeprägte Landschaft an Open-Source-Projekten ein offener Einblick, Partizipation und Eigeninitiative viel leichter möglich ist. 
 
-:: Softwareentwicklung als utopisches Performativ. Beispiele.
+:: Softwareentwicklung als utopisches Performativ: Beispiele
 
 ----
 sinit is considered complete and no further development is expected to happen.
 ----
 
-[2]
+----
+We strive to maintain minimalism and clarity to drive development to completion.
+----
 
+----
+With complex code, problems are solved in suboptimal ways, valuable resources are endlessly tied up, performance slows to a halt, and vulnerabilities become a commonplace. The only solution is to scrap the entire project and rewrite it from scratch.
+
+The bad news: quality rewrites rarely happen, because hackers are proud of large amounts of code. They think they understand the complexity in the code, thus there’s no need to rewrite it. They think of themselves as masterminds, understanding what others can never hope to grasp. To these types, complex software is the ideal.
+
+Ingenious ideas are simple. Ingenious software is simple. Simplicity is the heart of the Unix philosophy. The more code lines you have removed, the more progress you have made. As the number of lines of code in your software shrinks, the more skilled you have become and the less your software sucks.
+----
+
+- suckless.org [2] [3]
+
+----
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+----
+
+— Brian W. Kernighan and P. J. Plauger in //The Elements of Programming Style.//; cat-v.org [4]
+
+----
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+----
+
+— E. W. Dijkstra; cat-v.org [4]
+
+----
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defence against complexity.
+----
+
+— David Gelernter; cat-v.org [4]
+
+----
+One of my most productive days was throwing away 1000 lines of code.
+----
+
+— Ken Thompson; cat-v.org [4]
 
 [1] http://citizen-ex.com/stories/io
 [2] http://core.suckless.org/sinit
+[3] http://suckless.org/philosophy
+[4] http://quotes.cat-v.org/programming/
+q
