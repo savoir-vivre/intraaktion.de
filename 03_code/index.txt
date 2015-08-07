@@ -4,9 +4,9 @@
 
 Möglichkeiten und Motivationen des uns bekannten digitalen Zeitalters sind vorwiegend geprägt von alten Dogmen. Die jetzige Form von Technologie und ihrer Nutzung ist nicht die einzig mögliche, sondern die eine, die sich bisher am besten in diejenigen alten Strukturen einschmiegen konnte, die ihre anderen Möglichkeiten noch nicht kannte und oft auch noch nicht kennen konnte. Das ist ein Problem. 
 
-____
+----
 The undersea cables and satellite dishes which carry today’s bits and bytes still trace the old ship routes of national empires. [...] The network is neither good, nor bad, and never neutral; instead, the repetition of national politics in virtual space reminds us that our digital lives take place in the context of history and society, subject to the same powers and pressures as our physical lives.
-____
+----
 
 [1]
 
@@ -16,9 +16,9 @@ Bevor wir also blind jetzige Mainstream-Dogmen der IT-Landschaft als Schablonen 
 Wenn wir Pech haben, finden wir nur Technologien, die zum Zwecke ihrer /Ausnutzung/ für andere Bereiche geschaffen wurden, welche oft kein Verständnis der Technologie mit sich bringen und vor allem keine Motivation, die Technologie als Selbstzweck selbstbestimmt gedeihen zu lassen. Dann wird es ein schwieriges Unterfangen die notwendigen Eigenschaften einer Technologie von denen zu Trennen, die nur aufgrund der gegebenen Umstände der Bereiche da sind, die die Technologie ausnutzen. 
 Wenn wir Glück haben, finden wir Technologien, die aus Bewusstsein über sich selbst und ihren langfristigen Folgen und Bedürfnissen, die sie für ihre Macher befriedigen, entstanden ist. Im Idealfall ist sie im Selbstverständnis schon losgelöst von Diktaten rein ausnutzender Bereiche und ist autark. Sie ist sich den Problemen ihres eigenen Handwerks bewusst und vermeidet und löst diese strukturell ohne Rücksicht auf andere Bereiche. Dann ist sie selbsttragend und hat eine abschließende Entwicklung als Ziel vor Augen. Egal ob die abschließende Implementierung schon erreicht ist oder noch nicht, ein Funktionsumfang und Design ist schon prototypisiert und kann bewertet werden, anstatt offen gelassen zu werden und einfach auf Diktate von außen zu warten, um von ihnen immer wieder neu bestimmt zu werden und darin den Existenz- und Arbeitssinn zu suchen. Eine solche Technologie müsste am ehesten alle notwendigen Eigenschaften einer progressiven Technologie ausgebildet und gleichzeitig optionale Eigenschaften und Probleme, die sich aus Bedürfnissen anderer Bereiche ergaben, ausgeklammert haben. Sie stellt daher den geeignetsten Ausgangspunkt einer Betrachtung in unserem Sinne dar. 
 
-____
+----
 The network can be occupied, controlled, forbidden and attacked in just the same way as any other territory. But unlike other territories, its nature is to reveal its workings to the curious enquirer, to state its nature, and make itself amenable to investigation and change. What was not visible is written down, if we understand how to read it. By following the network, it’s possible to illuminate other narratives of history and politics, ones which have not been seen and told so clearly before, and may point the way to other futures. [...] As we build new worlds with our technologies, knitted from fiber-optic light and lines of code, it is incumbent on us to ensure it does not reproduce the erasures and abuses of the old, but properly accounts for the rights and liberties of every one of us.
-____
+----
 
 [1]
 
@@ -26,9 +26,9 @@ Bei dieser Suche kommt unter aktuellen Technologien Software viel eher in Erwäg
 
 :: Softwareentwicklung als utopisches Performativ. Beispiele.
 
-____
+----
 sinit is considered complete and no further development is expected to happen.
-____
+----
 
 [2]
 
