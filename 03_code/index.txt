@@ -10,11 +10,29 @@ The undersea cables and satellite dishes which carry today’s bits and bytes st
 
 - citizen-ex.com/stories/io [1]
 
+----
+Computers make it easier to do a lot of things, but most of the things they make it easier to do don’t need to be done.
+----
+
+- Andy Rooney
+
 Wenn wir der Frage nachgehen wollen, wieso sich Technologie und Kultur (und andere Bereiche) aneinander reiben und gegenseitig aussperren, müssen wir diese Reibungspunkte ausmachen und zuordnen. Dafür müssen wir aber wissen, welche Eigenschaften der uns heutigen Technologien genuin eigene sind, welche vielleicht nur wegen überbordender Einflüsse aus anderen Bereichen da sind, und welche vielleicht noch zu wenig in Erscheinung treten konnten, um im Wechselspiel mit anderen Bereichen bewusst zu werden. Machen wir das nicht, schießen wir bei unseren Bemühungen auf zu viele Strohpuppen, die gar nicht mit Technologie selbst zu tun haben und stolpern an wertvollen Chancen und Begegnungsfeldern vorbei, die wir woanders vielleicht nicht finden werden. 
+
+----
+That’s the thing about people who think they hate computers. What they really hate is lousy programmers.
+----
+
+- Larry Niven and Jerry Pournelle Oath of Fealty
 
 Bevor wir also blind jetzige Mainstream-Dogmen der IT-Landschaft als Schablonen für eine Hochzeit von Kultur und Technologie benutzen, sollten wir erst danach suchen, welche Umgangsformen mit Technologie sich noch gebildet haben und welche davon am ehesten einer inneren reflektierten Logik ihrer nativen Gegebenheiten folgen. 
 Wenn wir Pech haben, finden wir nur Technologien, die zum Zwecke ihrer /Ausnutzung/ für andere Bereiche geschaffen wurden, welche oft kein Verständnis der Technologie mit sich bringen und vor allem keine Motivation, die Technologie als Selbstzweck selbstbestimmt gedeihen zu lassen. Dann wird es ein schwieriges Unterfangen die notwendigen Eigenschaften einer Technologie von denen zu Trennen, die nur aufgrund der gegebenen Umstände der Bereiche da sind, die die Technologie ausnutzen. 
 Wenn wir Glück haben, finden wir Technologien, die aus Bewusstsein über sich selbst und ihren langfristigen Folgen und Bedürfnissen, die sie für ihre Macher_innen befriedigen, entstanden ist. Im Idealfall ist sie im Selbstverständnis schon losgelöst von Diktaten rein ausnutzender Bereiche und ist autark. Sie ist sich den Problemen ihres eigenen Handwerks bewusst und vermeidet und löst diese strukturell ohne Rücksicht auf andere Bereiche. Dann ist sie selbsttragend und hat eine abschließende Entwicklung als Ziel vor Augen. Egal ob die abschließende Implementierung schon erreicht ist oder noch nicht, ein Funktionsumfang und Design ist schon prototypisiert und kann bewertet werden, anstatt offen gelassen zu werden und einfach auf Diktate von außen zu warten, um von ihnen immer wieder neu bestimmt zu werden und darin den Existenz- und Arbeitssinn zu suchen. Eine solche Technologie müsste am ehesten alle notwendigen Eigenschaften einer progressiven Technologie ausgebildet und gleichzeitig optionale Eigenschaften und Probleme, die sich aus Bedürfnissen anderer Bereiche ergaben, ausgeklammert haben. Sie stellt daher den geeignetsten Ausgangspunkt einer Betrachtung in unserem Sinne dar. 
+
+----
+The ability to simplify means to eliminate the unnecessary so that the necessary may speak.
+----
+
+- Hans Hoffmanna
 
 ----
 The network can be occupied, controlled, forbidden and attacked in just the same way as any other territory. But unlike other territories, its nature is to reveal its workings to the curious enquirer, to state its nature, and make itself amenable to investigation and change. What was not visible is written down, if we understand how to read it. By following the network, it’s possible to illuminate other narratives of history and politics, ones which have not been seen and told so clearly before, and may point the way to other futures. [...] As we build new worlds with our technologies, knitted from fiber-optic light and lines of code, it is incumbent on us to ensure it does not reproduce the erasures and abuses of the old, but properly accounts for the rights and liberties of every one of us.
@@ -48,38 +66,50 @@ Code, der möglichst kurz und simpel gehalten ist, sogar einen fertigen Status e
 Wurde der Horizont der Komplexität erreicht, dass auch die Originalautor_innen nicht mehr dahinter blicken können? Fangen wir von vorne an, neues Projekt, neuer Code, neue Sprache, auf einer Basis, die inzwischen auch komplexer wurde. Es ist immer genug Arbeit da in einem perpetuum mobile der IT.
 
 ----
+The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+----
+
+- Henry Petroski
+
+----
 Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 ----
 
-- Brian W. Kernighan and P. J. Plauger in //The Elements of Programming Style.// [4]
+- Brian W. Kernighan and P. J. Plauger in //The Elements of Programming Style.//
 
 Wenn Informatiker_innen sich schon mit den eigenen Werken selbst aussperren, ist an gar keine Möglichkeit zu denken, wie Software für Schaffende aus anderen Bereichen wie Kultur ein nutz- und formbares Werkzeug werden kann, das sie selbstbestimmt und mündig nutzen können. Es braucht also zuerst eine Softwarekultur, die Einfachheit und Eleganz als Stärken versteht. Erst gemessen an den Fähigkeiten der Entwickler_innen, von da aus kann weiter gedacht werden, wie ein Code auch Äußere ein- statt ausschließt. Oder: wie jede_r Nutzer_in auch Entwickler_in werden kann. 
+
+----
+Software sucks because users demand it to.
+----
+
+- Nathan Myhrvold
 
 ----
 The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 ----
 
-- E. W. Dijkstra [4]
+- E. W. Dijkstra
 
 ----
 Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defence against complexity.
 ----
 
-- David Gelernter [4]
+- David Gelernter
 
 ----
 When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
 ----
 
-- R. Buckminster Fuller [4]
+- R. Buckminster Fuller
 
 ----
 One of my most productive days was throwing away 1000 lines of code.
 ----
 
-- Ken Thompson [4]
+- Ken Thompson
 
-
+Zitate ohne Fußnoten von cat-v.org [4]
 
 [1] http://citizen-ex.com/stories/io
 [2] http://core.suckless.org/sinit
