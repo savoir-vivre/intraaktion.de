@@ -334,10 +334,10 @@ falsch beurteilen, weil wir uns nicht genügend den Wirkungsweisen bewusst sind,
 denen wir selber unterliegen.
 
 "To have a concept is to be able to make judgments. Judgments are made for
-/reasons/,
-and they aim at the
-/truth/.
-To understand truth, you must grasp (however implicitly) the
+/reasons/
+, and they aim at the
+/truth/
+. To understand truth, you must grasp (however implicitly) the
 /laws of truth/
 (i.e., logic), and you must grasp the distinction between how things really are and
 how they merely seem to be."
