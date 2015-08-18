@@ -94,8 +94,14 @@ Letzteres muss nicht heißen, dass dann allen die Bürde des Programmierens aufe
 sein müsste, damit jene, die es
 *wollen*
 oder gelegentlich
-*müssten*
-, überhaupt eine Chance dazu haben, Software in ihrem Sinne zu verändern. 
+*müssten,*
+überhaupt eine Chance dazu haben, Software in ihrem Sinne zu verändern. 
+
+----
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+----
+
+- E. W. Dijkstra
 
 Andernfalls bleiben wir beim status quo: 
 Software bleibt ein starres Werkzeug für denjenigen, die sie nicht verstehen und umgestalten können. Code eines Dritten gibt Möglichkeitsräume Schaffender aus anderen Bereichen schon vor. Alles, was sie auf diese Basis aufbauen, bleibt teilweise Ergebnis einer Unmündigkeit und eines Nicht-Verstehens über etwas, was eine Softwareindustrie ausgespuckt hat, um Gewinn mit den Vorstellungen Dritter aus einer prädigitalen Zeit zu erwirtschaften. 
@@ -103,11 +109,6 @@ Entwickler_innen bleiben eine Kaste von Dienstleister_innen zur Erstellung von C
 
 Um ein echtes digitales Zeitalter einzuläuten und konsequent mit seinen Möglichkeiten umzugehen, müssen die Grenzen zwischen Nutzendem und Schaffendem von Technologie also langfristig verschwimmen.
 
-----
-The computing scientist’s main challenge is not to get confused by the complexities of his own making.
-----
-
-- E. W. Dijkstra
 
 ----
 Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defence against complexity.
