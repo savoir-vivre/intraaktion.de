@@ -22,7 +22,8 @@ Wenn wir der Frage nachgehen wollen, wieso sich Technologie und Kultur (und ande
 That’s the thing about people who think they hate computers. What they really hate is lousy programmers.
 ----
 
-- Larry Niven and Jerry Pournelle Oath of Fealty
+- Larry Niven und Jerry Pournelle in
+/Oath of Fealty/
 
 :: progressive und emanzipierte Technologie
 
@@ -85,7 +86,7 @@ The most amazing achievement of the computer software industry is its continuing
 Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 ----
 
-- Brian W. Kernighan and P. J. Plauger in
+- Brian W. Kernighan und P. J. Plauger in
 /The Elements of Programming Style./
 
 Wenn Informatiker_innen sich schon mit den eigenen Werken selbst aussperren, ist an gar keine Möglichkeit zu denken, wie Software für Schaffende aus anderen Bereichen wie Kultur ein nutz- und formbares Werkzeug werden kann, das sie selbstbestimmt und mündig nutzen können. Es braucht also zuerst eine Softwarekultur, die Einfachheit und Eleganz als Stärken versteht. Es wäre ein Fortschritt und auch schon ein großer Unterschied zur heutigen Situation, wenn diese beiden Größen zunächst an den Fähigkeiten von Entwickler_innen gemessen werden. Von da aus kann das utopische Ziel in Angriff genommen werden, dass ein Code auch Äußere ein- statt ausschließt. Oder: dass jede_r Nutzer_in auch Entwickler_in werden kann. 
