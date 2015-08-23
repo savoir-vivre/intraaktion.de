@@ -2,7 +2,7 @@
 
 :: An welche technologische Realität wollen wir anknüpfen?
 
-Möglichkeiten und Motivationen des uns bekannten digitalen Zeitalters sind vorwiegend geprägt von alten Dogmen. Die jetzige Form von Technologie und ihrer Nutzung ist nicht die einzig mögliche, sondern die eine, welche sich bisher am besten in diejenigen alten Strukturen einschmiegen konnte, die ihre anderen Möglichkeiten noch nicht kannte und oft auch noch nicht kennen konnte. Das ist ein Problem. 
+Möglichkeiten und Motivationen des digitalen Zeitalters sind vorwiegend geprägt von alten Dogmen. Die jetzige Form von Technologie und ihrer Nutzung ist nicht die einzig mögliche, sondern nur die eine, welche sich auf Basis von Strukturen entwickelt hat, deren idiosynkratische Probleme durch eben diese Technik überwunden werden könnte. 
 
 ----
 The undersea cables and satellite dishes which carry today’s bits and bytes still trace the old ship routes of national empires. [...] The network is neither good, nor bad, and never neutral; instead, the repetition of national politics in virtual space reminds us that our digital lives take place in the context of history and society, subject to the same powers and pressures as our physical lives.
@@ -16,7 +16,7 @@ Computers make it easier to do a lot of things, but most of the things they make
 
 - Andy Rooney
 
-Wenn wir der Frage nachgehen wollen, wieso sich Technologie und Kultur (und andere Bereiche) aneinander reiben und gegenseitig aussperren, müssen wir diese Reibungspunkte ausmachen und zuordnen. Dafür müssen wir aber wissen, welche Eigenschaften der uns heutigen Technologien genuin eigene sind, welche vielleicht nur wegen überbordender Einflüsse aus anderen Bereichen da sind, und welche vielleicht noch zu wenig in Erscheinung treten konnten, um im Wechselspiel mit anderen Bereichen bewusst zu werden. Machen wir das nicht, schießen wir bei unseren Bemühungen auf zu viele Strohpuppen, die gar nicht mit Technologie selbst zu tun haben und stolpern an wertvollen Chancen und Begegnungsfeldern vorbei, die wir woanders vielleicht nicht finden werden. 
+Wenn wir der Frage nachgehen wollen, wieso sich Technologie und Kultur (und andere Bereiche) aneinander reiben und gegenseitig aussperren, müssen wir diese Reibungspunkte ausmachen und zuordnen. Vorraussetzung dafür ist das Wissen um genuin eignene Eigenschaften aktueller Technologie. Dies bezieht sich auch und vielleicht gerade auf Eigenschaften welche bisher noch nicht oder sehr selten in Erscheinung getreten sind. Machen wir das nicht, schießen wir bei unseren Bemühungen auf zu viele Strohpuppen, die gar nicht mit Technologie selbst zu tun haben und stolpern an wertvollen Chancen und Begegnungsfeldern vorbei, die wir woanders vielleicht nicht finden werden. 
 
 ----
 That’s the thing about people who think they hate computers. What they really hate is lousy programmers.
