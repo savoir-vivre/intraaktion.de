@@ -6,7 +6,7 @@ Möglichkeiten und Motivationen des digitalen Zeitalters sind vorwiegend
 geprägt von alten Dogmen. Die jetzige Form von Technologie und ihrer
 Nutzung ist nicht die einzig mögliche, sondern nur die eine, welche sich
 auf Basis von Strukturen entwickelt hat, deren idiosynkratische Probleme
-durch eben diese Technik überwunden werden könnte.
+durch eben diese Technik überwunden werden könnten.
 
 ----
 The undersea cables and satellite dishes which carry today’s bits and bytes still trace the old ship routes of national empires. [...] The network is neither good, nor bad, and never neutral; instead, the repetition of national politics in virtual space reminds us that our digital lives take place in the context of history and society, subject to the same powers and pressures as our physical lives.
