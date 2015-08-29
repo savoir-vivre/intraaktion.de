@@ -178,7 +178,7 @@ The computing scientist’s main challenge is not to get confused by the complex
 - E. W. Dijkstra
 
 
-Zur Zeit ist es meistens so:
+Zur Zeit ist es meistens so: 
 Software ist ein starres Werkzeug für denjenigen, die sie nicht
 verstehen und umgestalten können. Code eines Dritten gibt
 Möglichkeitsräume für Schaffende aus anderen Bereichen schon vor.
