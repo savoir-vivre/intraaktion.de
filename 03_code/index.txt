@@ -2,11 +2,13 @@
 
 :: An welche technologische Realität wollen wir anknüpfen?
 
-Möglichkeiten und Motivationen des digitalen Zeitalters sind vorwiegend
+Möglichkeiten und Motivationen des digitalen Zeitalters
+- jedenfalls wie es die meisten kennen - sind vorwiegend
 geprägt von alten Dogmen. Die jetzige Form von Technologie und ihrer
-Nutzung ist nicht die einzig mögliche, sondern nur die eine, welche sich
-auf Basis von Strukturen entwickelt hat, deren idiosynkratischen Probleme
-durch eben diese Technik überwunden werden könnten.
+Nutzung ist nicht die einzig mögliche, sondern die eine, welche sich
+bisher am besten in alten Strukturen einschmiegen konnte,
+die aber ihre anderen Möglichkeiten noch nicht kannte und oft auch noch
+nicht kennen konnte.
 
 ----
 The undersea cables and satellite dishes which carry today’s bits and bytes still trace the old ship routes of national empires. [...] The network is neither good, nor bad, and never neutral; instead, the repetition of national politics in virtual space reminds us that our digital lives take place in the context of history and society, subject to the same powers and pressures as our physical lives.
@@ -22,11 +24,15 @@ Computers make it easier to do a lot of things, but most of the things they make
 
 Wenn wir der Frage nachgehen wollen, wieso sich Technologie und Kultur
 (und andere Bereiche) aneinander reiben und gegenseitig aussperren,
-müssen wir diese Reibungspunkte ausmachen und zuordnen. Vorraussetzung
+müssen wir diese Reibungspunkte ausmachen und zuordnen. Voraussetzung
 dafür ist das Wissen um genuin eigene Eigenschaften aktueller
-Technologie. Dies bezieht sich auch und vielleicht gerade auf
-Eigenschaften welche bisher noch nicht oder sehr selten in Erscheinung
-getreten sind. Machen wir das nicht, schießen wir bei unseren Bemühungen
+Technologie. Welche Eigenschaften hat sie, weil es anders nicht möglich
+ist? Welche, weil sie für die Schaffenden sinnvoll sind? Welche nur
+deshalb, um vermeintliche Erwartungen Dritter zu erfüllen, die vielleicht
+nur wenig über Technologie wissen? Welchen möglichen Eigenschaften wurde
+bisher noch nicht genug Raum zur Erprobung eingeräumt und welche werden
+fälschlicherweise als Dogma gehandelt? Hinterfragen wir Technologie auf
+diese Weise nicht, schießen wir bei unseren Bemühungen
 auf zu viele Strohpuppen, die gar nicht mit Technologie selbst zu tun
 haben und stolpern an wertvollen Chancen und Begegnungsfeldern vorbei,
 die wir woanders vielleicht nicht finden werden.
@@ -50,7 +56,10 @@ Bevor wir also blind jetzige Mainstream-Dogmen der IT-Landschaft als
 Schablonen für eine Hochzeit von Kultur und Technologie benutzen,
 sollten wir erst danach suchen, welche Umgangsformen mit Technologie
 sich noch gebildet haben und welche davon am ehesten einer inneren
-reflektierten Logik ihrer nativen Gegebenheiten folgen.
+reflektierten Logik ihrer nativen Gegebenheiten folgen. Sonst kopieren
+und reproduzieren wir mit unseren Bemühungen unwissend beliebige alte
+Denkmuster, die sich auch in aktuelle Technologien eingeschlichen haben,
+aber die wir eigentlich überwinden wollen:
 Wenn wir Pech haben, finden wir nur Technologien, die zum Zwecke ihrer
 /Ausnutzung/
 für andere Bereiche geschaffen wurden, welche oft kein Verständnis der
@@ -58,24 +67,24 @@ Technologie mit sich bringen und vor allem keine Motivation, die
 Technologie als Selbstzweck selbstbestimmt gedeihen zu lassen. Dann wird
 es ein schwieriges Unterfangen die notwendigen Eigenschaften einer
 Technologie von denen zu Trennen, die nur aufgrund der gegebenen
-Umstände der Bereiche da sind, die die Technologie ausnutzen.
+Umstände der Bereiche da sind, die die Technologie ausnutzen. 
 Wenn wir Glück haben, finden wir Technologien, die aus Bewusstsein über
 sich selbst und ihren langfristigen Folgen und Bedürfnissen, die sie für
-ihre Macher_innen befriedigen, entstanden ist. Im Idealfall ist sie im
+ihre Macher_innen befriedigen, entstanden sind. Im Idealfall sind sie im
 Selbstverständnis schon losgelöst von Diktaten rein ausnutzender
-Bereiche und ist autark. Sie ist sich den Problemen ihres eigenen
-Handwerks bewusst und vermeidet und löst diese strukturell ohne
-Rücksicht auf andere Bereiche. Dann ist sie selbsttragend und hat eine
+Bereiche und autark. Sie sind sich den Problemen ihres eigenen
+Handwerks bewusst und vermeiden und lösen diese strukturell ohne
+Rücksicht auf andere Bereiche. Dann sind sie selbsttragend und haben eine
 abschließende Entwicklung als Ziel vor Augen. Egal ob die abschließende
 Implementierung schon erreicht ist oder noch nicht, ein Funktionsumfang
 und Design ist schon prototypisiert und kann bewertet werden, anstatt
 offen gelassen zu werden und einfach auf Diktate von außen zu warten, um
 von ihnen immer wieder neu bestimmt zu werden und darin den Existenz-
-und Arbeitssinn zu suchen. Eine solche Technologie müsste am ehesten
+und Arbeitssinn zu suchen. Solche Technologien müssten am ehesten
 alle notwendigen Eigenschaften einer progressiven Technologie
 ausgebildet und gleichzeitig optionale Eigenschaften und Probleme, die
 sich aus Bedürfnissen anderer Bereiche ergaben, ausgeklammert haben. Sie
-stellt daher den geeignetsten Ausgangspunkt einer Betrachtung in unserem
+stellten daher den geeignetsten Ausgangspunkt einer Betrachtung in unserem
 Sinne dar.
 
 ----
@@ -115,8 +124,19 @@ Ingenious ideas are simple. Ingenious software is simple. Simplicity is the hear
 
 - suckless.org [2] [3]
 
-Code, der möglichst kurz und simpel gehalten ist, sogar einen fertigen Status erreichen soll, statt mindestens wöchentlich ein Update zu erfahren, ist heute regelrecht anachronistisch. Er steigert den Marktwert von Programmierer_innen nicht, die möglichst schnell produzieren sollen, deren Produkte so komplex sind, dass nur sie - die Genies, die sie erschufen - , sie noch verstehen und pflegen können.
-Wurde der Horizont der Komplexität erreicht, dass auch die Originalautor_innen nicht mehr dahinter blicken können? Fangen wir von vorne an, neues Projekt, neuer Code, neue Sprache, auf einer Basis, die inzwischen auch komplexer wurde. Es ist immer genug Arbeit da in einem perpetuum mobile der IT.
+Code, der möglichst kurz und simpel gehalten ist, sogar einen fertigen
+Status erreichen soll, statt mindestens wöchentlich ein Update zu
+erfahren, ist heute regelrecht anachronistisch. Er steigert den
+Marktwert von Programmierer_innen nicht, die möglichst schnell
+produzieren sollen, deren Produkte so komplex sind, dass nur sie - die
+Genies, die sie erschufen - , sie noch verstehen und pflegen können.
+Wurde der Horizont der Komplexität erreicht, dass auch die
+Originalautor_innen nicht mehr dahinter blicken können, wird von neuem
+begonnen. Neues Projekt, neuer Code, neue Sprache, auf einer Basis, die
+inzwischen auch komplexer wurde. In so einem perpetuum mobile ist immer
+genügend Arbeit für Programmierer da und es ist verständlich, wieso diese
+Form von Softwarekultur sich für das Bestreiten eines Lebensunterhalts
+durchgesetzt hat.
 
 ----
 The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
@@ -132,7 +152,7 @@ Debugging is twice as hard as writing the code in the first place. Therefore, if
 /The Elements of Programming Style./
 
 Wenn Informatiker_innen sich schon mit den eigenen Werken selbst
-aussperren, ist an gar keine Möglichkeit zu denken, wie Software für
+aussperren, ist aber an gar keine Möglichkeit zu denken, wie Software für
 Schaffende aus anderen Bereichen wie Kultur ein nutz- und formbares
 Werkzeug werden kann, das sie selbstbestimmt und mündig nutzen können.
 Es braucht also zuerst eine Softwarekultur, die Einfachheit und Eleganz
@@ -157,29 +177,43 @@ The computing scientist’s main challenge is not to get confused by the complex
 
 - E. W. Dijkstra
 
-Andernfalls blieben wir beim status quo:
-Software bliebe ein starres Werkzeug für denjenigen, die sie nicht
-verstehen und umgestalten können. Code eines Dritten gäbe
-Möglichkeitsräume Schaffender aus anderen Bereichen schon vor. Alles,
-was sie auf diese Basis aufbauen, bliebe teilweise Ergebnis einer
+
+Zur Zeit ist es meistens so:
+Software ist ein starres Werkzeug für denjenigen, die sie nicht
+verstehen und umgestalten können. Code eines Dritten gibt
+Möglichkeitsräume für Schaffende aus anderen Bereichen schon vor.
+Alles neue, was sie schaffen wollen, und wo Software ein
+formgebender Faktor ist, wird teilweise Ergebnis einer
 Unmündigkeit und eines Nicht-Verstehens über etwas, was eine
-Softwareindustrie ausgespuckt hat, um Gewinn mit den Vorstellungen
-Dritter aus einer prädigitalen Zeit zu erwirtschaften.
-Entwickler_innen blieben eine Kaste von Dienstleister_innen zur
-Erstellung von Code für Dritte, welche die eigenen Mechaniken von Code
-dann nie verstehen werden, weil der Prozess der Produktion zu den
-Dienstleister_innen ausgelagert und nicht auch nur wenigstens ein Blick
-auf den Code als Teil des Prozesses verstanden wird. In der Rolle der
-reinen Dienstleister_innen verblieben sie unter dem Druck, diese eigenen
-Mechaniken eher unter Abstraktionen zu verbergen, als sie auch in einer
-eigenen Ästhetik auszuarbeiten, um Auftraggeber_innen nicht aus ihren
-Komfortzonen einer prädigitalen Ära zu zwingen. Dabei würden sie
-prädigitale Vorstellungen immer wieder selbst neu reproduzieren.
+Softwareindustrie sich für die vermeintliche Befriedigung eines
+Bedürfnisses erdacht hat, ohne sich dabei aber selbst obsolet zu machen.
+Sie kennen die eigenen inneren Mechaniken des benutzten Codes nicht und
+können deshalb auch nicht ausmachen, welche Alternativen möglich,
+unmöglich, sinnvoll oder unsinnig wären. 
+Entwickler_innen werden dann für die Neu- oder Weiterentwicklung
+engagiert und dabei meist als Kaste reiner Dienstleister_innen angesehen.
+Der innere Entwicklungsprozess wird völlig auf sie ausgelagert.
+Typischerweise werden Auftraggeber_innen nie eine Zeile des Codes sehen,
+vertrauen daher (in gewissem Sinne buchstäblich) blind den
+Entwickler_innen.
+In der Rolle der reinen Dienstleister_innen verbleiben diese aber unter
+dem Druck des Wettbewerbs nach Komfortzonen. Wenn sie als reine
+Dienstleister_innen durch andere austauschbar sind, bleibt wenig Raum,
+um die eigenen Mechaniken des Codes in einer eigenen Logik oder Ästhetik
+auszuarbeiten, die von den Vorstellungen der Auftraggeber_innen abweichen,
+wo es sinnvoll wäre. Deshalb werden die Mechaniken des Codes eher gleich
+unter Abstraktionen verborgen, die diesen Vorstellungen möglichst
+entsprechen. Diese Abstraktionen führen nicht nur ansonsten unnötige
+Komplexität ein und verbergen abermals den direkten Einblick auf die
+Arbeitsweise der Software, sondern sie sind auch die Orte, in denen
+Vorstellungen prädigitaler Zeit in digitale Werkzeuge übersetzt werden,
+statt sich ganz neuen Formen der Aufgabenbewältigung zu widmen. 
+Es ist diese Trennung von Entwickler_innen und Nutzer_innen, die diese
+Abstraktionen aufrecht halten.
 
 Um ein echtes digitales Zeitalter einzuläuten und konsequent mit seinen
 Möglichkeiten umzugehen, müssen die Grenzen zwischen Nutzendem und
 Schaffendem von Technologie also langfristig verschwimmen.
-
 
 ----
 Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defence against complexity.
