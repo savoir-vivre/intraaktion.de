@@ -1,6 +1,6 @@
 : Prototyping: Savoir Vivre I-IV
 
-Zwischen Januar und Mai 2015 untersuchte ein kontinuierlich wachsendes Berliner Kollektiv, bestehend aus Theatermachern, Wissenschaftlern und Medienkünstlern, den Einfluss der Programmierindustrie sowie digitaler Medien auf den Prozess der Individualisierung. In disziplinübergreifenden Recherchephasen, gepaart mit ästhetischem Gestaltungswillen, erschlossen sie sich dabei sowohl digitale Wahrnehmungsmodi und spielten mit ästhetischen Kommunikationsmustern. Ohne die Warenlogik der Kulturindustrie entstanden als eine Art Prototyp, erste digitale sowie ästhetische Verbindungspunkte zwischen Performance, Philosophie und Programmiersprache. 
+Zwischen Januar und Mai 2015 untersuchte ein Berliner Kollektiv, bestehend aus Theatermacher*innen, Wissenschaftler*innen und Medienkünstler*innen, den Einfluss der Programmierindustrie sowie digitaler Medien auf den Prozess der Individualisierung. In disziplinübergreifenden Recherchephasen, gepaart mit ästhetischem Gestaltungswillen, erschlossen sie sich dabei sowohl digitale Wahrnehmungsmodi und spielten mit ästhetischen Kommunikationsmustern. Ohne die Warenlogik der Kulturindustrie entstanden als eine Art Prototyp, erste digitale sowie ästhetische Verbindungspunkte zwischen Performance, Philosophie und Programmiersprache. 
 
 Bisher haben stattgefunden:
 
@@ -65,13 +65,15 @@ In den bisherigen Teilen von Savoir Vivre waren die Besucher aufgefordert ihr Ha
 
 Mitwirkende:
 
+Malin Nagel (*1984 in Hannover) studierte Dramaturgie, Literatur- und Mediewissenschaft in Leipzig und Kiel. Sie arbeitet als Dramaturgin u.a. am Deutschen Theater Berlin und in Mainz. Als konzeptionelle Mitarbeiterin und Regisseurin ist sie an Projekten in der Freien Szene beteiligt.
+
+Daniel Hengst (*1981) studierte Medientechnik in Leipzig und arbeitet seit 2006 als Video- und Medienkünstler in verschiedenen Theaterproduktionen und -formaten in Leipzig, Dortmund, Frankfurt und Berlin.
+
 Elias Oltmanns (*1981) studierte Mathematik in Bonn und Cambridge (UK) und arbeitet seit 2014 als wissenschaftlicher Mitarbeiter im Bereich Langzeitverfügbarkeit digitaler Forschungsergebnisse aus den Geisteswissenschaften in Berlin.
 
 Katharina Halus, (*1986 in Salzburg) studierte Schauspiel an der Otto-Falckenberg-Schule in München. Nach Fest- und Gastengagements in Linz und Karlsruhe, studiert sie seit 2013 in Berlin "Zeitgenössische Puppenspielkunst".
 
 Alexander Hof (*1992) arbeitet seit 2012 als Softwareentwickler im Bereich Netzwerke, Sicherheit und Textverarbeitung und studiert Philosophie und Klassische Philologie in Potsdam und Berlin, wo er auch als Mentor tätig ist.
-
-Daniel Hengst (*1981) studierte Medientechnik in Leipzig und arbeitet seit 2006 als Video- und Medienkünstler in verschiedenen Theaterproduktionen und -formaten in Leipzig, Dortmund, Frankfurt und Berlin.
 
 Valerie Gasse (*1990), in der Spielzeit 11/12 Ausstattungsassistentin am Theater Dortmund und anschließend Kostümassistentin an der Schaubühne am Lehniner Platz, ist seit 2014 freischaffend. Seitdem assistierte sie bei Film/Werbung und arbeitet derzeit an eigenen Projekten.
 
@@ -87,7 +89,7 @@ Katrin Klietsch (*1981), derzeit PhD Candidate der European Urban Studies in Wei
 
 Caspar Schleicher (*1989 in Köln) Diverse Erfahrungen im Kulturbetrieb, u. a. im Verlagswesen, als Veranstalter von Lesungen, Hospitant bei Stefanie Lorey. Aktuell auch tätig als Medienpädagoge.
 
-Malin Nagel (*1984 in Hannover) studierte Dramaturgie, Literatur- und Mediewissenschaft in Leipzig und Kiel. Sie arbeitet als Dramaturgin u.a. am Deutschen Theater Berlin und in Mainz. Als konzeptionelle Mitarbeiterin und Regisseurin ist sie an Projekten in der Freien Szene beteiligt.
+
 
 Savoir Vivre I -IV wurde unterstützt durch die Heinrich-Böll-Stiftung.
 
